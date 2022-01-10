@@ -1,0 +1,69 @@
+{
+  "english": "viral",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc virus",
+          "definition": "relating to or caused by a virus",
+          "world_new": [
+            "virus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a viral infection/disease."
+            }
+          ]
+        },
+        {
+          "mean_english": "lan truyền rất nhanh",
+          "definition": "very popular and spreading very quickly among a large number of people, especially over the Internet",
+          "world_new": [
+            "popular",
+            "quickly",
+            "large",
+            "number",
+            "people",
+            "Internet"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The viral genomic sequences are related, but are very diverse, reflecting their geographic isolation.",
+    "All submitted samples were taken from children (age range 16 days to 7 years, median 9 months) suffering acute diarrhoea of unknown viral aetiology.",
+    "Although symptomatic recurrences are greatly reduced with suppressive therapy, there remains a potential problem of asymptomatic viral shedding.",
+    "On the topic of vaccines and anti-virals, it is indeed true that there are concerns.",
+    "However, the viral antigens used are not usually associated with cancer and their effects are pleiotrophic.",
+    "The biology of viral latency and the viral and host determinants of reactivation h a v e still to be definitively identified.",
+    "All 31 cases provided acute sera, 19 provided convalescent sera and 14 had viral throat/nose swabs taken.",
+    "However, structural studies on virus capsids and coat proteins propose that there are only a limited number of ways to construct a viral protein coat."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "violoncellist",
+    "violoncello",
+    "VIP",
+    "viper",
+    "viral",
+    "virgin",
+    "virginal",
+    "virginity",
+    "Virgo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080325_65ab871123_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080325_0c3955f022_o.png",
+      "id_image": "viral_1999369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080280_723b5e6cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080280_f8cd5b4bf8_o.png",
+      "id_image": "viral_2132656"
+    }
+  ]
+}

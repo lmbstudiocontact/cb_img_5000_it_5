@@ -1,0 +1,60 @@
+{
+  "english": "voucher",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy cam đoan",
+          "definition": "a piece of paper which confirms that a sum of money has been, or will be, paid",
+          "world_new": [
+            "piece",
+            "paper",
+            "sum",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sales voucher."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The increases in educational spending under the targeted voucher plan are not enough to make up for the large losses in the peer group.",
+    "The relevant dynamic equation for households that use private education both before and after the introduction of vouchers is (17).",
+    "The purchase voucher, however, only lasted six months, apparently because it was highly controversial.",
+    "The model abstracted from the issues of between-school competition and peer effects, important factors in the voucher debate.",
+    "The deposition of voucher specimens should be considered where appropriate.",
+    "Therefore, as rises, voucher policies are more costly for those who remain in the public school.",
+    "Private-education vouchers generated increased economic growth through a fiscal spillover.",
+    "The voucher scheme regulations only oblige the homes to offer ' suitable services ' as well as occupational, rehabilitation and leisure activities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vote of confidence",
+    "vote of thanks",
+    "voter",
+    "vouch",
+    "voucher",
+    "vow",
+    "vowel",
+    "voyage",
+    "voyager"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695304_64172144a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695304_c20f892da7_o.png",
+      "id_image": "voucher_2037349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454908_1cbc386d16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454908_85d8783b8d_o.png",
+      "id_image": "voucher_4982304"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "university",
+  "phat_am": "juːniˈvəːsəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trường đại học",
+          "definition": "(the buildings or colleges of) a centre/center of advanced education and research, that has the power to grant degrees",
+          "world_new": [
+            "advanced",
+            "education",
+            "research",
+            "power",
+            "grant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll have four years at university after he leaves school",
+              "world_new": [
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a university student.",
+              "world_new": [
+                "student"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They visited the laboratory in a university psychology department, along with their children, who took part in another, unrelated study.",
+    "Thanks to universities' dual function as teaching and researching institutions, a powerful impact is exerted by the language of academic publication.",
+    "The same is frequently true of encountering an individual you learn attended the same college or university as you.",
+    "The university's participants occasionally suggested that the creation of an international university in the liberal mode was not their ultimate goal.",
+    "The preface tells us that the book is intended to back up a second-year university course, presumably in stratigraphy as defined by the author.",
+    "It is worth bearing in mind, however, that their subjects were university students.",
+    "A university of 20 000 students based on this infrastructure could provide new forms of employment and access to badly needed housing to modern standards.",
+    "What do you think is the role of a statistics department in a business school as opposed to a statistics department elsewhere in the university?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "universal",
+    "universality",
+    "universally",
+    "universe",
+    "university",
+    "unjust",
+    "unkind",
+    "unknowingly",
+    "unknown"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707164_5de3a02692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707164_b539515efc_o.png",
+      "id_image": "university_4459470"
+    }
+  ]
+}

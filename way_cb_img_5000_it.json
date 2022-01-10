@@ -1,0 +1,295 @@
+{
+  "english": "way",
+  "phat_am": "wei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường đi",
+          "definition": "an opening or passageway",
+          "world_new": [
+            "opening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the way in/out"
+            },
+            {
+              "ex_of_definition": "There’s no way through."
+            }
+          ]
+        },
+        {
+          "mean_english": "đường đi",
+          "definition": "a route, direction etc",
+          "world_new": [
+            "route",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which way shall we go?"
+            },
+            {
+              "ex_of_definition": "Which is the way to Princes Street?"
+            },
+            {
+              "ex_of_definition": "His house is on the way from here to the school",
+              "world_new": [
+                "house",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you be able to find your/the way to my house?",
+              "world_new": [
+                "find",
+                "my",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Your house is on my way home",
+              "world_new": [
+                "house",
+                "my",
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "The errand took me out of my way",
+              "world_new": [
+                "errand",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "a motorway.",
+              "world_new": [
+                "motorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường cụ thể",
+          "definition": "used in the names of roads",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His address is 21 Melville Way.",
+              "world_new": [
+                "address"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng cách",
+          "definition": "a distance",
+          "world_new": [
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s a long way to the school",
+              "world_new": [
+                "long",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "The nearest shops are only a short way away.",
+              "world_new": [
+                "short"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách",
+          "definition": "a method or manner",
+          "world_new": [
+            "method",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the best way to make an omelette?",
+              "world_new": [
+                "best",
+                "omelette"
+              ]
+            },
+            {
+              "ex_of_definition": "I know a good way of doing it",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s got a funny way of talking",
+              "world_new": [
+                "funny"
+              ]
+            },
+            {
+              "ex_of_definition": "This is the quickest way to chop onions.",
+              "world_new": [
+                "chop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mức độ",
+          "definition": "an aspect or side of something",
+          "world_new": [
+            "aspect",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In some ways this job is quite difficult",
+              "world_new": [
+                "job",
+                "quite",
+                "difficult"
+              ]
+            },
+            {
+              "ex_of_definition": "In a way I feel sorry for him.",
+              "world_new": [
+                "I",
+                "feel",
+                "sorry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thói quen",
+          "definition": "a characteristic of behaviour; a habit",
+          "world_new": [
+            "characteristic",
+            "habit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has some rather unpleasant ways.",
+              "world_new": [
+                "rather",
+                "unpleasant"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "len qua",
+          "definition": "used with many verbs to give the idea of progressing or moving",
+          "world_new": [
+            "idea",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pushed his way through the crowd",
+              "world_new": [
+                "crowd"
+              ]
+            },
+            {
+              "ex_of_definition": "They soon ate their way through the food.",
+              "world_new": [
+                "soon",
+                "their",
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xa",
+          "definition": "by a long distance or time; far",
+          "world_new": [
+            "long",
+            "distance",
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The winner finished the race way ahead of the other competitors",
+              "world_new": [
+                "winner",
+                "finished",
+                "race",
+                "ahead"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s way past your bedtime.",
+              "world_new": [
+                "your",
+                "bedtime"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wayfarer",
+    "wayside",
+    "be/get on one’s way",
+    "by the way",
+    "fall by the wayside",
+    "get/have one’s own way",
+    "get into / out of the way of (doing) something",
+    "go out of one’s way",
+    "have a way with",
+    "have it one’s own way",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "waxed",
+    "waxen",
+    "waxwork",
+    "waxworks",
+    "way",
+    "way of life",
+    "wayfarer",
+    "waylay",
+    "ways and means"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450008_1108772823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450008_2b3b727559_o.png",
+      "id_image": "way_5930364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334871_0298479a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334871_ed5779d08f_o.png",
+      "id_image": "way_5956734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334926_011237b653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334926_a15eda3dfc_o.png",
+      "id_image": "way_661923"
+    }
+  ]
+}

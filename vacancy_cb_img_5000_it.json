@@ -1,0 +1,86 @@
+{
+  "english": "vacancy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ khuyết",
+          "definition": "an unoccupied post",
+          "world_new": [
+            "unoccupied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a vacancy for a typist.",
+              "world_new": [
+                "typist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng lơ đãng",
+          "definition": "the condition of being vacant; emptiness",
+          "world_new": [
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The vacancy of his expression made me doubt if he was listening.",
+              "world_new": [
+                "expression",
+                "doubt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The standard approach to allocations among social landlords is also fundamentally bureaucratic in the way that applicants are matched with vacancies.",
+    "Members are invited to make or support nominations for these vacancies.",
+    "In this case, the compressive residual stresses vanish and the concentration of vacancies noticeably decreases, suggesting that pulsed annealing of defects has occurred.",
+    "Thus, although they may be offering vacancies, employers will not recruit any person from the unemployment register.",
+    "The matching function is given by m(u, v), where u denotes unemployment and v denotes vacancies.",
+    "They suggest a strong correlation between the distribution of vacancies when compared with that of whole time equivalent posts.",
+    "What does one do with vacancies, when one is new, untried and conscious of one's debt to one's campaigners?",
+    "To ensure this, efforts to fill the last remaining vacancies are bound to continue right up to the beginning of the autumn term."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "utter",
+    "utterly",
+    "v",
+    "vac",
+    "vacancy",
+    "vacant",
+    "vacantly",
+    "vacation",
+    "vaccinate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350261_32573bb702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350261_621db71cff_o.png",
+      "id_image": "vacancy_3645355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087480_9cc72da3b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087480_7ce11c9963_o.png",
+      "id_image": "vacancy_3645372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350211_b4ab54ce1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350211_63806df8a7_o.png",
+      "id_image": "vacancy_3645456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464793_75531388e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464793_52a5385dcd_o.png",
+      "id_image": "vacancy_5272947"
+    }
+  ]
+}

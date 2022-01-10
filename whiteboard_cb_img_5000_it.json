@@ -1,0 +1,73 @@
+{
+  "english": "whiteboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảng trắng",
+          "definition": "a white plastic board, especially in a classroom, which you write on with a special pen containing ink that can be wiped off",
+          "world_new": [
+            "white",
+            "plastic",
+            "board",
+            "classroom",
+            "special",
+            "pen",
+            "ink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher wrote the essay title on the whiteboard.",
+              "world_new": [
+                "teacher",
+                "essay",
+                "title"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They found that although interactive whiteboards are theoretically more than a computer if it is only being used as an adjunct to teaching its potential remains unrealized.",
+    "Many companies and projects now focus on creating supplemental instructional materials specifically designed for interactive whiteboards.",
+    "Interactive whiteboards are available in some classrooms and shared areas.",
+    "Classrooms, each of which accommodates six pupils, feature soundfield systems and interactive whiteboards.",
+    "Early whiteboards were made out of film laminate, the same glossy finish found on film negatives.",
+    "Mobile whiteboards are also used as temporary space dividers to allow more than one activity to be scheduled at a time.",
+    "Standard practices include passive status displays (whiteboards or screens in the surgical suites) and active displays (text pager notifications).",
+    "Each classroom uses interactive whiteboards as a resource for teaching."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "white lie",
+    "white light",
+    "white-collar",
+    "white-hot",
+    "whiteboard",
+    "whiten",
+    "whiteness",
+    "whitening",
+    "whitewash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445198_ee1915ec42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445198_f8f4e72c18_o.png",
+      "id_image": "whiteboard_252103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685254_dd16130ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685254_2f6fb99e80_o.png",
+      "id_image": "whiteboard_3576858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066995_03efd2d318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066995_b10fc1cd39_o.png",
+      "id_image": "whiteboard_4017387"
+    }
+  ]
+}

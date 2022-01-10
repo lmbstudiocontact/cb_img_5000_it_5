@@ -1,0 +1,65 @@
+{
+  "english": "violence",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hung dữ",
+          "definition": "great roughness and force, often causing severe physical injury or damage",
+          "world_new": [
+            "great",
+            "roughness",
+            "force",
+            "severe",
+            "physical",
+            "injury",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was amazed at the violence of his temper",
+              "world_new": [
+                "I",
+                "amazed",
+                "temper"
+              ]
+            },
+            {
+              "ex_of_definition": "She was terrified by the violence of the storm.",
+              "world_new": [
+                "terrified",
+                "storm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "viola",
+    "violate",
+    "violation",
+    "violator",
+    "violence",
+    "violent",
+    "violently",
+    "violet",
+    "violin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080690_eee7bca708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080690_c492f29cd8_o.png",
+      "id_image": "violence_5020360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080635_ab199447da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080635_e1c5130a2e_o.png",
+      "id_image": "violence_5020981"
+    }
+  ]
+}

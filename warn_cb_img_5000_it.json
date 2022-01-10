@@ -1,0 +1,93 @@
+{
+  "english": "warn",
+  "phat_am": "woːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảnh báo",
+          "definition": "to tell (a person) in advance (about a danger etc)",
+          "world_new": [
+            "tell",
+            "advance",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Black clouds warned us of the approaching storm",
+              "world_new": [
+                "approaching",
+                "storm"
+              ]
+            },
+            {
+              "ex_of_definition": "They warned her that she would be ill if she didn’t rest.",
+              "world_new": [
+                "ill",
+                "rest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khuyên",
+          "definition": "to advise (someone against doing something)",
+          "world_new": [
+            "advise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was warned about/against speeding by the policeman",
+              "world_new": [
+                "I",
+                "speeding",
+                "policeman"
+              ]
+            },
+            {
+              "ex_of_definition": "They warned him not to be late."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The opponents warned that the project meant the end of the beach as a popular site of recreation for common people.",
+    "People practising coitus interruptus don't seem to have succumbed to all those terrible nervous complaints against which we are so frequently warned by psychiatrists.",
+    "Furthermore, he warns us against reducing narration to one genre, since each of the different genres examined has its own developmental course and purpose.",
+    "We warn the reader that not every equational presentation of a collection monad need be balanced.",
+    "Punishments depended on the offence, but she could be warned by the wet-nursing inspection bureau, fined or dismissed.",
+    "For the novice, there is danger in the chronological presentation, without warning signals that some theories are more difficult to assimilate than others.",
+    "Almost instantly the new plan was presented: a much closer clinic and earlier times - but there were two warning notes.",
+    "Potential readers of the book should perhaps be warned that the author has not made things easy for them."
+  ],
+  "list_see_also": [
+    "warning",
+    "warningly"
+  ],
+  "list_browse": [
+    "warmly",
+    "warmness",
+    "warmonger",
+    "warmth",
+    "warn",
+    "warning",
+    "warningly",
+    "warp",
+    "warpaint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074320_d309e2e7a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074320_81bb5a8195_o.png",
+      "id_image": "warn_1641855"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692554_d2be67cfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692554_0085feb7f3_o.png",
+      "id_image": "warn_2598222"
+    }
+  ]
+}

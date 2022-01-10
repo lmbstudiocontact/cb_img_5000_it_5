@@ -1,0 +1,72 @@
+{
+  "english": "vinegar",
+  "phat_am": "ˈviniɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấm",
+          "definition": "a sour liquid made from wine, beer etc, used in seasoning or preparing food",
+          "world_new": [
+            "sour",
+            "liquid",
+            "wine",
+            "beer",
+            "seasoning",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mix some oil and vinegar as a dressing for the salad.",
+              "world_new": [
+                "oil",
+                "dressing",
+                "salad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This has become clear from our study of the effect of fire and vinegar on lead and tin.",
+    "A well-known dish comprising onions soaked in vinegar and other seasonings added to chicken broth, the boiled chicken having been removed and browned for serving.",
+    "The \"spirits of the vinegar\" can be \"driven into the air\" by heating, and it is also possible to recover the dissolved metal by heating.",
+    "The role of vinegar is understandable.",
+    "One of the most commonly encountered diets involves the avoidance of acid foods but recommends drinking a mixture of honey and vinegar once a day.",
+    "Will the monarch consent to dissolve it in the vinegar of party strife?",
+    "Here, the rare word is alegar, a kind of vinegar made from ale.",
+    "Unlike the other tiny insect visitors, however, vinegar flies for the most part successfully avoid the sticky stigma."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "villainous",
+    "villainy",
+    "villus",
+    "vine",
+    "vinegar",
+    "vineyard",
+    "vintage",
+    "viola",
+    "violate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698814_c2abd31ec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698814_149de92783_o.png",
+      "id_image": "vinegar_129206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388517_2aecb73436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388517_2436c620af_o.png",
+      "id_image": "vinegar_184494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458258_e0aba577f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458258_1bbc0290de_o.png",
+      "id_image": "vinegar_2166168"
+    }
+  ]
+}

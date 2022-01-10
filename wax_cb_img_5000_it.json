@@ -1,0 +1,159 @@
+{
+  "english": "wax",
+  "phat_am": "wӕks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sáp ong",
+          "definition": "the sticky, fatty substance of which bees make their cells; beeswax",
+          "world_new": [
+            "sticky",
+            "fatty",
+            "substance",
+            "their"
+          ]
+        },
+        {
+          "mean_english": "ráy tai",
+          "definition": "the sticky, yellowish substance formed in the ears.",
+          "world_new": [
+            "sticky",
+            "substance"
+          ]
+        },
+        {
+          "mean_english": "sáp để đánh bóng",
+          "definition": "a manufactured, fatty substance used in polishing, to give a good shine",
+          "world_new": [
+            "fatty",
+            "substance",
+            "shine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "furniture wax.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sáp để làm nến",
+          "definition": "(also candle-wax) (of) a substance made from paraffin, used in making candles, models etc, that melts when heated",
+          "world_new": [
+            "substance",
+            "paraffin",
+            "heated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a wax model.",
+              "world_new": [
+                "model"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xi gắn",
+          "definition": "sealing wax."
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bóng bằng sáp",
+          "definition": "to smear, polish or rub with wax",
+          "world_new": [
+            "smear",
+            "polish",
+            "rub"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He waxes and polishes his car every Sunday morning.",
+              "world_new": [
+                "car",
+                "Sunday",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tròn dần",
+          "definition": "(of the moon) to appear to grow in size as more of it becomes visible.",
+          "world_new": [
+            "appear",
+            "grow",
+            "size",
+            "visible"
+          ]
+        },
+        {
+          "mean_english": "tăng trưởng",
+          "definition": "an old word for to grow or increase.",
+          "world_new": [
+            "old",
+            "grow",
+            "increase"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are almost no technological grounds to withhold wax tablets from the hands of composers of polyphony anytime from the eleventh to the fifteenth century.",
+    "Modellers also incorporated paraffin wax, tallow, spermaceti, and the resin balsam.",
+    "The position of the observer's head was maintained by a dental wax impression.",
+    "This cycle waxes and wanes at variable intervals; between spindles, thalamocortical neurons are depolarized.",
+    "Consequently, the wax maintains its (volumetric) magnitude while the surface areas of its transformed shape become larger.",
+    "The model is based on the assumption that solid segregated wax and dissolved wax co-exist only at saturation and no super-saturation can occur.",
+    "The puparia secrete dense dorsal curls of wax, but the individuals remain unobtrusive through being widely scattered.",
+    "Phonograph cylinders were made of wax, and thus only withstood a very limited number of replayings before the groove was worn."
+  ],
+  "list_see_also": [
+    "waxed",
+    "waxen",
+    "waxwork",
+    "waxworks"
+  ],
+  "list_browse": [
+    "wavelength",
+    "waver",
+    "waviness",
+    "wavy",
+    "wax",
+    "waxed",
+    "waxen",
+    "waxwork",
+    "waxworks"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690304_ecfbfc3866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690304_b2f9efa4df_o.png",
+      "id_image": "wax_1965931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450138_d7db508874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450138_3b22a8cb25_o.png",
+      "id_image": "wax_2928324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072050_6854f3f8c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072050_4f5a9a214b_o.png",
+      "id_image": "wax_3460304"
+    }
+  ]
+}

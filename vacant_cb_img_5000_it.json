@@ -1,0 +1,83 @@
+{
+  "english": "vacant",
+  "phat_am": "ˈveikənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bỏ không, khuyết",
+          "definition": "empty or unoccupied",
+          "world_new": [
+            "empty",
+            "unoccupied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a vacant chair",
+              "world_new": [
+                "chair"
+              ]
+            },
+            {
+              "ex_of_definition": "Are there any rooms vacant in this hotel?",
+              "world_new": [
+                "rooms",
+                "hotel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trống rỗng",
+          "definition": "showing no thought, intelligence, or interest",
+          "world_new": [
+            "thought",
+            "intelligence",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a vacant stare.",
+              "world_new": [
+                "stare"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result of these room changes, room #1 now becomes vacant and the new guest gratefully checks in.",
+    "With the throne vacant, they were simply taking back sovereignty.",
+    "They show unresolved spectral features with the corresponding transitions of the next charge state 1s-vacant ion.",
+    "Actually, his stanza might more accurately be described as an anti-soliloquy, since it represents his interior entirely in negative terms - vacant and emotionless.",
+    "Similarly, the lack of a \"nuclear\" position entails a fortiori the lack of vacant nuclear position, and hence the absence of any movement to fill such a position.",
+    "Only one vacant position had to be filled, whereas handing over to a son could involve the complete restructuring of a household.",
+    "At nature's mighty feast there is no vacant cover for him.",
+    "A vacant triangular site had to be developed."
+  ],
+  "list_see_also": [
+    "vacancy",
+    "vacantly"
+  ],
+  "list_browse": [
+    "utterly",
+    "v",
+    "vac",
+    "vacancy",
+    "vacant",
+    "vacantly",
+    "vacation",
+    "vaccinate",
+    "vaccination"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704719_80a5316e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704719_95c101994e_o.png",
+      "id_image": "vacant_5272930"
+    }
+  ]
+}

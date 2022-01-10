@@ -1,0 +1,105 @@
+{
+  "english": "waterproof",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không thấm nước",
+          "definition": "not allowing water to soak through",
+          "world_new": [
+            "water",
+            "soak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "waterproof material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo mưa",
+          "definition": "a coat made of waterproof material",
+          "world_new": [
+            "coat",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was wearing a waterproof.",
+              "world_new": [
+                "wearing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho không thấm nước",
+          "definition": "to make (material) waterproof",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A wax coating is used to waterproof the jackets.",
+              "world_new": [
+                "wax",
+                "coating"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rubber was also widely used for waterproofs during the nineteenth century and although not breathable was highly versatile and widely used.",
+    "Once dried, the resulting material can be cut, sanded and/or painted, and waterproofed by painting with a suitable water-repelling paint.",
+    "Modern items may be waterproofed by applying water-repellent coatings or by sealing seams with gaskets or o-rings.",
+    "Waterproof coats and leggings of a new style will shortly be introduced.",
+    "Theoretically waterproofed, it was therefore sweaty and unpleasant, and could cause acute tendinitis.",
+    "On the underside of the pack lid are two straps with similar green buckles to allow a rolled poncho or waterproofs to be stowed.",
+    "Far too many of our people live in accommodation that is unsatisfactory, unsanitary and not waterproof or windproof.",
+    "The lighthouse has been waterproofed, ventilated, and its floors, interior walls, and windows restored to original appearance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wateriness",
+    "watering can",
+    "waterlogged",
+    "watermelon",
+    "waterproof",
+    "waters",
+    "watershed",
+    "watertight",
+    "waterway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380502_2a18da1182_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380502_edd8d4fbb6_o.png",
+      "id_image": "waterproof_4637360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380447_cc6aced3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380447_63b6a7d6bf_o.png",
+      "id_image": "waterproof_5375350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380422_643e6b917c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380422_fd43755074_o.png",
+      "id_image": "waterproof_6256102"
+    }
+  ]
+}

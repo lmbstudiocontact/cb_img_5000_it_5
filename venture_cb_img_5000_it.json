@@ -1,0 +1,120 @@
+{
+  "english": "venture",
+  "phat_am": "ˈventʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc mạo hiểm",
+          "definition": "an undertaking or scheme that involves some risk",
+          "world_new": [
+            "undertaking",
+            "scheme",
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his latest business venture.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mạo hiểm, cả gan",
+          "definition": "to dare to go",
+          "world_new": [
+            "dare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every day the child ventured further into the forest.",
+              "world_new": [
+                "day",
+                "child",
+                "further",
+                "forest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dám nói, đánh bạo",
+          "definition": "to dare (to do (something), especially to say (something))",
+          "world_new": [
+            "dare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ventured to kiss her hand",
+              "world_new": [
+                "kiss",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "I ventured (to remark) that her skirt was too short.",
+              "world_new": [
+                "I",
+                "skirt",
+                "short"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liều, mạo hiểm",
+          "definition": "to risk",
+          "world_new": [
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He decided to venture all his money on the scheme.",
+              "world_new": [
+                "money",
+                "scheme"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike the personal desire for the realization of an ideal, approval of democracy as a collective venture is more circumstantially than diffusely determined.",
+    "Indeed, they could have been even more ambitious and ventured further into the territory of development beyond the age of four years.",
+    "One might venture that the new science either responded to or was influenced by trends in opera houses and concert rooms.",
+    "To the extent we were linked with them in that joint venture, their history is ours and ours theirs.",
+    "Under the stimulus of quantum mechanics, the independent discoverers were each venturing into what turned out to be new territory for both disciplines.",
+    "Such an analysis was more subversive in thinkers who ventured to apply it to the internal structure of the state.",
+    "Of course these moments are a crucial aspect of our delight, and can be a rich source for interpretative ventures.",
+    "For, serious doubts may be raised about the viability of the doxastic venture model."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ventilator",
+    "ventricle",
+    "ventriloquism",
+    "ventriloquist",
+    "venture",
+    "Venus",
+    "veranda",
+    "verb",
+    "verbal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083925_554704ebab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083925_25ec0064af_o.png",
+      "id_image": "venture_2329919"
+    }
+  ]
+}

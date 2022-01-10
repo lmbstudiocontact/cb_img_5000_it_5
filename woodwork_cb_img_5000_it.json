@@ -1,0 +1,88 @@
+{
+  "english": "woodwork",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghề mộc",
+          "definition": "the art of making things from wood; carpentry",
+          "world_new": [
+            "art",
+            "carpentry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did woodwork at school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần gỗ",
+          "definition": "the wooden part of any structure",
+          "world_new": [
+            "wooden",
+            "part",
+            "structure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The woodwork in the house is rotting.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are paying particular attention to vocational training, as in woodwork and metal work.",
+    "How to get them out of the woodwork is the most difficult question.",
+    "I am assured by the engineer-in-charge that the system of concrete blocks employed is actually cheaper to-day than woodwork or corrugated iron huts.",
+    "It will be decided by the non-votes of those who are now skulking in the woodwork.",
+    "It must be remembered that we have to have a woodwork room, a metalwork room, school kitchens, a gymnasium, school gardens and so on.",
+    "In addition, the following activities are permitted in a handicrafts room supervised by prison officers: woodwork, pinboards.",
+    "Finally, workshops were organized for them to learn various tasks (brush work, cobbling, printing, woodwork, ironwork, sewing, basketwork, mulching).",
+    "There is one practical room shared between woodwork and metalwork, which is not a satisfactory arrangement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "woodland",
+    "woodlouse",
+    "woodpecker",
+    "woodwind",
+    "woodwork",
+    "woodworm",
+    "woody",
+    "wooer",
+    "woof"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449613_1864221e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449613_45cbdf8aef_o.png",
+      "id_image": "woodwork_2332941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689704_845fd5b3b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689704_4c68e74cc4_o.png",
+      "id_image": "woodwork_2472982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689669_ec0b4dc88f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689669_9ba117fdf9_o.png",
+      "id_image": "woodwork_2472984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689639_3af6481a6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689639_4ab225447e_o.png",
+      "id_image": "woodwork_2472995"
+    }
+  ]
+}

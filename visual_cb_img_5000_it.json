@@ -1,0 +1,80 @@
+{
+  "english": "visual",
+  "phat_am": "ˈviʒuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có liên quan đến thị giác",
+          "definition": "of sight or the process of seeing",
+          "world_new": [
+            "sight",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the visual arts",
+              "world_new": [
+                "arts"
+              ]
+            },
+            {
+              "ex_of_definition": "The film makes use of a variety of spectacular visual effects.",
+              "world_new": [
+                "film",
+                "variety",
+                "spectacular",
+                "effects"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The words being rated for imageability were not presented via a loudspeaker because the lexical property of interest was visual, not aural.",
+    "Optic flow, for instance, specifies relative motion with regard to the visual environment.",
+    "Either way, the end result is a system that can produce visual imagery.",
+    "The photo provides a visual representation of equality of status, in which no one performer serves as a leader.",
+    "The visual system has no need to resort to a generalized default.",
+    "There are a number of aspects of visual imagery that have not been covered in the discussion of this section.",
+    "However, it is the visual function, or rather the behaviour dependent on that function, that is selected for by evolution.",
+    "To be consistent with our own viewpoint, we have then to posit that early visual processing involves neither representation nor computation."
+  ],
+  "list_see_also": [
+    "visualize",
+    "visualization",
+    "visually",
+    "visual display unit"
+  ],
+  "list_browse": [
+    "visibly",
+    "vision",
+    "visit",
+    "visitor",
+    "visual",
+    "visual display unit",
+    "visualization",
+    "visualize",
+    "visually"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341991_ee821a3947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341991_dc4a2a3e7e_o.png",
+      "id_image": "visual_1296977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386977_946250b423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386977_0b20669bfb_o.png",
+      "id_image": "visual_1792028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079360_9173820193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079360_fa5a4491c6_o.png",
+      "id_image": "visual_6040780"
+    }
+  ]
+}

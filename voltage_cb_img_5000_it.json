@@ -1,0 +1,67 @@
+{
+  "english": "voltage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện áp",
+          "definition": "(a) force measured in volts",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Low voltage reduces the current, making the lights burn dimly.",
+              "world_new": [
+                "current",
+                "burn",
+                "dimly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Voltage pulses controlling both integration and readout are applied to the polysilicon electrodes.",
+    "Extracellular acidification reduced the inward currents at all tested voltages.",
+    "This tendency is similar to a gas gap when it breaks down by a static voltage.",
+    "There is literature evidence for movement of the layers accompanied by changes in at higher voltages.",
+    "The x-axis depicts time from critical stimulus onset (which occurs at the vertical bar), while the y-axis depicts voltage.",
+    "As time increases, ions start to move, and are absorbed by the metallic electrode to which the negative voltage signal had been applied.",
+    "Electrophysiological recording of randomly chosen cells from high-density cultures demonstrated the presence of two cell classes, based on voltage- and glutamategated currents.",
+    "Coupling interactions between voltage sensors of the sodium channel as revealed by site-specific measurements."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "volcano",
+    "volley",
+    "volleyball",
+    "volt",
+    "voltage",
+    "voluble",
+    "volubly",
+    "volume",
+    "voluntarily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696119_25236753e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696119_d8b2cc9fb8_o.png",
+      "id_image": "voltage_4152051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696089_91c2ce232f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696089_d6ce645161_o.png",
+      "id_image": "voltage_4276377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385827_4174181b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385827_121a6e8309_o.png",
+      "id_image": "voltage_916066"
+    }
+  ]
+}

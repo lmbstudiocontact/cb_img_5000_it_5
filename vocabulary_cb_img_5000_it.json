@@ -1,0 +1,103 @@
+{
+  "english": "vocabulary",
+  "phat_am": "vəˈkӕbjuləri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "từ vựng",
+          "definition": "words in general",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This book contains some difficult vocabulary.",
+              "world_new": [
+                "book",
+                "difficult"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vốn từ",
+          "definition": "(the stock of) words known and used eg by one person, or within a particular trade or profession",
+          "world_new": [
+            "stock",
+            "person",
+            "particular",
+            "trade",
+            "profession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a vocabulary of about 20,000 words"
+            },
+            {
+              "ex_of_definition": "the specialized vocabulary of nuclear physics.",
+              "world_new": [
+                "specialized",
+                "nuclear",
+                "physics"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng từ vựng",
+          "definition": "a list of words in alphabetical order with meanings eg added as a supplement to a book dealing with a particular subject",
+          "world_new": [
+            "list",
+            "alphabetical",
+            "order",
+            "added",
+            "supplement",
+            "book",
+            "dealing",
+            "particular",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This edition of Shakespeare’s plays has a good vocabulary at the back.",
+              "world_new": [
+                "edition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, their comprehension was on a par with that of monolingual children, again, even though they had smaller vocabularies.",
+    "The eclecticism and diversity of reforming cultures and vocabularies underline the dangers in attempting to classify these movements in accordance with any over-riding thematic unity.",
+    "Text 3 is easy to align in terms of both the complexity of the alignment and the vocabularies used.",
+    "However, there has been very little research on the growth of early vocabularies in late talkers.",
+    "Finally, there are also frequency differences between nouns and verbs in their distribution in the vocabularies of different languages.",
+    "Critical vocabularies are, after all, the medium for communal expression of those values, the vehicle for ongoing conversation and debate.",
+    "Problems such as inhomogeneous vocabularies and different conceptualisations of the same domain will become much more urgent than they are today.",
+    "Such controlled vocabularies are less common in the social care literature and indexing can be inconsistent, making specificity in searching difficult."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "viviparous",
+    "vivisection",
+    "vixen",
+    "VJ",
+    "vocabulary",
+    "vocal",
+    "vocal cords",
+    "vocalist",
+    "vocally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078990_b35a096bf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078990_611bd06d7f_o.png",
+      "id_image": "vocabulary_326905"
+    }
+  ]
+}

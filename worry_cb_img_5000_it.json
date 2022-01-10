@@ -1,0 +1,126 @@
+{
+  "english": "worry",
+  "phat_am": "ˈwari",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khiến ai lo lắng",
+          "definition": "to (cause to) feel anxious",
+          "world_new": [
+            "feel",
+            "anxious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His dangerous driving worries me",
+              "world_new": [
+                "dangerous",
+                "driving"
+              ]
+            },
+            {
+              "ex_of_definition": "His mother is worried about his education",
+              "world_new": [
+                "mother",
+                "worried",
+                "education"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s no need to worry just because he’s late."
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phiền",
+          "definition": "to annoy; to distract",
+          "world_new": [
+            "distract"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t worry me just now – I’m busy!",
+              "world_new": [
+                "busy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngoạm",
+          "definition": "to shake or tear with the teeth etc as a dog does its prey etc.",
+          "world_new": [
+            "shake",
+            "tear",
+            "dog",
+            "its",
+            "prey"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mối lo lắng",
+          "definition": "(a cause of) anxiety",
+          "world_new": [
+            "cause",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That boy is a constant (source of) worry to his mother!",
+              "world_new": [
+                "boy",
+                "constant",
+                "mother"
+              ]
+            },
+            {
+              "ex_of_definition": "Try to forget your worries.",
+              "world_new": [
+                "forget",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Poverty is worrying about money all the time.",
+    "On the face of it, this worry also creates serious difficulties for deliberative democracy.",
+    "She was proud, astute, and worried about her husband's welfare.",
+    "The objector is worried about persons who may only do moral good in a feasible world in which others do significant wrong.",
+    "Yet the fact that we cannot draw any firm policy conclusions at this stage should not worry us unduly.",
+    "Lending to a wife probably did not happen very often because it was too risky for lenders worried about delays in repayment.",
+    "They loudly poured out their worries, calling on their male relatives to discipline their sons.",
+    "We use an equivalence on trees instead of worrying about representation."
+  ],
+  "list_see_also": [
+    "worried"
+  ],
+  "list_browse": [
+    "worn out",
+    "worn to a shadow",
+    "worried",
+    "worried sick",
+    "worry",
+    "worse",
+    "worse luck!",
+    "worsen",
+    "worship"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070195_5d860244a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070195_26abb20348_o.png",
+      "id_image": "worry_2472934"
+    }
+  ]
+}

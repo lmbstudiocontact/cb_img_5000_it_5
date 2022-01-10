@@ -1,0 +1,74 @@
+{
+  "english": "wrist",
+  "phat_am": "rist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cổ tay",
+          "definition": "the (part of the arm at the) joint between hand and forearm",
+          "world_new": [
+            "arm",
+            "joint",
+            "hand",
+            "forearm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t play tennis – I’ve hurt my wrist.",
+              "world_new": [
+                "I",
+                "play",
+                "tennis",
+                "hurt",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most prosthesis designs only allow longitudinal wrist rotation and a pinch grasp opposing \"thumb\" and \"fingers\", excluding co-ordinated multi-joint movements.",
+    "Is effeminacy a limp wrist, a set of facial mannerisms, a way of crossing one's legs, a certain posture?",
+    "Figure 5 shows the estimated and measured shoulder, elbow and wrist joints angles for four different movement velocities.",
+    "The longest principal axis of the manipulability ellipsoid shows the direction and the amplitude of the maximum velocity of the wrist.",
+    "The performances of an ideal wrist would be constant and independent of its configuration.",
+    "In the upper extremities, wrist and finger extensors and deltoids were the most affected muscles.",
+    "Patients sat y32 cm from the ionizer and wore a grounded wrist strap to maximize ion flow toward the body.",
+    "Lower limbs are affected more than upper limbs, but foot and wrist drop, distal muscle weakness and wasting may be noted."
+  ],
+  "list_see_also": [
+    "wrist-watch"
+  ],
+  "list_browse": [
+    "wringer",
+    "wringing wet",
+    "wrinkle",
+    "wrinkled",
+    "wrist",
+    "wrist-watch",
+    "write",
+    "write down",
+    "write out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376957_f8fa948ef8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376957_3875c00ca2_o.png",
+      "id_image": "wrist_2438470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332171_7d5f01b3a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332171_f0607aea48_o.png",
+      "id_image": "wrist_2849623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687109_85498b04ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687109_e0275e2c3b_o.png",
+      "id_image": "wrist_5726860"
+    }
+  ]
+}

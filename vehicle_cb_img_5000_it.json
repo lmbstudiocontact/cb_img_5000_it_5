@@ -1,0 +1,76 @@
+{
+  "english": "vehicle",
+  "phat_am": "ˈviəkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe cộ",
+          "definition": "any means of transport on land, especially on wheels, eg a car, bus, bicycle etc",
+          "world_new": [
+            "means",
+            "transport",
+            "land",
+            "car",
+            "bus",
+            "bicycle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a heavy goods vehicle.",
+              "world_new": [
+                "heavy",
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Liposomes are lipid membrane particles that serve as vehicles or delivery systems for vaccine antigens.",
+    "Shape grammars offer the ability to quickly produce multiple vehicle designs that fall within desired constraints.",
+    "They serve as a vehicle for mobilising support and most importantly perhaps, as agents of elite recruitment.",
+    "For simplicity, each vehicle is assumed to be symmetric about the longitudinal plane, so only half of the front and rear view is drawn.",
+    "The vehicle agent then proceeds to generate the individual route plan as travel-service directed.",
+    "Indeed, for a simple probe we already (as stated) possess the technology to launch such a vehicle.",
+    "The vertical behaviours that run on the vehicle include maintain minimal depth, maintain minimum altitude, maintain depth and maintain altitude.",
+    "Most experiments had been done in partially known environments with many movable independent objects such as humans, robots, and vehicles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vegetation",
+    "vehemence",
+    "vehement",
+    "vehemently",
+    "vehicle",
+    "veil",
+    "veiled",
+    "vein",
+    "Velcro"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702069_ae9aa55103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702069_fc312b1959_o.png",
+      "id_image": "vehicle_3211882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702039_4ac5848345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702039_82fba9f498_o.png",
+      "id_image": "vehicle_3211885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702014_f62c503dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702014_f91bae768e_o.png",
+      "id_image": "vehicle_4967279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084660_6322338c07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084660_12b75e475d_o.png",
+      "id_image": "vehicle_550907"
+    }
+  ]
+}

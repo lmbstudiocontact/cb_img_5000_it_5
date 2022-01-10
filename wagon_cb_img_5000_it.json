@@ -1,0 +1,90 @@
+{
+  "english": "wagon",
+  "phat_am": "ˈwӕɡən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe ngựa; xe bò",
+          "definition": "a type of four-wheeled vehicle for carrying heavy loads",
+          "world_new": [
+            "type",
+            "vehicle",
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hay wagon.",
+              "world_new": [
+                "hay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toa xe hàng",
+          "definition": "an open railway carriage for goods",
+          "world_new": [
+            "open",
+            "railway",
+            "carriage",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a goods wagon.",
+              "world_new": [
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cyclic sequence formed by the ends of the sides of the wagons is the boundary.",
+    "Pedlars, packhorse traders and those who operated wagon trains played an important role in getting wine to the back country.",
+    "Cape-carts, donkey wagons, mule-carts - were used equally with the modern sedan car.",
+    "Strong, so that men and horses and wagons can cross over.",
+    "It too often happens in such cases that the initial reaction is to draw the wagons in a circle rather than parlay.",
+    "For example, with horse and wagon, it was possible to transport much heavier loads.",
+    "Troops were equipped at the expense of officers, and all too often also paid by them when the ministry's money wagon failed to appear.",
+    "For example, with horse and wagon, it was possible to transpor t much heavier loads."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wage",
+    "wage-packet",
+    "wager",
+    "waggle",
+    "wagon",
+    "waif",
+    "wail",
+    "waist",
+    "waistband"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454318_1c7d5c0646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454318_407c778a49_o.png",
+      "id_image": "wagon_1987431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384262_40242fc016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384262_2440e51a18_o.png",
+      "id_image": "wagon_2893062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694434_a8d09dbb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694434_b1daa9aaf4_o.png",
+      "id_image": "wagon_3745910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076450_a061b04abe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076450_ef78ae1482_o.png",
+      "id_image": "wagon_5895733"
+    }
+  ]
+}

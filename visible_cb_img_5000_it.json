@@ -1,0 +1,68 @@
+{
+  "english": "visible",
+  "phat_am": "ˈvizəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hữu hình",
+          "definition": "able to be seen",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is visible through the trees",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "The scar on her face is scarcely visible now.",
+              "world_new": [
+                "scar",
+                "face",
+                "scarcely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As we move from east to west through this area, a change is visible in the landscape.",
+    "Consequently, just like adjuncts, parentheticals should be visible for certain syntactic operations in the host.",
+    "Other adult disorders represent the eventual manifestation of a behavioral difficulty visible since early childhood.",
+    "We have not just a good export performance with visibles, but an outstanding one with invisibles.",
+    "Such studies provide no data about the subjective localization of visible and audible events.",
+    "The absence of visible corrections in it suggests that it is not autograph.",
+    "Swellings at the base of each canal, the ampullae, are visible.",
+    "During the procedure, the echocardiographic monitor needs to be visible to the catheterizer, and the fluoroscopic screen to the echocardiographer."
+  ],
+  "list_see_also": [
+    "visibly",
+    "visibility"
+  ],
+  "list_browse": [
+    "viscount",
+    "viscountess",
+    "viscous",
+    "visibility",
+    "visible",
+    "visibly",
+    "vision",
+    "visit",
+    "visitor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342476_78075bc1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342476_c9c5a42a47_o.png",
+      "id_image": "visible_169124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387512_345b9c1baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387512_b9f415a28e_o.png",
+      "id_image": "visible_5875369"
+    }
+  ]
+}

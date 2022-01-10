@@ -1,0 +1,61 @@
+{
+  "english": "warehouse",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà kho",
+          "definition": "a building in which goods are stored",
+          "world_new": [
+            "building",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a furniture warehouse.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The island had buildings for baking, meat dressing, pickling, barrel-making, clothing production, and a number of warehouses.",
+    "The problem to-day is that people cannot buy the goods which they produce, and the warehouses and the shops are overstocked.",
+    "As salesmen and delivery vans enter the fray, the repair men are on hand: and soon the warehouses and suppliers follow.",
+    "I have no information about their interior condition, but they have been used as warehouses.",
+    "One does not need to search far to find many shops and warehouses where conditions are far from being conducive to the community's health.",
+    "Evers' concept of ' warehousing ' (1984) is apposite.",
+    "First, there is the class of case where already large quantities of goods are lying in bonded warehouses in the various ports of this country.",
+    "In the latter case, the shipowners also have an alternative of duty-free delivery direct from the bonded warehouses or refineries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "warden",
+    "warder",
+    "wardrobe",
+    "-ware",
+    "warehouse",
+    "wares",
+    "warfare",
+    "warhead",
+    "warhorse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074705_5e08c2a15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074705_d7841d4141_o.png",
+      "id_image": "warehouse_566129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074655_00210d5774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074655_6ee99879e8_o.png",
+      "id_image": "warehouse_869045"
+    }
+  ]
+}

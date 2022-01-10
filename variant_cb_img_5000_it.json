@@ -1,0 +1,75 @@
+{
+  "english": "variant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khác",
+          "definition": "something that is a slightly different form of another form",
+          "world_new": [
+            "slightly",
+            "form",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Softball is a variant of baseball played with a larger ball.",
+              "world_new": [
+                "baseball",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách đọc khác",
+          "definition": "a slightly different form of a word or phrase",
+          "world_new": [
+            "slightly",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an American spelling variant.",
+              "world_new": [
+                "American",
+                "spelling"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, all the possible spelling variants were considered in this search.",
+    "Only two of the 10 amino acid variants detected were not singletons.",
+    "There are no developed variants of the arbiter model.",
+    "Isolation produces a large number of strong insular variants, which in some cases develop into separate serotypes.",
+    "The next chapter is devoted to operational semantics, this time only big-step structural operational semantics, but with variants for call-by-value and call- by-name.",
+    "In all the long time shielded variants the phosphorus utilisation decreases.",
+    "One strategy to improve the immune reaction is to make what are called heteroclitic antigen variants.",
+    "Each entry in the glossary comprises a short definition of the term, its variants (if any), a geographical label and an explanation of its origin."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vapour",
+    "variability",
+    "variable",
+    "variably",
+    "variant",
+    "variation",
+    "varicose veins",
+    "varied",
+    "variegated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348316_e4b0baa37f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348316_39e247fb09_o.png",
+      "id_image": "variant_5264994"
+    }
+  ]
+}

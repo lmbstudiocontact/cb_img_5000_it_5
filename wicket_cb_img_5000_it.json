@@ -1,0 +1,89 @@
+{
+  "english": "wicket",
+  "phat_am": "ˈwikit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ ba thanh chắn trong cricket",
+          "definition": "a hoop through which the balls are driven in the game of croquet or at which the ball is bowled in cricket.",
+          "world_new": [
+            "hoop",
+            "game",
+            "croquet",
+            "ball",
+            "cricket"
+          ]
+        },
+        {
+          "mean_english": "cửa thanh chắn",
+          "definition": "the ground between two sets of these rods",
+          "world_new": [
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wicket has dried out well.",
+              "world_new": [
+                "dried"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hết hiệp đấu",
+          "definition": "the ending of a batsman’s period of batting",
+          "world_new": [
+            "ending",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They scored fifty runs for (the loss of) one wicket.",
+              "world_new": [
+                "loss"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He took five wickets in an innings twice.",
+    "She scored 17 runs in the competition and took 2 wickets.",
+    "He ended the subcontinental tour with 15 wickets at 35.73, and scored 70 runs at 23.33.",
+    "He bowled 5 overs but took no wickets.",
+    "Sheriyar has had an impressive career taking over 600 wickets with his fast medium seam bowling.",
+    "He scored 1,000 runs in a season eight times, took 361 catches and 13 wickets at 31.00.",
+    "An occasional medium pace bowler, he took 7 wickets at a bowling average of 32.00, with best figures of 2/27.",
+    "Ojha again took the highest of 5 wickets in this inning."
+  ],
+  "list_see_also": [
+    "wicket-keeper"
+  ],
+  "list_browse": [
+    "wickedly",
+    "wickedness",
+    "wicker",
+    "wickerwork",
+    "wicket",
+    "wicket-keeper",
+    "wide",
+    "wide apart",
+    "wide awake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374407_abfd912eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374407_13e1a5a4a0_o.png",
+      "id_image": "wicket_6222644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684654_5bede3ccc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684654_b8efe61e4d_o.png",
+      "id_image": "wicket_6223344"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "worth",
+  "phat_am": "wəːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá trị",
+          "definition": "value",
+          "world_new": [
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These books are of little or no worth"
+            },
+            {
+              "ex_of_definition": "She sold fifty dollars’ worth of tickets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đáng giá",
+          "definition": "equal in value to",
+          "world_new": [
+            "equal",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Each of these stamps is worth a cent.",
+              "world_new": [
+                "cent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng",
+          "definition": "good enough for",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His suggestion is worth considering",
+              "world_new": [
+                "suggestion",
+                "considering"
+              ]
+            },
+            {
+              "ex_of_definition": "The exhibition is well worth a visit.",
+              "world_new": [
+                "exhibition",
+                "visit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is also worth pointing out that it is not simply the number of features that is the key to successful classification.",
+    "The 'could' in the first sentence is worth noting but, passing quickly over this point, the 10 per cent figure seems arbitrary, at best.",
+    "For a quick overview, it may be worth skimming 2-4.",
+    "It is worth emphasising that without delayed instantiation, rebinding in these examples would not be possible.",
+    "Its implications are worth considering, particularly in the light of the post-processualist rush to embrace alternative, indigenous voices throughout the world.",
+    "This is not the only possible interpretation of these facts, but it is a possible one, and one worth considering.",
+    "To illustrate why transposition is the best explanation of this phenomenon, it is worth considering a range of possible solutions.",
+    "However, it is worth noting that this value remains zero for the simulations in which only 20% of the samples are corrupted by noise."
+  ],
+  "list_see_also": [
+    "worthless",
+    "worthlessly",
+    "worthlessness",
+    "worthy",
+    "worthily",
+    "worthiness",
+    "-worthy",
+    "worthwhile",
+    "for all one is worth"
+  ],
+  "list_browse": [
+    "worsen",
+    "worship",
+    "worshipper",
+    "worst",
+    "worth",
+    "worth one’s while",
+    "worthily",
+    "worthiness",
+    "worthless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378132_02bdb5a825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378132_a98e3b5011_o.png",
+      "id_image": "worth_1605307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688259_79e60b6b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688259_e8aa580fbc_o.png",
+      "id_image": "worth_4834034"
+    }
+  ]
+}

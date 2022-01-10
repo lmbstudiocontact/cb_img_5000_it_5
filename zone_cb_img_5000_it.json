@@ -1,0 +1,80 @@
+{
+  "english": "zone",
+  "phat_am": "zəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vùng; khu",
+          "definition": "an area or region, usually of a country, town etc, especially one marked off for a special purpose",
+          "world_new": [
+            "area",
+            "region",
+            "country",
+            "town",
+            "marked",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a no-parking zone"
+            },
+            {
+              "ex_of_definition": "a traffic-free zone."
+            }
+          ]
+        },
+        {
+          "mean_english": "đới",
+          "definition": "any of the five bands into which the earth’s surface is divided according to temperature",
+          "world_new": [
+            "surface",
+            "temperature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tropical zone is the area between the Tropic of Capricorn and the Tropic of Cancer.",
+              "world_new": [
+                "tropical",
+                "area",
+                "Capricorn",
+                "Cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A dummy variable for high altitude separates the study region into two major climate zones.",
+    "Many kinematic indicators (primarily - and type fabrics) show that the shear zone has an extensional geometry with respect to the present land surface.",
+    "These criteria depend on agro-ecological zones with more complex criteria in drier areas with high rainfall variability.",
+    "Time-dependent characterization of the output radiation in a far-field zone was obtained for both free-running and injection-controlled operation with an unstable resonator 1 cavity.",
+    "He also noted sudden thickening of coals along zones adjacent to belts of thin coal, which was ascribed to redeposition by flooding.",
+    "Since a and are complex, the problem consists of eight ordinary differential equations subject to eight shock and two boundary conditions in the equilibrium zone.",
+    "The staircases are arranged in an internal zone, transversal to the largest side.",
+    "The disturbance was higher for the exposed zone, where the crown cover of emergent trees was not closed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "zirconium",
+    "zit",
+    "zodiac",
+    "zombie",
+    "zone",
+    "zoo",
+    "zookeeper",
+    "zoological",
+    "zoologically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330046_b80c0bc97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330046_3e3269b722_o.png",
+      "id_image": "zone_2191451"
+    }
+  ]
+}

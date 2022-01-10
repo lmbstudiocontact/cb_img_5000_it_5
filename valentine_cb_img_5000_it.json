@@ -1,0 +1,68 @@
+{
+  "english": "valentine",
+  "phat_am": "ˈvӕləntain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người yêu; thiệp chúc mừng",
+          "definition": "a sweetheart chosen, or a card, love letter etc sent, on St. Valentine’s Day, February 14",
+          "world_new": [
+            "sweetheart",
+            "card",
+            "love",
+            "letter",
+            "St",
+            "February"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you be my valentine?",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "He sent her a valentine."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These eloquent reflections on love both found and lost echo with desire, humor, and a fierce sense of continued hope, reminding us that torn valentines are sometimes the most beautiful.",
+    "Collector interest has sparked a resurgence in sailors' valentines as an art form, and shell kits and patterns are now sold at craft shops.",
+    "The art work often has symmetry within the design, and common forms include silhouettes, valentines, and love letters.",
+    "This she does by pulling out her heart (which looks somewhere between a valentine and a bland representation of a heart without any vessels) and coating it with ice.",
+    "The head is valentine-shaped, with large, compound golden eyes sometimes banded with red.",
+    "The mischievous valentine becomes an e-mail, while death in childbirth becomes death from a drug overdose.",
+    "Angry and desperate, the ladies purposely planned a vacation for the men where they are brought to a hotel for their valentine celebration.",
+    "The judges deemed it a comic valentine, but a museum patron persuaded them to award the painting the bronze medal and $300 cash prize."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vain",
+    "vainly",
+    "vale",
+    "valedictorian",
+    "valentine",
+    "valet",
+    "valiant",
+    "valiantly",
+    "valid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394382_958b0592ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394382_d15b4bf264_o.png",
+      "id_image": "valentine_2651086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394342_67ceef7091_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394342_d74d340815_o.png",
+      "id_image": "valentine_4220642"
+    }
+  ]
+}

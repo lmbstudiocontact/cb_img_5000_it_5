@@ -1,0 +1,114 @@
+{
+  "english": "wood",
+  "phat_am": "wud",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gỗ",
+          "definition": "(also adjective) (of) the material of which the trunk and branches of trees are composed",
+          "world_new": [
+            "material",
+            "trunk",
+            "composed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My desk is (made of) wood",
+              "world_new": [
+                "desk"
+              ]
+            },
+            {
+              "ex_of_definition": "She gathered some wood for the fire",
+              "world_new": [
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "I like the smell of a wood fire.",
+              "world_new": [
+                "I",
+                "smell",
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rừng",
+          "definition": "a group of growing trees",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They went for a walk in the woods.",
+              "world_new": [
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gậy đánh gôn",
+          "definition": "a golf-club whose head is made of wood.",
+          "world_new": [
+            "golf-club",
+            "head"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the same time, they introduced an improved small woods scheme and significantly raised the general level of grants.",
+    "Naturally, wood's use as fuel figured prominently among these voluntary statements by declarants.",
+    "The shelter belt grant has been withdrawn; so has the small woods planting grant.",
+    "The house was isolated in some woods on a hill and the effects were visible from a large distance, drawing the audience to the spot.",
+    "Distinguishing the woods from the trees.",
+    "The woods today are less disturbed, otherwise we would not be seeing an explosive growth in the population of roe deer.",
+    "In this region the population density was low, the quality of the soil was poor and woods were abundant.",
+    "Other products ranged from aromatic woods and rattans through to a range of ancillary medical and culinary products."
+  ],
+  "list_see_also": [
+    "wooded",
+    "wooden",
+    "woody",
+    "wood carving",
+    "woodcut",
+    "woodcutter",
+    "woodland",
+    "woodlouse",
+    "woodpecker",
+    "wood pulp",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "wonderingly",
+    "wonderland",
+    "wondrous",
+    "woo",
+    "wood",
+    "wood carving",
+    "wood pulp",
+    "woodcut",
+    "woodcutter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071930_02e9b48e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071930_0b6c8bc605_o.png",
+      "id_image": "wood_2153138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450053_2d2b012539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450053_1046686522_o.png",
+      "id_image": "wood_878460"
+    }
+  ]
+}

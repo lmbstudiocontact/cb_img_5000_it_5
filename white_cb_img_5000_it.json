@@ -1,0 +1,99 @@
+{
+  "english": "white",
+  "phat_am": "wait",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trắng",
+          "definition": "of the colour/color of salt, snow, polar bears, etc.",
+          "world_new": [
+            "salt",
+            "snow",
+            "polar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bride wore a white dress.",
+              "world_new": [
+                "bride",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "da trắng",
+          "definition": "having light-coloured/-colored skin, through being of European etc descent",
+          "world_new": [
+            "skin",
+            "European",
+            "descent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the first white man to explore Africa.",
+              "world_new": [
+                "explore"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trắng bệch vì sợ hãi",
+          "definition": "abnormally pale, because of fear, illness etc",
+          "world_new": [
+            "abnormally",
+            "pale",
+            "fear",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went white with shock.",
+              "world_new": [
+                "shock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có sữa",
+          "definition": "with milk in it",
+          "world_new": [
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A white coffee, please.",
+              "world_new": [
+                "coffee",
+                "please"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whisperer",
+    "whist",
+    "whistle",
+    "Whit Monday",
+    "white",
+    "white elephant",
+    "white horse",
+    "white lie",
+    "white light"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685344_17777f887e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685344_b7ca89b331_o.png",
+      "id_image": "white_3944295"
+    }
+  ]
+}

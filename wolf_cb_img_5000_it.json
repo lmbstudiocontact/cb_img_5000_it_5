@@ -1,0 +1,79 @@
+{
+  "english": "wolf",
+  "phat_am": "wulf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chó sói",
+          "definition": "a type of wild animal of the dog family, usually found hunting in packs.",
+          "world_new": [
+            "type",
+            "wild",
+            "animal",
+            "dog",
+            "family",
+            "found",
+            "hunting"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn ngấu nghiến",
+          "definition": "to eat greedily",
+          "world_new": [
+            "eat",
+            "greedily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wolfed (down) his breakfast and hurried out.",
+              "world_new": [
+                "breakfast",
+                "hurried"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wolf-cub",
+    "wolf-whistle",
+    "keep the wolf from the door"
+  ],
+  "list_browse": [
+    "woeful",
+    "woefully",
+    "woefulness",
+    "wok",
+    "wolf",
+    "wolf-cub",
+    "wolf-whistle",
+    "woman",
+    "womanhood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380317_40365f709e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380317_d3a48197a2_o.png",
+      "id_image": "wolf_185704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335221_19d5e07187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335221_09455af139_o.png",
+      "id_image": "wolf_292686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690374_5aa433d174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690374_265d4180c0_o.png",
+      "id_image": "wolf_4727715"
+    }
+  ]
+}

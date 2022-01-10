@@ -1,0 +1,81 @@
+{
+  "english": "widow",
+  "phat_am": "ˈwidəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bà góa",
+          "definition": "a woman whose husband is dead",
+          "world_new": [
+            "husband",
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My brother’s widow has married again.",
+              "world_new": [
+                "married"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trở nên góa bụa",
+          "definition": "to cause to become a widow or widower",
+          "world_new": [
+            "cause",
+            "become",
+            "widower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She/He was widowed in 1943.",
+              "world_new": [
+                "widowed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The vast majority of adult descendants were married, widowed or divorced.",
+    "As one might expect, several of the women to receive relief were widows, usually with small children.",
+    "Most of these mistresses appear to have been widows (although they were not regularly identified as such in the records).",
+    "While most small store owners were men, a notable minority were women, often widows.",
+    "The word ' selfish ' was frequently volunteered by the widows, when describing their lives now, as opposed to when they were married.",
+    "Sixty-nine per cent were married, 23n6 % were single and 4n8 % were widowed.",
+    "The editors emphasize that their subject is ' never-married ' women, not widows, whose situation differed significantly in the eyes of society and the law.",
+    "About two-thirds were females (62%), 19% were married, 12% divorced, 35% widowed, and 34% were single."
+  ],
+  "list_see_also": [
+    "widowed",
+    "widower"
+  ],
+  "list_browse": [
+    "widely",
+    "widen",
+    "wideness",
+    "widespread",
+    "widow",
+    "widowed",
+    "widower",
+    "width",
+    "wield"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374207_262dace78a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374207_a43cd1a317_o.png",
+      "id_image": "widow_1855470"
+    }
+  ]
+}

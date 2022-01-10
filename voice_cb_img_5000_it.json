@@ -1,0 +1,141 @@
+{
+  "english": "voice",
+  "phat_am": "vois",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giọng nói, hát",
+          "definition": "the sounds from the mouth made in speaking or singing",
+          "world_new": [
+            "mouth",
+            "speaking",
+            "singing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a very deep voice",
+              "world_new": [
+                "deep"
+              ]
+            },
+            {
+              "ex_of_definition": "He spoke in a quiet/loud/angry/kind voice.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng nói, thế lực",
+          "definition": "the voice regarded as the means of expressing opinion",
+          "world_new": [
+            "means",
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The voice of the people should not be ignored",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "the voice of reason/conscience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bày tỏ, nói lên",
+          "definition": "to express (feelings etc)",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He voiced the discontent of the whole group.",
+              "world_new": [
+                "voiced",
+                "discontent",
+                "whole",
+                "group"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phát thành âm kêu",
+          "definition": "to produce the sound of (especially a consonant) with a vibration of the vocal cords as well as with the breath",
+          "world_new": [
+            "produce",
+            "sound",
+            "vibration",
+            "vocal",
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Th’ should be voiced in ‘this’ but not in ‘think’.",
+              "world_new": [
+                "voiced"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Conversely, target voiceless obstruents were produced incorrectly as voiced in onsets, but were produced correctly in codas.",
+    "Another prediction is that voiced aspirated stops should tend to associate with breathy voiced sonorants.",
+    "The heart of the voicing source is a pulse generator (on the right side of the architecture shown in figure 3).",
+    "As the duet begins, the libretto's earlier language of visions and thought is almost entirely taken over by the language of sounds, listening, voices.",
+    "What all of these locations have in common is the presence of street vendors' voices.",
+    "He combines rhythmic bass patterns and ringing open strings with treble melodic runs that can create the impression of two guitar voices.",
+    "The distinction between melodic and accompanying voices disappears.",
+    "In this phenomenon a nasal stop induces nasalisation of a liquid or voiced stop occurring anywhere to its right in the stem."
+  ],
+  "list_see_also": [
+    "voiced",
+    "voiceless",
+    "voicemail",
+    "be in good voice",
+    "lose one’s voice",
+    "raise one’s voice"
+  ],
+  "list_browse": [
+    "vocation",
+    "vocational",
+    "vodka",
+    "vogue",
+    "voice",
+    "voiced",
+    "voiceless",
+    "voicemail",
+    "void"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386352_c8181769c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386352_6b1ab1e9b3_o.png",
+      "id_image": "voice_2080863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386307_92c2bc3d57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386307_afdc95f510_o.png",
+      "id_image": "voice_2597094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456218_f29f16aa42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456218_7661412653_o.png",
+      "id_image": "voice_450461"
+    }
+  ]
+}

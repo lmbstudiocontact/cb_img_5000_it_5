@@ -1,0 +1,79 @@
+{
+  "english": "vertical",
+  "phat_am": "ˈvəːtikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thẳng đứng, dọc",
+          "definition": "standing straight up at right angles to the earth’s surface, or to a horizontal plane or line; upright",
+          "world_new": [
+            "standing",
+            "straight",
+            "right",
+            "surface",
+            "horizontal",
+            "plane",
+            "upright"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hillside looked almost vertical.",
+              "world_new": [
+                "hillside",
+                "almost"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the later work the curving rhythms have given way to a system of verticals and horizontals, broken only by the forty-five degree diagonals of roof-tops and trees.",
+    "In fact, the place of the edges in the picture imposes the verticals they are associated to.",
+    "The use of vertical rules should be avoided.",
+    "The point to emphasize is that we assume the permeability k to vary in the vertical direction.",
+    "The height of each bar is read from the vertical axis.",
+    "Then a horizontal top plane and some form of vertical plane or step are cut.",
+    "Here we assume that the wave propagates in the vertical direction.",
+    "The repeated verticals of the balustrade reinforce the effect."
+  ],
+  "list_see_also": [
+    "vertically"
+  ],
+  "list_browse": [
+    "versus",
+    "vertebra",
+    "vertebrate",
+    "vertex",
+    "vertical",
+    "vertically",
+    "vertigo",
+    "very",
+    "very well"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345726_37c97b3037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345726_f303847cf9_o.png",
+      "id_image": "vertical_2280398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700864_17dcf8e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700864_a291e4cd2f_o.png",
+      "id_image": "vertical_232875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700834_09ba0289c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700834_3f01e6146e_o.png",
+      "id_image": "vertical_232877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460478_997d3f8f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460478_c483cfb454_o.png",
+      "id_image": "vertical_3103209"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "western",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phương tây",
+          "definition": "of the west or the West",
+          "world_new": [
+            "west"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Western customs/clothes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phim miền tây",
+          "definition": "a film or novel about the Wild West",
+          "world_new": [
+            "film",
+            "novel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most westerns are about cowboys and indians."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The children of the daughters grew up in an era of increased western influence and consumerism but also economic instability.",
+    "They strongly pointed out that their primary preference is popular music and placed western classical music at a lower level.",
+    "In the western bays the pairs of carved winged angels are expressive and sublime.",
+    "Western nations are quietly supporting private security groups which help to further their own political goals.",
+    "The principal protagonists were the students and the agitation was limited to the western side of the city.",
+    "This is the materially based civilization of the western world.",
+    "But duets were a relatively late invention in the history of country and western singing.",
+    "It is interesting to ask: why has primary health care never or not yet been accepted in western societies?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wellingtons",
+    "welt",
+    "west",
+    "westerly",
+    "western",
+    "westernmost",
+    "westward",
+    "westward(s)",
+    "wet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687019_78f4d6f9ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687019_e79396681d_o.png",
+      "id_image": "western_2267578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446978_ff45b0db2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446978_8414d052a0_o.png",
+      "id_image": "western_6348496"
+    }
+  ]
+}

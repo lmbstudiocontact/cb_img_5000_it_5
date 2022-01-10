@@ -1,0 +1,206 @@
+{
+  "english": "what",
+  "phat_am": "wot",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "gì",
+          "definition": "used in questions etc when asking someone to point out, state etc one or more persons, things etc",
+          "world_new": [
+            "point",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What street is this?",
+              "world_new": [
+                "street"
+              ]
+            },
+            {
+              "ex_of_definition": "What’s your name/address/telephone number?",
+              "world_new": [
+                "your",
+                "number"
+              ]
+            },
+            {
+              "ex_of_definition": "What time is it?",
+              "world_new": [
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "What (kind of) bird is that?",
+              "world_new": [
+                "bird"
+              ]
+            },
+            {
+              "ex_of_definition": "What is he reading?",
+              "world_new": [
+                "reading"
+              ]
+            },
+            {
+              "ex_of_definition": "What did you say?"
+            },
+            {
+              "ex_of_definition": "What is this cake made of?",
+              "world_new": [
+                "cake"
+              ]
+            },
+            {
+              "ex_of_definition": "‘What do you want to be when you grow up?’ ‘A doctor.’",
+              "world_new": [
+                "want",
+                "grow",
+                "doctor"
+              ]
+            },
+            {
+              "ex_of_definition": "Tell me what you mean",
+              "world_new": [
+                "mean"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked him what clothes I should wear.",
+              "world_new": [
+                "I",
+                "clothes",
+                "I",
+                "wear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng trong câu cảm thán bày tỏ sự ngạc nhiên",
+          "definition": "(also adverb) used in exclamations of surprise, anger etc",
+          "world_new": [
+            "surprise",
+            "anger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What clothes she wears!",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "What a fool he is!",
+              "world_new": [
+                "fool"
+              ]
+            },
+            {
+              "ex_of_definition": "What naughty children they are!",
+              "world_new": [
+                "naughty"
+              ]
+            },
+            {
+              "ex_of_definition": "What a silly film this is!",
+              "world_new": [
+                "silly",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative pronoun",
+      "list_definition": [
+        {
+          "mean_english": "những thứ",
+          "definition": "the thing(s) that",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you find what you wanted?",
+              "world_new": [
+                "find",
+                "wanted"
+              ]
+            },
+            {
+              "ex_of_definition": "These tools are just what I need for this job",
+              "world_new": [
+                "I",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "What that child needs is a good telling-off!",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những điều",
+          "definition": "(also relative adjective) any (things or amount) that; whatever",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll lend you what clothes you need",
+              "world_new": [
+                "lend",
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "Please lend me what you can.",
+              "world_new": [
+                "lend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "whatever",
+    "whatnot",
+    "what’s-his/-her/-its etc -name",
+    "whatsoever",
+    "know what’s what",
+    "what about?",
+    "what … for",
+    "what have you",
+    "what if?",
+    "what … like?",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "whale",
+    "whale oil",
+    "whalebone",
+    "wharf",
+    "what",
+    "what … for",
+    "what … like?",
+    "what about?",
+    "what are you etc doing with"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331721_f94cb2df59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331721_805aed9fcc_o.png",
+      "id_image": "what_4471136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686664_8883159555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686664_9a95879879_o.png",
+      "id_image": "what_5359837"
+    }
+  ]
+}

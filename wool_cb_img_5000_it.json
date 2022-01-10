@@ -1,0 +1,88 @@
+{
+  "english": "wool",
+  "phat_am": "wul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "len",
+          "definition": "(of) the soft hair of sheep and some other animals, often made into yarn etc for knitting or into fabric for making clothes etc",
+          "world_new": [
+            "soft",
+            "hair",
+            "sheep",
+            "yarn",
+            "knitting",
+            "fabric",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wear wool in winter",
+              "world_new": [
+                "I",
+                "wear",
+                "winter"
+              ]
+            },
+            {
+              "ex_of_definition": "knitting-wool"
+            },
+            {
+              "ex_of_definition": "a wool blanket.",
+              "world_new": [
+                "blanket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A man is told to pick out all the green wools in one case and all the blue wools in another.",
+    "The list covers knitting wools, hand-knit garments and machine-knitted garments, and tweed.",
+    "The wools had also subsequently been washed.",
+    "The wool study was unfinished at the time the book became ready, and was not included in it.",
+    "The worsted spinners, however, who produce the bulk of these wools, have been given preference in the supply of fuel, and output is already increasing again.",
+    "Effects of shearing interval on fleece weight and wool growth on a delineated midside patch.",
+    "Second, wool production and wool usage tended to separate.",
+    "The primary participants in wool weaving were the shepherds."
+  ],
+  "list_see_also": [
+    "woollen",
+    "woollens",
+    "woolly",
+    "woolliness",
+    "pull the wool over someone’s eyes"
+  ],
+  "list_browse": [
+    "woodworm",
+    "woody",
+    "wooer",
+    "woof",
+    "wool",
+    "woollen",
+    "woollens",
+    "woolliness",
+    "woolly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379332_3b2f957275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379332_c5325503f8_o.png",
+      "id_image": "wool_1589241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379437_7b6d0609e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379437_dcc914f7c8_o.png",
+      "id_image": "wool_387868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449493_79f03e7fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449493_f3f5f3ae45_o.png",
+      "id_image": "wool_588416"
+    }
+  ]
+}

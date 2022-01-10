@@ -1,0 +1,65 @@
+{
+  "english": "walkway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường dành cho người đi bộ",
+          "definition": "a path etc for pedestrians only",
+          "world_new": [
+            "path"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pedestrian walkway.",
+              "world_new": [
+                "pedestrian"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At least one subterranean culvert was built into the causeway to divert water under the walkway and thus prevent flooding on the north side.",
+    "The enlarged oak walkways create a generous provision for pedestrians to enjoy the views of the river and meadows.",
+    "Handrails were also added to provide more detail and, importantly, to prevent people from falling off the various stairs and walkways.",
+    "Climbing techniques are arduous and do not reach the tips of branches; towers, cranes and walkways limit the spatial exploration of the forest.",
+    "Each of the three rooms has a short walkway culminating at a seat before an urn of water and a pool receiving water from a wall-fountain.",
+    "They consist of three covered rooms and a short walkway culminating at a seat before an urn of water and pool receiving water from a fountain attached to the wall.",
+    "Most dogs were observed to roam freely within and outside the premises of their owners and some were seen on the public walkways and gardens of neighbouring dwellings.",
+    "Gastroenteritis in concert hall attendees toilet on level 6, but female cases could only have been exposed when using the contaminated upper tier walkway."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "walker",
+    "walkie-talkie",
+    "walking stick",
+    "walkover",
+    "walkway",
+    "wall",
+    "wall-to-wall",
+    "walled",
+    "wallet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338616_d6033f479a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338616_25553cb79d_o.png",
+      "id_image": "walkway_2290188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383572_3b8b039696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383572_bc2a5f7c0c_o.png",
+      "id_image": "walkway_314073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338641_a67fc10d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338641_d38834cf1a_o.png",
+      "id_image": "walkway_647001"
+    }
+  ]
+}

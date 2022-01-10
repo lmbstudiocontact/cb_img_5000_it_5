@@ -1,0 +1,67 @@
+{
+  "english": "volleyball",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng chuyền",
+          "definition": "a game in which a ball is volleyed over a high net, using the hands",
+          "world_new": [
+            "game",
+            "ball",
+            "net"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beach volleyball.",
+              "world_new": [
+                "beach"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sport facilities includes yoga, equestrian, running tracks, pole vault, high jump, long and triple jump, tennis court, cricket, hockey, football, volleyball, basketball, badminton, table tennis.",
+    "They lend themselves more readily to multi-use, such as hockey, football and volleyball, and to more intensive use.",
+    "Activities ranged from volleyball to talks on how to look after pets.",
+    "We now have mixed volleyball, mixed hockey and mixed everything in schools today.",
+    "Grier has an equestrian team as well as volleyball, soccer, dance, fencing and tennis teams.",
+    "For example, it has schools of special ability in cricket, table tennis, lawn tennis, gymnastics, volleyball and basketball.",
+    "In 2002-2003, the women's volleyball team obtained varsity status.",
+    "There is a basketball and volleyball court, two restaurants, a gift shop and several small shops with basic snacks and drinks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "volatility",
+    "volcanic",
+    "volcano",
+    "volley",
+    "volleyball",
+    "volt",
+    "voltage",
+    "voluble",
+    "volubly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341006_9153d0ddc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341006_1a06881c6f_o.png",
+      "id_image": "volleyball_3116403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696229_b338412eda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696229_2fa9de3e5d_o.png",
+      "id_image": "volleyball_4645879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078270_a192ae41d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078270_a9ab6ba4a2_o.png",
+      "id_image": "volleyball_4669595"
+    }
+  ]
+}

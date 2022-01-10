@@ -1,0 +1,93 @@
+{
+  "english": "wallpaper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy dán tường",
+          "definition": "paper used to decorate interior walls of houses etc",
+          "world_new": [
+            "paper",
+            "decorate",
+            "interior"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "patterned wallpaper",
+              "world_new": [
+                "patterned"
+              ]
+            },
+            {
+              "ex_of_definition": "My wife wants to put wallpaper on the walls, but I would rather paint them.",
+              "world_new": [
+                "wife",
+                "I",
+                "rather",
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dán tường bằng giấy",
+          "definition": "to put such paper on",
+          "world_new": [
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have wallpapered the front room.",
+              "world_new": [
+                "I",
+                "front",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lock screen can be customised with wallpapers and important information.",
+    "The second section is filled with wallpapers and other stuff for your computer.",
+    "Activities that have been aided by the internet includes the creation of fan shrines dedicated to favourite characters, computer screen wallpapers, avatars.",
+    "Voysey was a distinguished designer of flat patterns for wallpapers, fabrics, carpets and tiles.",
+    "The release is a collection of multiple wallpapers, screensavers, desktop mascots, voice clips, and a typing game titled.",
+    "In addition to the film's synopsis and trailer, the website initially also contained five wallpapers and a press kit for visitors to download.",
+    "As with many 18th century wallpapers, this panorama is designed to be hung above a dado.",
+    "Both soundtracks come with a third disc with special features, such as game trailers, desktop wallpapers, and voice clips."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "walled",
+    "wallet",
+    "wallop",
+    "wallow",
+    "wallpaper",
+    "walnut",
+    "walrus",
+    "waltz",
+    "wan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383287_09bb02509e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383287_f7e3b1fb6d_o.png",
+      "id_image": "wallpaper_1347832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693544_06ce34a3a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693544_c077237529_o.png",
+      "id_image": "wallpaper_5776728"
+    }
+  ]
+}

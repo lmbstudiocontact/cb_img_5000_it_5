@@ -1,0 +1,53 @@
+{
+  "english": "zombie",
+  "phat_am": "ˈzombi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người sống dở chết dở",
+          "definition": "a slow-moving person of very little intelligence",
+          "world_new": [
+            "person",
+            "intelligence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Films about zombies seem to be very popular at the moment.",
+              "world_new": [
+                "seem",
+                "popular",
+                "moment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "zip fastener",
+    "zirconium",
+    "zit",
+    "zodiac",
+    "zombie",
+    "zone",
+    "zoo",
+    "zookeeper",
+    "zoological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066825_5ef7e3ccfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066825_8235b32fb4_o.png",
+      "id_image": "zombie_2136671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685059_8dd767a1e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685059_7e7f293844_o.png",
+      "id_image": "zombie_773362"
+    }
+  ]
+}

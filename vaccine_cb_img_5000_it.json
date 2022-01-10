@@ -1,0 +1,77 @@
+{
+  "english": "vaccine",
+  "phat_am": "ˈvӕksiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vắc xin",
+          "definition": "a substance made from the germs that cause a particular disease, especially smallpox, and given to a person or animal to prevent him from catching that disease",
+          "world_new": [
+            "substance",
+            "cause",
+            "particular",
+            "disease",
+            "smallpox",
+            "person",
+            "animal",
+            "prevent",
+            "catching",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flu vaccine.",
+              "world_new": [
+                "flu"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Factors affecting the immunogenicity of oral poliovirus vaccine in developing countries : review.",
+    "Finally, the vaccine could be shown to have some measurable efficacy.",
+    "The major challenge in the development of antischistosome vaccines is to use defined antigens to stimulate an appropriate immune response that leads to resistance.",
+    "In the majority of patients (influenza vaccine, 98 % and pneumococcal vaccine, 94 %), vaccination was carried out in general practice.",
+    "These have been used extensively as autologous vaccines and little information is available on their efficacy.",
+    "All persons without spleen should be given pneumococcal vaccine.",
+    "The second dose of vaccine is given to immunize children with primary vaccine failure, and those children that did not receive the first dose.",
+    "Potential health and economic impact of adding a human papillomavirus vaccine to screening programs."
+  ],
+  "list_see_also": [
+    "vaccinate",
+    "vaccination"
+  ],
+  "list_browse": [
+    "vacantly",
+    "vacation",
+    "vaccinate",
+    "vaccination",
+    "vaccine",
+    "vacillate",
+    "vacillation",
+    "vacuole",
+    "vacuum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349801_3b0c3f74ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349801_d97f7c3eb0_o.png",
+      "id_image": "vaccine_2746413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464523_c1ef3cbf6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464523_492d9414bc_o.png",
+      "id_image": "vaccine_484713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087095_44fde22988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087095_b4b10e0143_o.png",
+      "id_image": "vaccine_549106"
+    }
+  ]
+}

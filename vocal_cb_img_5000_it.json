@@ -1,0 +1,78 @@
+{
+  "english": "vocal",
+  "phat_am": "ˈvəukəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc phát âm",
+          "definition": "of, or concerning, the voice",
+          "world_new": [
+            "concerning",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the singer’s vocal style.",
+              "world_new": [
+                "style"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "to mồm, lắm tiếng",
+          "definition": "(of a person) talkative; keen to make one’s opinions heard by other people",
+          "world_new": [
+            "keen",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s always very vocal at meetings."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Chorus: lead vocals and rhythm track.",
+    "The instrumental music in the opera comprises two overtures, a pantomimic march, and several preludes and interludes to vocal numbers.",
+    "As the decade progressed, however, there were increasingly vocal debates about the extent of choice in the private sector.",
+    "I began by making field recordings and overdubbing vocals later, but this proved unsatisfactory.",
+    "The problem though is that the ragga vocal is extremely unconvincing and comes across as merely comical and absurd.",
+    "Figure 2 illustrates a series of monan operations applied to the amplitude envelopes of the harmonics of a sung vocal 'ah' sound.",
+    "Unfortunately, no singing teacher was available then to help cope with the vocal demands of the piece.",
+    "Their sound was multi-instrumental, with traditional - flute, bodhran, acoustic fiddle, mandolin, concertina - meeting with rock instrumentation - guitar, bass, drums, keyboards and vocals."
+  ],
+  "list_see_also": [
+    "vocally",
+    "vocalist",
+    "vocal cords"
+  ],
+  "list_browse": [
+    "vivisection",
+    "vixen",
+    "VJ",
+    "vocabulary",
+    "vocal",
+    "vocal cords",
+    "vocalist",
+    "vocally",
+    "vocation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078950_3d164b3b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078950_4e198fedd8_o.png",
+      "id_image": "vocal_122871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456378_1873edfe6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456378_b05169c767_o.png",
+      "id_image": "vocal_4806603"
+    }
+  ]
+}

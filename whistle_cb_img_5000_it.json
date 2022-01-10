@@ -1,0 +1,192 @@
+{
+  "english": "whistle",
+  "phat_am": "ˈwisl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thổi sáo",
+          "definition": "to make a shrill, often musical, sound by forcing one’s breath between the lips or teeth",
+          "world_new": [
+            "shrill",
+            "musical",
+            "sound",
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you whistle?"
+            },
+            {
+              "ex_of_definition": "He whistled to attract my attention",
+              "world_new": [
+                "attract",
+                "my",
+                "attention"
+              ]
+            },
+            {
+              "ex_of_definition": "He whistled a happy tune.",
+              "world_new": [
+                "happy",
+                "tune"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi còi",
+          "definition": "to make such a sound with a device designed for this",
+          "world_new": [
+            "sound",
+            "device"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The electric kettle’s whistling",
+              "world_new": [
+                "electric"
+              ]
+            },
+            {
+              "ex_of_definition": "The referee whistled for half-time.",
+              "world_new": [
+                "referee",
+                "half-time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "réo (đạn)",
+          "definition": "to make a shrill sound in passing through the air",
+          "world_new": [
+            "shrill",
+            "sound",
+            "passing",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bullet whistled past his head.",
+              "world_new": [
+                "bullet",
+                "head"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rít (gió)",
+          "definition": "(of the wind) to blow with a shrill sound",
+          "world_new": [
+            "blow",
+            "shrill",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She could hear the wind whistling in the trees.",
+              "world_new": [
+                "hear",
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sáo",
+          "definition": "the sound made by whistling",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave a loud whistle to his friend across the road.",
+              "world_new": [
+                "loud",
+                "friend",
+                "across",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái sáo",
+          "definition": "a musical pipe designed to make a whistling noise",
+          "world_new": [
+            "musical",
+            "pipe",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tin whistle.",
+              "world_new": [
+                "tin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái còi",
+          "definition": "an instrument used by policemen, referees etc to make a whistling noise",
+          "world_new": [
+            "instrument",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The referee blew his whistle at the end of the game.",
+              "world_new": [
+                "referee",
+                "game"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe that he is whistling in the dark.",
+    "The top price was $1.20, and the top tunes were those that could be recorded often and well - whistled items, solos by \"penetrating\" musical instruments, and band numbers.",
+    "Will he give us the gas and coal figures, or will we still be whistling in the dark on the comparisons?",
+    "I suggest that that is whistling in the dark.",
+    "Whistling is a hideous sound at the best of times, if there is ever a good time for whistling.",
+    "In this country we are in danger of whistling in the dark.",
+    "On the other hand, it might be a good thing if whistles were sounded only by the police.",
+    "The veterinary surgeons who examined the horse did not consider that the symptoms were those commonly associated with laryngeal paralysis, namely, whistling or roaring."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whisky",
+    "whisper",
+    "whisperer",
+    "whist",
+    "whistle",
+    "Whit Monday",
+    "white",
+    "white elephant",
+    "white horse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330386_445932b58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330386_19d02f9174_o.png",
+      "id_image": "whistle_165054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375067_2df2b2fccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375067_9d3b189f60_o.png",
+      "id_image": "whistle_451691"
+    }
+  ]
+}

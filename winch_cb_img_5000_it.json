@@ -1,0 +1,77 @@
+{
+  "english": "winch",
+  "phat_am": "wintʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tời",
+          "definition": "a type of powerful machine for hoisting or hauling heavy loads.",
+          "world_new": [
+            "type",
+            "powerful",
+            "machine",
+            "heavy"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo bằng tời",
+          "definition": "to hoist (up) or haul (in) using a winch",
+          "world_new": [
+            "hoist",
+            "haul"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The survivors were winched from the sea by helicopter.",
+              "world_new": [
+                "sea",
+                "helicopter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But the winches on each side of the bridge were electric, not hand-driven, which made for much less labour.",
+    "In the first place it deals with the question of terminology, winch has given rise to a good deal of confusion.",
+    "I also want to reply to one of the accusations winch was made against our party.",
+    "They were the two great issues with winch the electorate were faced during the presidential election.",
+    "One of the great engineering firms that repaired ships and manufactured winches was due to go out of business.",
+    "Truck movement along the vertical is performed by program-controlled winches equipped with position transducers.",
+    "Larsen planned to flense alongside, hoist blankets of blubber and meat aboard using powerful winches and derricks, and process on deck.",
+    "They were rescued only when the lift was winched manually back to ground level, after which two people required oxygen from the emergency services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "win through",
+    "win-win",
+    "win/lose the toss",
+    "wince",
+    "winch",
+    "wind",
+    "wind farm",
+    "wind turbine",
+    "wind up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684249_8561915f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684249_a7f1fd10df_o.png",
+      "id_image": "winch_2564143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444263_dec0106a1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444263_e741523197_o.png",
+      "id_image": "winch_422153"
+    }
+  ]
+}

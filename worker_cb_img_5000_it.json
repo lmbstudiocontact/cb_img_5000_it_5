@@ -1,0 +1,91 @@
+{
+  "english": "worker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công nhân",
+          "definition": "a person who works or who is employed in an office, a factory etc",
+          "world_new": [
+            "person",
+            "works",
+            "employed",
+            "office",
+            "factory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "office workers",
+              "world_new": [
+                "office"
+              ]
+            },
+            {
+              "ex_of_definition": "car workers.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thường là công nhân làm việc chân tay",
+          "definition": "a manual worker rather than an office-worker etc.",
+          "world_new": [
+            "manual",
+            "rather"
+          ]
+        },
+        {
+          "mean_english": "người lao động",
+          "definition": "a person who works (hard etc)",
+          "world_new": [
+            "person",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a slow/hard worker."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1991 public workers balked at that plan and there was a two-day general strike.",
+    "Despite this, relatively few workers have exploited these approaches.",
+    "Ergatocracy to him meant the 'politics of workers', which was derived from the spirit of democracy.",
+    "Younger workers appeared to have higher jobrelated stress.",
+    "We can all cite distressing examples of the failures of systems and of workers to respond in a timely and appropriate way.",
+    "Along with protections against arbitrary discharge, workers sought union control of hiring.",
+    "As the low participation in training of workers aged in their forties shows, some of its effects manifest themselves remarkably early in the lifecourse.",
+    "The case is made for promoting and supporting communication as key skills and competencies for care workers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "work wonders",
+    "work-basket",
+    "workable",
+    "workbook",
+    "worker",
+    "workforce",
+    "working class",
+    "working day",
+    "working hours"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689359_22ae561cc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689359_0051beb1b9_o.png",
+      "id_image": "worker_313100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449283_590f855111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449283_20f111f03f_o.png",
+      "id_image": "worker_562536"
+    }
+  ]
+}

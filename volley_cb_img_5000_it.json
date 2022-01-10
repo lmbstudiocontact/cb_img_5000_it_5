@@ -1,0 +1,115 @@
+{
+  "english": "volley",
+  "phat_am": "ˈvoli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả vô lê",
+          "definition": "in tennis, the hitting of a ball before it bounces",
+          "world_new": [
+            "tennis",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hit a superb volley back across the net.",
+              "world_new": [
+                "hit",
+                "superb",
+                "across",
+                "net"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loạt , tràng ,chuỗi",
+          "definition": "a burst of firing etc",
+          "world_new": [
+            "burst"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a volley of shots"
+            },
+            {
+              "ex_of_definition": "a volley of questions/curses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vô lê",
+          "definition": "to hit (a ball etc) before it bounces",
+          "world_new": [
+            "hit",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He volleyed the ball back to his opponent.",
+              "world_new": [
+                "ball",
+                "opponent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuôn ra, bắn ra hàng loạt",
+          "definition": "to fire a rapid burst of (bullets, questions etc)",
+          "world_new": [
+            "fire",
+            "rapid",
+            "burst"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Democrats and Republicans are already volleying accusations of blame.",
+              "world_new": [
+                "blame"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "volleyball"
+  ],
+  "list_browse": [
+    "volatile",
+    "volatility",
+    "volcanic",
+    "volcano",
+    "volley",
+    "volleyball",
+    "volt",
+    "voltage",
+    "voluble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455858_5d968058ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455858_09604c0774_o.png",
+      "id_image": "volley_4696264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696274_17a3f2ee9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696274_6db08d63a6_o.png",
+      "id_image": "volley_4792260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455883_0480fe8f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455883_70ff464b88_o.png",
+      "id_image": "volley_907382"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "vibration",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự rung động, sự chuyển động",
+          "definition": "(an) act of vibrating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This building is badly affected by the vibration of all the heavy traffic that passes.",
+              "world_new": [
+                "building",
+                "badly",
+                "affected",
+                "heavy",
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this compensation may cause acute vibration due to its high frequency.",
+    "These above approaches to vibration control are usually referred to as passive vibration control.",
+    "Even though a minimal amount of vibration remains at the flexible links, it cannot guarantee the reduction of end-effector position error.",
+    "It can be seen that the vibration absorber can significantly quench the response of the primary systems at the excitation frequency.",
+    "These are the shortest duration sequences that eliminate residual vibrations, assuming that only positive amplitudes are used.",
+    "These experimental results demonstrate the effectiveness of the proposed control methodology in minimizing base oscillatory vibration in a time domain.",
+    "The desired path is optimally designed so that the system completes the required move with minimum residual vibration, avoiding obstacles.",
+    "It can be observed that both the tracking errors and the residual vibration after the motion are considerably reduced."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "viability",
+    "viable",
+    "viaduct",
+    "vibrate",
+    "vibration",
+    "vicar",
+    "vicarage",
+    "vice versa",
+    "vice-"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390137_94bdee9e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390137_0476361ed3_o.png",
+      "id_image": "vibration_2646891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345151_27b7d706d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345151_aa5837453d_o.png",
+      "id_image": "vibration_6254024"
+    }
+  ]
+}

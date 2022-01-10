@@ -1,0 +1,68 @@
+{
+  "english": "voter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đi bầu cử, biểu quyết",
+          "definition": "a person who votes or has the right to vote",
+          "world_new": [
+            "person",
+            "right",
+            "vote"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do voters choose one candidate over another?",
+              "world_new": [
+                "choose",
+                "candidate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this case, we have documented campaign effects that are not directly associated with either the persuasion or conversion of voters to or from parties.",
+    "However, it is unclear how much, or what, information voters ought to know in order to make an informed choice among candidates.",
+    "As always in times of retrenchment, elected officials have needed to win the goodwill of voters and interest groups for these unpopular cutbacks.",
+    "The papers reviewed have focused on indirect communication - from voters to elected politicians through voting and from politicians to voters through campaign fund-raising.",
+    "On the contrary, strategic politicians and strategic voters should prefer not to waste their efforts/votes on policy positions/parties that are likely to lose.",
+    "In other words, voters had good reason to vote strategically within parties to maximize the number of seats their side would win.",
+    "The system's popularity among voters is so great, that many perceive program reform as tantamount to touching the ' ' third rail ' ' of politics.",
+    "An issue would be placed on the ballot if a large number of voters from around the country signed a petition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "voodoo",
+    "vote",
+    "vote of confidence",
+    "vote of thanks",
+    "voter",
+    "vouch",
+    "voucher",
+    "vow",
+    "vowel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340211_2621f97221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340211_70a65782f7_o.png",
+      "id_image": "voter_5390701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077435_c6743d5517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077435_87f933b12b_o.png",
+      "id_image": "voter_5608060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455028_6915ab29bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455028_ac179da565_o.png",
+      "id_image": "voter_5608074"
+    }
+  ]
+}

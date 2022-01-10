@@ -1,0 +1,62 @@
+{
+  "english": "vegetation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thực vật",
+          "definition": "plants in general; plants of a particular region or type",
+          "world_new": [
+            "particular",
+            "region",
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tropical vegetation.",
+              "world_new": [
+                "tropical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These results represent strong evidence of increased seed mass in the vegetation of north-facing grasslands, when compared to their south-facing counterparts.",
+    "With the end of the rainy season, the soil and the vegetation quickly dry out.",
+    "At the live-fence sites the net line ran parallel to the barbed-wire fence and under the crowns of the live-fence trees and other associated vegetation.",
+    "On reaching this area of heavier rainfall, the sand wasfixedby the perennial vegetation.",
+    "The species occupies a diversity of habitat and vegetation types.",
+    "As farmers began to grow crops in former conservation areas, they increased evaporation and decreased the ability of vegetation to intercept rainfall and inhibit erosion.",
+    "Fuel wood from improved fallows on far m may provide a means to conserve the natural vegetation, which is under threat due to deforestation.",
+    "We recorded the presence and mass of all vertebrates, as well as the fresh mass of aboveground vegetation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vegetable",
+    "vegetarian",
+    "vegetarianism",
+    "vegetate",
+    "vegetation",
+    "vehemence",
+    "vehement",
+    "vehemently",
+    "vehicle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
+      "id_image": "vegetarian_5635512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462083_74dce8c9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462083_6a37f7abcb_o.png",
+      "id_image": "vegetation_5302965"
+    }
+  ]
+}

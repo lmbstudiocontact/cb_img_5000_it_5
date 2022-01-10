@@ -1,0 +1,71 @@
+{
+  "english": "unlock",
+  "phat_am": "anˈlok",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mở khóa",
+          "definition": "to open (something locked)",
+          "world_new": [
+            "open"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Unlock this door, please!",
+              "world_new": [
+                "door",
+                "please"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Again, this issue needs to be unlocked quickly.",
+    "Understandably, the incidence of burglary increases when doors and windows are left unlocked.",
+    "They were located in a wing where cells remain unlocked during the day and were free to associate with each other.",
+    "The other methods referred to in the third row include entry by unlocked doors and open windows.",
+    "Our proximity policy must be attractive, unlocking new prospects and bringing mutual benefits.",
+    "The key that unlocks and frees the minds of our children is the quality of the education that they receive.",
+    "He said that confidence was the key to unlocking recovery, and that confidence was the essential condition for increased spending in the economy.",
+    "Electronic locking and unlocking systems are quite difficult to install."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unlike",
+    "unlikely",
+    "unlimited",
+    "unload",
+    "unlock",
+    "unluckily",
+    "unlucky",
+    "unmanned",
+    "unmarried"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466978_93f1dcf37a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466978_b33895c99a_o.png",
+      "id_image": "unlock_144924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397142_cae91cdd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397142_c75355ec8c_o.png",
+      "id_image": "unlock_194355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089575_452b819c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089575_3af2c46df8_o.png",
+      "id_image": "unlock_2292226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466888_d161b1858c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466888_bf2ea84627_o.png",
+      "id_image": "unlock_3858390"
+    }
+  ]
+}

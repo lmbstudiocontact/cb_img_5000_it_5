@@ -1,0 +1,67 @@
+{
+  "english": "walker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đi bộ",
+          "definition": "a person who goes walking for pleasure",
+          "world_new": [
+            "person",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We met a party of walkers as we were going home.",
+              "world_new": [
+                "party",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Later he analysed it theoretically and by means of simulation walkers with hip compliance but with the body being a point-mass.",
+    "This needs to be considered when prescribing a walker to meet the specific needs of the user.",
+    "It seems that the mechanical parameters of these walkers work better than the complicated control system of the conventional robots in generating natural looking gaits.",
+    "Unfortunately for walkers, friction and rigidity are ubiquitous properties.",
+    "Thus, the passive walker reported here can stand still.",
+    "The drawing shows how the right leg of the walker is freed from the sidewalk, and then it is tied down to a new position.",
+    "Many types of passive dynamic walkers have been studied by researchers, from simple to complex.",
+    "This walker has two equal legs, modeled as rigid bodies coupled with a frictionless hinge at the hip."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "walk of life",
+    "walk off with",
+    "walk on air",
+    "walk/stand etc on tiptoe(s)",
+    "walker",
+    "walkie-talkie",
+    "walking stick",
+    "walkover",
+    "walkway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383687_332942a2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383687_15014bfc03_o.png",
+      "id_image": "walker_2142623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693884_870edf5fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693884_28f63bc1f3_o.png",
+      "id_image": "walker_2142628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693844_d0cc70fbea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693844_4cd0b8abce_o.png",
+      "id_image": "walker_5222961"
+    }
+  ]
+}

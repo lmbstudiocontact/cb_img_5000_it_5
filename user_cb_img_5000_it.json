@@ -1,0 +1,66 @@
+{
+  "english": "user",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người sử dụng",
+          "definition": "a person who uses something",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "computer users",
+              "world_new": [
+                "computer"
+              ]
+            },
+            {
+              "ex_of_definition": "drug users.",
+              "world_new": [
+                "drug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This mechanism provides mappings between a representative name preferred by the user and the other names.",
+    "This is important because different target users are assumed to be more or less familiarity with spreadsheets, or with logic.",
+    "The configuration reached at each visiting station is measured and the result compared to the goal configuration values that were specified by the user.",
+    "Section 7 presents some user statistics derived from randomly logged requests.",
+    "Both studies found four subgroups of substance users defined by their trajectories of use.",
+    "In his visits to and walks around allotments, public housing projects and wasteland, he took photographs, drew maps and interviewed inhabitants or users of space.",
+    "All probabilities are appropriately conditioned on the observed data, and users can find any probabilities of interest.",
+    "The first tool is mono-user; the second can work with different users."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "useful",
+    "usefully",
+    "usefulness",
+    "useless",
+    "user",
+    "user guide",
+    "user-friendly",
+    "usher",
+    "usual"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705349_d8b0db539b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705349_1b7fc61e9d_o.png",
+      "id_image": "user_282133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705314_b33982e5fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705314_5c10ff720f_o.png",
+      "id_image": "user_391102"
+    }
+  ]
+}

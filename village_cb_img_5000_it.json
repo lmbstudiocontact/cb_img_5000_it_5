@@ -1,0 +1,87 @@
+{
+  "english": "village",
+  "phat_am": "ˈvilidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngôi làng",
+          "definition": "a group of houses etc which is smaller than a town",
+          "world_new": [
+            "group",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They live in a little village",
+              "world_new": [
+                "live"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a village school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dân làng",
+          "definition": "the people who live in such a group of houses",
+          "world_new": [
+            "people",
+            "live",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole village turned out to see the celebrations.",
+              "world_new": [
+                "whole",
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Though these villages exhibit a low level of infrastructural development, common property in both land and water is not a new concept in these villages.",
+    "The 'free people' were mainly farmers, who lived in villages among their estates.",
+    "All fuel, for homes and for industry, has to be brought to the towns and villages which are isolated and small.",
+    "The agrarian landscape of the area soon began to resemble that of conventional villages, with fields driven into very different directions and gradually left fallow.",
+    "In all, eight villages (4.7%) were wholly or partly endowed.",
+    "Initially, intercept dummies were introduced to represent these three categories of villages.",
+    "Our findings demonstrate that in villages that provided water managers with strong incentives, water use fell sharply.",
+    "He visited rural villages and witnessed how the different groups lived in close proximity to one another."
+  ],
+  "list_see_also": [
+    "villager"
+  ],
+  "list_browse": [
+    "vile",
+    "vilely",
+    "vileness",
+    "villa",
+    "village",
+    "villager",
+    "villain",
+    "villainous",
+    "villainy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388752_cc107d4cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388752_675d56fc03_o.png",
+      "id_image": "village_1151658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343901_2b7371a385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343901_237ca55d3b_o.png",
+      "id_image": "village_804540"
+    }
+  ]
+}

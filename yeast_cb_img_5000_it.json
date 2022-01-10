@@ -1,0 +1,65 @@
+{
+  "english": "yeast",
+  "phat_am": "jiːst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "men",
+          "definition": "a substance which causes fermentation, used in making beer, bread etc",
+          "world_new": [
+            "substance",
+            "fermentation",
+            "beer",
+            "bread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "baker’s yeast."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yeast carrying such a mutation do not grow on minimal medium without histidine.",
+    "Probably other cell surface properties in addition to hydrophobicity also affect the adhesion rate of yeast cells to surfaces.",
+    "For oviposition, a spoon with 2 ml of medium and coated with live yeast paste was placed in each vial.",
+    "Also, high throughput techniques like the yeast two-hybrid method, which identifies protein-protein interactions, cannot be easily applied to membrane proteins.",
+    "Yeast is very suitable for analyses of eukaryotic recombination mechanisms in both mitotic and meiotic cells.",
+    "Determination of the order of gene function in the yeast nuclear division pathway using cs and ts mutants.",
+    "A novel engineered meganuclease induces homologous recombination in yeast and mammalian cells.",
+    "The long bulk-fermentation involved in traditional breadmaking processes can be eliminated by introducing the work normally performed by the yeast as mechanical work by machine."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yearbook",
+    "yearly",
+    "yearn",
+    "yearning",
+    "yeast",
+    "yell",
+    "yellow",
+    "yellow fever",
+    "yellow metal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445868_fe55d18a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445868_bcd2768cd9_o.png",
+      "id_image": "yeast_2534120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330891_4e44d435b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330891_1aea38fa71_o.png",
+      "id_image": "yeast_3348061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445778_f8a4a5da6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445778_35159829af_o.png",
+      "id_image": "yeast_3447812"
+    }
+  ]
+}

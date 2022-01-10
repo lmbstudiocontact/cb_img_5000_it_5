@@ -1,0 +1,88 @@
+{
+  "english": "vegetable",
+  "phat_am": "ˈvedʒtəbl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rau",
+          "definition": "a plant or part of a plant, other than a fruit, used as food",
+          "world_new": [
+            "plant",
+            "part",
+            "plant",
+            "fruit",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We grow potatoes, beans, and other vegetables",
+              "world_new": [
+                "grow"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) vegetable oil.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực vật",
+          "definition": "a plant",
+          "world_new": [
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grass is a vegetable, gold is a mineral and a human being is an animal.",
+              "world_new": [
+                "gold",
+                "mineral",
+                "human",
+                "animal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "vegetarian",
+    "vegetarianism",
+    "vegetate",
+    "vegetation"
+  ],
+  "list_browse": [
+    "vector",
+    "veer",
+    "veg",
+    "vegan",
+    "vegetable",
+    "vegetarian",
+    "vegetarianism",
+    "vegetate",
+    "vegetation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084910_b685376aa6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084910_a34db632d2_o.png",
+      "id_image": "vegetable_1198308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347576_9394fe2363_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347576_e036cb6741_o.png",
+      "id_image": "vegetable_3527108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462353_8bbe362d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462353_2756a92290_o.png",
+      "id_image": "vegetable_549126"
+    }
+  ]
+}

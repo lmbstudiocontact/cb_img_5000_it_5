@@ -1,0 +1,69 @@
+{
+  "english": "vanity",
+  "phat_am": "ˈvӕnəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính kiêu ngạo, tự phụ",
+          "definition": "excessive admiration of oneself; conceit",
+          "world_new": [
+            "excessive",
+            "admiration",
+            "conceit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vanity is her chief fault.",
+              "world_new": [
+                "chief",
+                "fault"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyện phù hoa",
+          "definition": "worthlessness or pointlessness",
+          "world_new": [
+            "worthlessness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the vanity of human ambition.",
+              "world_new": [
+                "human",
+                "ambition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vane",
+    "vanguard",
+    "vanilla",
+    "vanish",
+    "vanity",
+    "vanquish",
+    "vaporize",
+    "vapour",
+    "variability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463233_baff81ff24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463233_8f565574ef_o.png",
+      "id_image": "vanity_699303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393297_f4ac21e8c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393297_57aac041f7_o.png",
+      "id_image": "vanity_699304"
+    }
+  ]
+}

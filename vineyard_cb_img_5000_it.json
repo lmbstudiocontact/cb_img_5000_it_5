@@ -1,0 +1,68 @@
+{
+  "english": "vineyard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vườn nho",
+          "definition": "an area which is planted with grape vines",
+          "world_new": [
+            "area",
+            "grape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We spent the summer touring the French vineyards.",
+              "world_new": [
+                "spent",
+                "summer",
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "French colonial rum output achieved the most rapid growth, filling the gap in the metropolitan market created by the vineyard blights oidium and phylloxera.",
+    "The first required educational measures, the second, the development of screening and registration procedures, and the third, practices of treating infected vineyards.",
+    "The land rises quickly from the lake, as continuous ribbon development along the shore gives way to vineyard terraces behind.",
+    "At stake between the vintners and the government agencies was the property and definition of the vineyard.",
+    "As an aid to observers, it attempted to visualize the phylloxera damage in the vineyards both below and above ground (fig. 3).",
+    "Besides their recommendations about treatments of the existing grapevines and vineyards, the commission recommended only small, carefully undertaken experiments to test grafted vines.",
+    "She declared a piece of vineyard with olive trees, which was valued at 6 florins.",
+    "Until 1901, no dosage recommendations had been supplied with instructions for disinfecting the vineyards."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "villainy",
+    "villus",
+    "vine",
+    "vinegar",
+    "vineyard",
+    "vintage",
+    "viola",
+    "violate",
+    "violation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458248_891aef42ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458248_fa7fb08778_o.png",
+      "id_image": "vineyard_2036713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458208_01a0779922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458208_0f5623624a_o.png",
+      "id_image": "vineyard_4252578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343471_9e11c8166b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343471_30f920e681_o.png",
+      "id_image": "vineyard_4698460"
+    }
+  ]
+}

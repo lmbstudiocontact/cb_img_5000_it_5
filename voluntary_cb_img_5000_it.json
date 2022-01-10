@@ -1,0 +1,81 @@
+{
+  "english": "voluntary",
+  "phat_am": "ˈvoləntəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tự nguyện",
+          "definition": "done, given etc by choice, not by accident or because of being forced (often without pay)",
+          "world_new": [
+            "choice",
+            "accident",
+            "forced"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their action was completely voluntary – nobody asked them to do that.",
+              "world_new": [
+                "action",
+                "completely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình nguyện",
+          "definition": "run, financed etc by such actions, contributions etc",
+          "world_new": [
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He does a lot of work for a voluntary organization.",
+              "world_new": [
+                "work",
+                "organization"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because segmentalist behavior is voluntary, no external agency is necessary to enforce it.",
+    "Thus, the fixational subsystem can exhibit improved voluntary control despite chronic visual deprivation.",
+    "There is clearly scope for partnership development of equity release schemes bringing together central government, local government, the voluntary sector and the private sector.",
+    "The work of accommodation agency services in some voluntary organisations, assisted by funding from government, provides the clearest example of market efficiency approaches.",
+    "The commissioning group facilitated bids from the voluntary sector, linking them to academic units.",
+    "Possible neural mechanisms underpinning difficulties in triggering inhibitory responses and in the voluntary initiation of actions in schizophrenia are considered.",
+    "We have argued that the period from the beginning of the 1980s and onwards represents another turn in the voluntary-statutory relationship.",
+    "Voluntary guidelines set by advertising regulators could be a catalyst for change, and have been seen to work."
+  ],
+  "list_see_also": [
+    "voluntarily"
+  ],
+  "list_browse": [
+    "voluble",
+    "volubly",
+    "volume",
+    "voluntarily",
+    "voluntary",
+    "volunteer",
+    "vomit",
+    "voodoo",
+    "vote"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340651_015c22eb66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340651_df60999d83_o.png",
+      "id_image": "voluntary_1590696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385582_0a7ffa051a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385582_eeb7c13d4d_o.png",
+      "id_image": "voluntary_1974645"
+    }
+  ]
+}

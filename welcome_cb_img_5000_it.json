@@ -1,0 +1,158 @@
+{
+  "english": "welcome",
+  "phat_am": "ˈwelkəm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chào mừng",
+          "definition": "received with gladness and happiness",
+          "world_new": [
+            "gladness",
+            "happiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She will make you welcome"
+            },
+            {
+              "ex_of_definition": "He is a welcome visitor at our house",
+              "world_new": [
+                "visitor",
+                "our",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "The extra money was very welcome",
+              "world_new": [
+                "extra",
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "The holiday made a welcome change.",
+              "world_new": [
+                "holiday",
+                "change"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chào đón",
+          "definition": "reception; hospitality",
+          "world_new": [
+            "hospitality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were given a warm welcome.",
+              "world_new": [
+                "warm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chào đón",
+          "definition": "to receive or greet with pleasure and gladness",
+          "world_new": [
+            "receive",
+            "greet",
+            "pleasure",
+            "gladness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were welcomed by our hosts",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "She will welcome the chance to see you again.",
+              "world_new": [
+                "chance",
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "chào đón ai",
+          "definition": "used to express gladness at someone’s arrival",
+          "world_new": [
+            "express",
+            "gladness",
+            "arrival"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Welcome to Britain!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During the same period, only one-tenth or less of their mass publics has expressed the desire to welcome back authoritarian rule.",
+    "This book is a welcome addition to the literature, but ultimately will leave the reader wishing for more novelty.",
+    "Extensive referencing and evaluation of current debates also makes it valuable for postgraduates and a welcome refresher for seasoned practitioners.",
+    "We welcome the opportunity to clarify these issues and to respond to our critics on the many questions that our target article generated.",
+    "In short, we welcome fast and frugal models because they make us re-think the dimensions of human judgment.",
+    "Pressure was put on local elites and villagers to welcome migrants.",
+    "We wish to clarify these and welcome the chance her commentary provided to offer aspects of the social situation surrounding the case we presented.",
+    "A number of suggestions has been made about its content and more will be welcome."
+  ],
+  "list_see_also": [
+    "welcoming",
+    "be welcome to",
+    "you’re welcome!"
+  ],
+  "list_browse": [
+    "weir",
+    "weird",
+    "weirdly",
+    "weirdness",
+    "welcome",
+    "welcoming",
+    "weld",
+    "welder",
+    "welfare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377332_24d3c94f3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377332_04912dfc60_o.png",
+      "id_image": "welcome_2445144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447523_7630e43000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447523_fc7c57bab3_o.png",
+      "id_image": "welcome_2689940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377227_f5b91de8a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377227_a7ac162a3e_o.png",
+      "id_image": "welcome_6143967"
+    }
+  ]
+}

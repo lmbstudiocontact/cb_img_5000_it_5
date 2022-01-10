@@ -1,0 +1,83 @@
+{
+  "english": "urn",
+  "phat_am": "əːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình đựng tro hỏa táng",
+          "definition": "a tall vase or other container, especially for holding the ashes of a dead person",
+          "world_new": [
+            "tall",
+            "vase",
+            "container",
+            "ashes",
+            "dead",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stone-age burial urn.",
+              "world_new": [
+                "burial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình to bằng kim loại",
+          "definition": "a large metal container with a tap, in which tea or coffee is made eg in a canteen etc",
+          "world_new": [
+            "large",
+            "metal",
+            "container",
+            "tap",
+            "tea",
+            "coffee",
+            "canteen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tea-urn."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In computer science, urn models are used for database performance evaluations [35] and for modelling and analysing algorithms.",
+    "Sometimes the cremated remains are placed in an urn, but more commonly they are scattered in a small pit or placed in an organic container.",
+    "Two other large urns were reported to have been found during street construction some 15 m from the salvaged urn.",
+    "Because the remains were cremated and because the urns and the monument lack hieroglyphs, it is difficult to know who the two personages were.",
+    "The form is a pedestal topped by an urn, the classical symbol of death and mourning.",
+    "In this paper, we present several probabilistic transforms related to classical urn models.",
+    "In the middle of these six locations with offerings, we found a large jar that was likely a funerary urn.",
+    "Therefore, the combinatorial model for the case of unlabelled urns has a different structure and interpretation from the case of labelled urns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "urinary bladder",
+    "urinate",
+    "urine",
+    "URL",
+    "urn",
+    "us",
+    "usable",
+    "USB",
+    "use"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705504_91049be2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705504_4e7147e567_o.png",
+      "id_image": "urn_5826157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350956_c3e9965b16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350956_e04e85672f_o.png",
+      "id_image": "urn_6001196"
+    }
+  ]
+}

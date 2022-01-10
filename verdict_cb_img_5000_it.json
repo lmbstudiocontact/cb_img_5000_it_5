@@ -1,0 +1,72 @@
+{
+  "english": "verdict",
+  "phat_am": "ˈvəːdikt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời phán quyết",
+          "definition": "the decision of a jury at the end of a trial",
+          "world_new": [
+            "decision",
+            "jury",
+            "trial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jury returned a verdict of guilty.",
+              "world_new": [
+                "jury",
+                "guilty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhận định",
+          "definition": "an opinion or decision reached after consideration",
+          "world_new": [
+            "opinion",
+            "decision",
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The competitors are still waiting for the verdict of the judges."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We nonetheless want to point out that no serious jurist has made consensus on verdicts the hallmark of the judicial process.",
+    "This issue has come up in a variety of contexts-for example, re the question of possible verdict differences between so-called death-qualified and not-death-qualified jurors.",
+    "At the end of the drama, viewers were given the chance to act as jury in the court case and phone in their verdict.",
+    "On the railroad's motion for a new trial, the trial court reduced the amount of the judgment by $3,000 but refused to set aside the verdict.",
+    "The decision of each court, then, amounted to a verdict about the family's history and identity.",
+    "His verdicts are assertions that are made from the perspective of that system.",
+    "When the jury produces a liability verdict and a damages award, it plays a direct role in the creation of an entitlement.",
+    "We showed that juror bias is not necessarily the most important element of a juror's verdict determination calculus."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "verbal",
+    "verbally",
+    "verbatim",
+    "verbose",
+    "verdict",
+    "verge",
+    "verifiable",
+    "verification",
+    "verify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346441_b150532dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346441_b6c6661fb0_o.png",
+      "id_image": "verdict_2861325"
+    }
+  ]
+}

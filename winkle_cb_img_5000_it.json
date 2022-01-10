@@ -1,0 +1,82 @@
+{
+  "english": "winkle",
+  "phat_am": "ˈwiŋkl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tách dần ra",
+          "definition": "to force (something out of something) gradually and with difficulty",
+          "world_new": [
+            "force",
+            "gradually",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He winkled the shell out from the rock",
+              "world_new": [
+                "shell",
+                "rock"
+              ]
+            },
+            {
+              "ex_of_definition": "He tried to winkle some information out of her.",
+              "world_new": [
+                "information"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ốc mút",
+          "definition": "(also periwinkleˈperi-) a type of small shellfish, shaped like a small snail, eaten as food.",
+          "world_new": [
+            "type",
+            "small",
+            "shellfish",
+            "shaped",
+            "small",
+            "snail",
+            "food"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Any new ceasefire must also mean an end to winkling people out from their homes and farms, and an end to the boycotts.",
+    "That does not sound like winkling out to me; it sounds like being on the front foot.",
+    "The new audit commission will winkle out many more problems that the direct labour organisations have caused.",
+    "There is nothing particularly secret about the information, although it takes some winkling out.",
+    "If the amendments were intended to be probing amendments, they have perhaps winkled out a pearl or two.",
+    "The parties, however active, are unlikely to winkle out all such people.",
+    "They use harassment to winkle out the sitting tenant and obtain vacant possession.",
+    "We were asking for positive discrimination in favour of shoes which were medically sound, not in favour of the wedge heels and the winkle-pickers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wingless",
+    "wings",
+    "wingspan",
+    "wink",
+    "winkle",
+    "winner",
+    "winning",
+    "winning post",
+    "winnow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373467_aac255144c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373467_6ec7872e46_o.png",
+      "id_image": "winkle_3561973"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "unplug",
+  "phat_am": "anˈplaɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rút, tháo phích cắm",
+          "definition": "to disconnect from the electricity supply",
+          "world_new": [
+            "disconnect",
+            "electricity",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He unplugged the television.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông, gỡ bỏ cái gì",
+          "definition": "to take the plug out of.",
+          "world_new": [
+            "plug"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An example of a crash-only implementation is unplugging a computer and plugging it back in.",
+    "There was no reminder for viewers to switch off, and unplug, their television sets.",
+    "She tries to unplug it and shocks herself.",
+    "She tells him to unplug it and get out.",
+    "With virtualization, a system administrator could combine several physical systems into virtual machines on one single, powerful system, thereby unplugging the original hardware and reducing power and cooling consumption.",
+    "When another soldier tries to unplug the jukebox, the entire place erupts into a fight.",
+    "He unplugs it from the wall, but it still rings.",
+    "When the power cord stretches enough to unplug the jackhammer, the coyote climbs out and finds himself vibrating sporadically."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unpack",
+    "unpick",
+    "unpleasant",
+    "unpleasantly",
+    "unplug",
+    "unpopular",
+    "unpopularity",
+    "unpractical",
+    "unprecedented"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089470_795cced912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089470_59f671c836_o.png",
+      "id_image": "unplug_4241115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466718_4f8e446f02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466718_1c5a55f63d_o.png",
+      "id_image": "unplug_4309775"
+    }
+  ]
+}

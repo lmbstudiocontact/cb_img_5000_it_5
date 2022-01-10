@@ -1,0 +1,105 @@
+{
+  "english": "wink",
+  "phat_am": "wiŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nháy mắt",
+          "definition": "to shut and open an eye quickly in friendly greeting, or to show that something is a secret etc",
+          "world_new": [
+            "shut",
+            "open",
+            "eye",
+            "quickly",
+            "friendly",
+            "greeting",
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her father winked at her and said: ‘Don’t tell your mother about the present I bought her.’",
+              "world_new": [
+                "father",
+                "tell",
+                "your",
+                "mother",
+                "present",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấp nháy",
+          "definition": "(of eg lights) to flicker and twinkle",
+          "world_new": [
+            "flicker",
+            "twinkle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A light was winking on the dashboard.",
+              "world_new": [
+                "light",
+                "dashboard"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nháy mắt",
+          "definition": "an act of winking",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Don’t tell anyone I’m here’, he said with a wink.",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "forty winks"
+  ],
+  "list_browse": [
+    "winger",
+    "wingless",
+    "wings",
+    "wingspan",
+    "wink",
+    "winkle",
+    "winner",
+    "winning",
+    "winning post"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683894_189900388b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683894_e2dc15019f_o.png",
+      "id_image": "wink_1128926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683869_a8609c9ff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683869_9092be4094_o.png",
+      "id_image": "wink_1815157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065565_837d73fc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065565_7982219eef_o.png",
+      "id_image": "wink_2366546"
+    }
+  ]
+}

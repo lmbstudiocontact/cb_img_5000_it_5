@@ -1,0 +1,192 @@
+{
+  "english": "water",
+  "phat_am": "ˈwoːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước",
+          "definition": "a colourless/colorless, transparent liquid compound of hydrogen and oxygen, having no taste or smell, which turns to steam when boiled and to ice when frozen",
+          "world_new": [
+            "transparent",
+            "liquid",
+            "compound",
+            "hydrogen",
+            "oxygen",
+            "taste",
+            "smell",
+            "steam",
+            "ice",
+            "frozen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She drank two glasses of water",
+              "world_new": [
+                "glasses"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Are you going swimming in the sea?’ ‘No, the water’s too cold’",
+              "world_new": [
+                "swimming",
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "Each bedroom in the hotel is supplied with hot and cold running water",
+              "world_new": [
+                "bedroom",
+                "hotel",
+                "hot",
+                "cold",
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) The plumber had to turn off the water supply in order to repair the pipe",
+              "world_new": [
+                "plumber",
+                "turn",
+                "supply",
+                "order",
+                "repair",
+                "pipe"
+              ]
+            },
+            {
+              "ex_of_definition": "transport by land and water.",
+              "world_new": [
+                "transport",
+                "land"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tưới cây; cho uống nước",
+          "definition": "to supply with water",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He watered the plants."
+            }
+          ]
+        },
+        {
+          "mean_english": "chảy nước bọt",
+          "definition": "(of the mouth) to produce saliva",
+          "world_new": [
+            "produce",
+            "saliva"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His mouth watered at the sight of all the food.",
+              "world_new": [
+                "mouth",
+                "sight",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm chảy nước mắt",
+          "definition": "(of the eyes) to fill with tears",
+          "world_new": [
+            "fill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dense smoke made his eyes water.",
+              "world_new": [
+                "dense",
+                "smoke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Besides nutrients and light, rice and weeds also competed for water.",
+    "Then the water composition approximately oscillates at each point of the aquifer in phase with the water velocity.",
+    "This is not necessarily so, as is evidenced by the financial problems of the potable water systems in all three states.",
+    "The existence of discrete levels of critical water potential is suggestive of specific stresses that cells must accommodate during the acquisition of desiccation tolerance.",
+    "Removing water from living tissues causes a series of dehydration stresses.",
+    "The water-transporting function of aquaporins is likely responsible for these roles.",
+    "In addition to the milking, the izinceku also tended to the king's oxen and fetched water for the king in gourds.",
+    "This testa probably reduced the rate of water loss and protected the embryo from physical injury."
+  ],
+  "list_see_also": [
+    "waters",
+    "watery",
+    "wateriness",
+    "waterborne",
+    "water-closet",
+    "watercolour",
+    "watercress",
+    "water cycle",
+    "waterfall",
+    "waterfowl",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "watchmaker",
+    "watchman",
+    "watchtower",
+    "watchword",
+    "water",
+    "water boatman",
+    "water cycle",
+    "water down",
+    "water level"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380802_c504d2dbbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380802_746597300a_o.png",
+      "id_image": "water_1391386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380762_262960818a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380762_c6f55a3698_o.png",
+      "id_image": "water_1488196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691004_f153db00e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691004_57e5b413c2_o.png",
+      "id_image": "water_523386"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "yeah",
+  "phat_am": "jeə",
+  "list_english": [
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "ừ, vâng, đúng",
+          "definition": "yes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Did you remember to buy some milk?’ ‘Yeah.’",
+              "world_new": [
+                "remember",
+                "buy",
+                "milk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The yes category also included well yes (ben si), but yes (si), yeah (ouais), and okay (d'accord).",
+    "And um, yeah, he said, yeah, that costs 300 marks with health insurance.",
+    "Yeah, and just every boy band is exactly the same, they're all just structured to sell.",
+    "Yeah, that you make a nice facade to be a good neighbour.",
+    "That's the tray to take the pizza?* yeah.",
+    "Yeah, and it was a really bad accident.",
+    "The delaying power of \"yeah, well, anyway, um\" is quite inspiring.",
+    "As soon as we finished the competition we said, yeah, this is nice, but there are more possibilities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yawn",
+    "yawning",
+    "yd",
+    "ye",
+    "yeah",
+    "year",
+    "yearbook",
+    "yearly",
+    "yearn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331131_74085f3f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331131_7c7387594f_o.png",
+      "id_image": "yeah_5928299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331106_1bcbb2e715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331106_82c6301799_o.png",
+      "id_image": "yeah_6322154"
+    }
+  ]
+}

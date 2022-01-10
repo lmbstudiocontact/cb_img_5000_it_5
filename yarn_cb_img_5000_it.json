@@ -1,0 +1,91 @@
+{
+  "english": "yarn",
+  "phat_am": "jaːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sợi",
+          "definition": "wool, cotton etc spun into thread",
+          "world_new": [
+            "wool",
+            "cotton",
+            "thread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "knitting yarn",
+              "world_new": [
+                "knitting"
+              ]
+            },
+            {
+              "ex_of_definition": "a length of yarn.",
+              "world_new": [
+                "length"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyện huyên thuyên",
+          "definition": "an old word for a story or tale",
+          "world_new": [
+            "old",
+            "story",
+            "tale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He told us interesting yarns about his travels.",
+              "world_new": [
+                "interesting",
+                "travels"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nylon and terylene yarns are not distinguished from other yarns of synthetic fibres in the trade statistics.",
+    "To mislead the country and paint a picture that is not true is not to oppose but to spin yarns.",
+    "I would gladly do a great deal more if there were the yarns available.",
+    "The use of 56/58's crossbred yarns for some garments instead of the yarns previously used is, therefore, desired.",
+    "The same dyed yarns are now 140 pence per pound and this week he cannot get anybody to quote.",
+    "The same is true in regard to yarns, cottons, and wools.",
+    "Figures are not available of the production of nylon, terylene and other man-made fibre spun yarns.",
+    "The first concerns the imposition of surveillance import licencing on all imports of man-made fibre yarns and fabrics imported from both developed and developing countries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yank",
+    "Yankee",
+    "yap",
+    "yard",
+    "yarn",
+    "yashmak",
+    "yawn",
+    "yawning",
+    "yd"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067995_31644aff6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067995_282b8557cf_o.png",
+      "id_image": "yarn_5617607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686329_75b3ebaff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686329_85032ceec8_o.png",
+      "id_image": "yarn_588425"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "workforce",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lực lượng lao động",
+          "definition": "the number of workers (available for work) in a particular industry, factory etc",
+          "world_new": [
+            "number",
+            "particular",
+            "industry",
+            "factory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The factory has a workforce of about 300 people.",
+              "world_new": [
+                "factory",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "According to this axis the pension systems have to be more compatible with the need for more flexible workforces.",
+    "We are told that we have a prejudice against public sector firms and industries and their workforces.",
+    "The transfer of production to countries with cheaper workforces appears inevitable.",
+    "I believe that there is now far greater agreement between workforces and management.",
+    "How can employers be expected to increase their workforces to any significant extent with present prospects?",
+    "Contractors could be employing workforces in various parts of the country, many miles from the local authority in question.",
+    "We can seek to involve workforces through the kind of dialogues recommended and seek to establish procedures for consultation.",
+    "According to this figure, the zenidaka-decreasing group's size rarely varied from its average of 3n5 persons, whereas the zenidaka-increasing group's workforces rose from about 3n5 to 5n0."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "work-basket",
+    "workable",
+    "workbook",
+    "worker",
+    "workforce",
+    "working class",
+    "working day",
+    "working hours",
+    "working party"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449203_b3ae84c877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449203_9a3784916f_o.png",
+      "id_image": "workforce_2631453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071190_3d02b7160e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071190_012bc8e460_o.png",
+      "id_image": "workforce_3050564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689224_1716edd32a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689224_9cf8b31af6_o.png",
+      "id_image": "workforce_6214216"
+    }
+  ]
+}

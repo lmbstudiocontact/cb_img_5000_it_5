@@ -1,0 +1,68 @@
+{
+  "english": "ventilation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thông gió, hơi",
+          "definition": "the act or means of ventilating or the state of being ventilated",
+          "world_new": [
+            "act",
+            "means",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was no window in the room, and no other (means of) ventilation.",
+              "world_new": [
+                "window",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Smoke tests and measurements of air velocity indicated that a mild north-easterly wind (0.5 1.5m/s) generated very effective cross ventilation (see section).",
+    "The cave's entrance became buried, and inadequate ventilation caused an episode of hypoxia and carbon monoxide poisoning.",
+    "Neither classrooms nor common living spaces were provided with sufficient daylight or adequate ventilation systems.",
+    "Ventilation was required for four days after the operation, after which the pulmonary edema had resolved.",
+    "The horse also has a very stiff chest wall that limits the thoracic displacement to ventilation during exercise86 and mandates a proportionally greater diaphragmatic displacement.",
+    "In this case, modifications involved a regularized structural design and improved ventilation.",
+    "There is no quantitative indication of the advantages of wind breakers, skycourts, fixed shading, double skin facade, and central atrium ventilation.",
+    "His condition improved so that he was weaned from ventilation within next day."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "venomous",
+    "venomously",
+    "vent",
+    "ventilate",
+    "ventilation",
+    "ventilator",
+    "ventricle",
+    "ventriloquism",
+    "ventriloquist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701554_700ced2c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701554_f91aaebc07_o.png",
+      "id_image": "ventilation_406078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391642_ef08521c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391642_66bf4d5fc9_o.png",
+      "id_image": "ventilation_422144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391622_b843423eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391622_a89b7666b2_o.png",
+      "id_image": "ventilation_5650588"
+    }
+  ]
+}

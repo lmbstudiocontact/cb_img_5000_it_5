@@ -1,0 +1,99 @@
+{
+  "english": "wage",
+  "phat_am": "weidʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiến hành",
+          "definition": "to carry on or engage in (especially a war)",
+          "world_new": [
+            "carry",
+            "engage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The North waged war on/against the South.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lương tuần",
+          "definition": "(also wagesnoun plural) a regular, usually weekly rather than monthly, payment for the work that one does",
+          "world_new": [
+            "regular",
+            "weekly",
+            "rather",
+            "monthly",
+            "payment",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spends all his wages on clothes",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "What is his weekly wage?",
+              "world_new": [
+                "weekly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wage-packet"
+  ],
+  "list_browse": [
+    "wafer",
+    "wafer-thin",
+    "waffle",
+    "wag",
+    "wage",
+    "wage-packet",
+    "wager",
+    "waggle",
+    "wagon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454458_117f8158b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454458_2f4a0d5af6_o.png",
+      "id_image": "wage_2419709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339506_9dd79c2e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339506_2656a7e727_o.png",
+      "id_image": "wage_3003270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454393_1a8a715b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454393_7dd6200c87_o.png",
+      "id_image": "wage_5308010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694649_d98045efd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694649_edb8964ea3_o.png",
+      "id_image": "wage_5796984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694594_da064d4bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694594_56002ace0c_o.png",
+      "id_image": "wage_6213869"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "vaccination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiêm chủng",
+          "definition": "(an) act of vaccinating or process of being vaccinated",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to have a vaccination tomorrow",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "Vaccination was introduced in the eighteenth century.",
+              "world_new": [
+                "century"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Oral delivery represents another attractive alternative to parenteral injection for large-scale human vaccination.",
+    "We adopted a meta-population framework to model local aggregation of populations, and used this to investigate the effects of vaccination heterogeneity.",
+    "The level of influenza and pneumococcal vaccination varied with the level of deprivation.",
+    "Virtually none has been evaluated in vaccination trials.",
+    "In the majority of patients (influenza vaccine, 98 % and pneumococcal vaccine, 94 %), vaccination was carried out in general practice.",
+    "This allows for identification of areas with ongoing poliovirus transmission and implementation of appropriate vaccination responses.",
+    "The vaccination was administered by deep intramuscular injection in the deltoid muscle.",
+    "Unfortunately, not all horses react in the same way to the vaccines, with some ' poor responders ' showing low levels of antibody after vaccination [1]."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vacant",
+    "vacantly",
+    "vacation",
+    "vaccinate",
+    "vaccination",
+    "vaccine",
+    "vacillate",
+    "vacillation",
+    "vacuole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087220_d2ed1897fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087220_e0aee165da_o.png",
+      "id_image": "vaccination_4745684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087195_08645853ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087195_3fe6862a53_o.png",
+      "id_image": "vaccination_4745690"
+    }
+  ]
+}

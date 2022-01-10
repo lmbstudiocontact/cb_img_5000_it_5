@@ -1,0 +1,241 @@
+{
+  "english": "wash",
+  "phat_am": "woʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rửa; giặt",
+          "definition": "to clean (a thing or person, especially oneself) with (soap and) water or other liquid",
+          "world_new": [
+            "clean",
+            "person",
+            "water",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How often do you wash your hair?",
+              "world_new": [
+                "your",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "You wash (the dishes) and I’ll dry",
+              "world_new": [
+                "dry"
+              ]
+            },
+            {
+              "ex_of_definition": "We can wash in the stream.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có thể giặt được",
+          "definition": "to be able to be washed without being damaged",
+          "world_new": [
+            "damaged"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This fabric doesn’t wash very well.",
+              "world_new": [
+                "fabric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xô vào",
+          "definition": "to flow (against, over etc)",
+          "world_new": [
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The waves washed (against) the ship.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuốn trôi",
+          "definition": "to sweep (away etc) by means of water",
+          "world_new": [
+            "sweep",
+            "means",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The floods have washed away hundreds of houses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giặt",
+          "definition": "an act of washing",
+          "world_new": [
+            "act",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s just gone to have a wash."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhứng thứ có thể gíặt được",
+          "definition": "things to be washed or being washed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your sweater is in the wash.",
+              "world_new": [
+                "sweater"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng sóng vỗ nước",
+          "definition": "the flowing or lapping (of waves etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the wash of waves against the rocks."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuốc đánh răng",
+          "definition": "a liquid with which something is washed",
+          "world_new": [
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mouthwash.",
+              "world_new": [
+                "mouthwash"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp tráng",
+          "definition": "a thin coat (of water-colour/-color paint etc), especially in a painting",
+          "world_new": [
+            "thin",
+            "coat",
+            "paint",
+            "painting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The background of the picture was a pale blue wash.",
+              "world_new": [
+                "background",
+                "picture",
+                "pale",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng sóng",
+          "definition": "the waves caused by a moving boat etc",
+          "world_new": [
+            "moving",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rowing boat was tossing about in the wash from the ship’s propellers.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I couldn't get washed, dressed or eat until my husband came home at night.",
+    "Meals would be cooked, linen washed and clothes made and repaired by public caterers, laundry workers and needlewomen.",
+    "After the pulping the coffee beans are washed and the remaining pulp is usually composted.",
+    "They also enhanced their beauty through facial tattooing, washing daily, plaiting and applying red ochre to their hair, wearing sweet-smelling leaves and using love medicines.",
+    "In brief, washed labelled trypomastigotes (5 x 104/tube) were dispensed into small plastic tubes.",
+    "The book includes numerous colour photographs, but many are not sharp or their colours are washed out.",
+    "These kind creatures next turned their attention to our personal appearance, and prevailed upon us to shave and wash ourselves.",
+    "Both hotel staff and attendees should practice effective hand washing after using the bathroom."
+  ],
+  "list_see_also": [
+    "washable",
+    "washer",
+    "washing",
+    "washed-out",
+    "washerwoman",
+    "washcloth",
+    "washbasin",
+    "washing-machine",
+    "washing powder",
+    "washing-up",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "warship",
+    "wart",
+    "wartime",
+    "wary",
+    "wash",
+    "wash up",
+    "washable",
+    "washbasin",
+    "washcloth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451558_b95eb32cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451558_c390386828_o.png",
+      "id_image": "wash_1221535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073620_b447ec2433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073620_ea3dcfbaed_o.png",
+      "id_image": "wash_1415756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336561_d8be23fe63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336561_0b19d9d212_o.png",
+      "id_image": "wash_2780644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451458_1210d2b27b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451458_6c69feff87_o.png",
+      "id_image": "wash_3690111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381687_20ae98da26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381687_3f34bda1f1_o.png",
+      "id_image": "wash_392763"
+    }
+  ]
+}

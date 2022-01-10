@@ -1,0 +1,102 @@
+{
+  "english": "yawn",
+  "phat_am": "joːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngáp",
+          "definition": "to stretch the mouth wide and take a deep breath when tired or bored",
+          "world_new": [
+            "stretch",
+            "mouth",
+            "wide",
+            "deep",
+            "breath",
+            "tired",
+            "bored"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He yawned and fell asleep.",
+              "world_new": [
+                "fell",
+                "asleep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngáp",
+          "definition": "an act of yawning",
+          "world_new": [
+            "act",
+            "yawning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to stifle a yawn",
+              "world_new": [
+                "stifle"
+              ]
+            },
+            {
+              "ex_of_definition": "She let out a yawn of boredom.",
+              "world_new": [
+                "let",
+                "boredom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Quite frankly, he gave us a vision of the future, and it yawns.",
+    "Once the legal heavyweights applied their minds, it was revealed yet again that there are not manholes but yawning opencast gaps of enormous proportions in what we are discussing.",
+    "The facts of the position have been stated so often that there is no need to repeat them, except to say that the import—export gap yawns.",
+    "There is clearly a yawning gap in the law.",
+    "How can we fill that yawning gap, as we must do before 1952?",
+    "Awful dialogues, in the guise of comedy only tests your patience further as you are busy stifling yawns.",
+    "He can see the precipice yawning before him, and he unhesitatingly marches towards it.",
+    "The album's central cover image is that of a gorilla yawning, suggesting the homonymous pun with the album's title, oral gorilla."
+  ],
+  "list_see_also": [
+    "yawning"
+  ],
+  "list_browse": [
+    "yap",
+    "yard",
+    "yarn",
+    "yashmak",
+    "yawn",
+    "yawning",
+    "yd",
+    "ye",
+    "yeah"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446223_3b6453653b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446223_71558d0bfd_o.png",
+      "id_image": "yawn_1128905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686234_b1b02020e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686234_ee161247ab_o.png",
+      "id_image": "yawn_1128961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686189_c342a944f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686189_6f63606c98_o.png",
+      "id_image": "yawn_5509051"
+    }
+  ]
+}

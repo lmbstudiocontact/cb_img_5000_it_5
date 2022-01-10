@@ -1,0 +1,73 @@
+{
+  "english": "webcam",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái webcam",
+          "definition": "a video camera connected to a computer that allows its images to be seen in real time over the Internet",
+          "world_new": [
+            "video",
+            "camera",
+            "computer",
+            "its",
+            "real",
+            "time",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Webcams are easy to install and straightforward to use.",
+              "world_new": [
+                "easy",
+                "install",
+                "straightforward"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The group aimed to have realtime monitoring of moose on webcam, and to form a cooperative agreement with the city on moose protection.",
+    "Fingerspelling is frequently produced with the hand very close to the webcam.",
+    "They are best known for their budget range of peripherals such as keyboards, mice, microphones, speakers and webcams.",
+    "They experiment and learn that the parameters of the webcam can be manipulated in various ways.",
+    "The multimedia site was also accompanied by a webcam allowing people to follow the ship's construction up to its launch date.",
+    "There has also been similar debate regarding related terms such as web page, web server, and webcam.",
+    "The focal range of the webcam restricts communicative space significantly compared to face-to-face signed communication; the camera's visual field is far more limited than an actual interactant's would be.",
+    "Another way computer-mediated video enhances communication is in the way the webcam provides interlocutors with a unique resource - a two-dimensional image of themselves signing - which is available throughout the conversation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "web page",
+    "web-footed",
+    "webbed",
+    "webbing",
+    "webcam",
+    "website",
+    "wed",
+    "wedding",
+    "wedge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378327_537133f563_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378327_7b457cb8fc_o.png",
+      "id_image": "webcam_1176363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688539_2a6091c867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688539_b100a642b5_o.png",
+      "id_image": "webcam_179879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448558_d4289eef94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448558_ecc5e8ec9e_o.png",
+      "id_image": "webcam_517800"
+    }
+  ]
+}

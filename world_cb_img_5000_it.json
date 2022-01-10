@@ -1,0 +1,194 @@
+{
+  "english": "world",
+  "phat_am": "wəːld",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Thế giới",
+          "definition": "the planet Earth",
+          "world_new": [
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "every country of the world.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân loại",
+          "definition": "the people who live on the planet Earth",
+          "world_new": [
+            "people",
+            "live",
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole world is waiting for a cure for cancer.",
+              "world_new": [
+                "whole",
+                "cure",
+                "cancer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vũ trụ",
+          "definition": "any planet etc",
+          "world_new": [
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "people from other worlds.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trần gian",
+          "definition": "a state of existence",
+          "world_new": [
+            "state",
+            "existence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many people believe that after death the soul enters the next world",
+              "world_new": [
+                "people",
+                "believe",
+                "death",
+                "soul"
+              ]
+            },
+            {
+              "ex_of_definition": "Do concentrate! You seem to be living in another world.",
+              "world_new": [
+                "concentrate",
+                "seem",
+                "living"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc đời",
+          "definition": "an area of life or activity",
+          "world_new": [
+            "area",
+            "life",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the insect world",
+              "world_new": [
+                "insect"
+              ]
+            },
+            {
+              "ex_of_definition": "the world of the international businessman.",
+              "world_new": [
+                "international",
+                "businessman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều",
+          "definition": "a great deal",
+          "world_new": [
+            "great",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The holiday did him a/the world of good.",
+              "world_new": [
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiên hạ",
+          "definition": "the lives and ways of ordinary people",
+          "world_new": [
+            "ordinary",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been a monk for so long that he knows nothing of the (outside) world.",
+              "world_new": [
+                "monk",
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My argument in this article concerns mental representations of situations in the world, as these representations existed before language, and even before communication.",
+    "This would lead to the formation of rich representations including not only our body and the world, but the interaction between them.",
+    "For even if features of the world were literally represented in brains/ minds, these representations would not explain cognition.",
+    "The use of parody enables the external world to 'enter' and disrupt the otherwise 'purely musical' discourse.",
+    "The brain learns abstract representations of the world and then learns the optimal mappings between them.",
+    "It follows that a theoretical hypothesis claims a similarity between a model and some part of the world.",
+    "Making buildings requires knowledge not only in the world of information exchange, but in the world of making things.",
+    "I think the ascetic world reinforced my feeling that they were important."
+  ],
+  "list_see_also": [
+    "worldly",
+    "worldliness",
+    "world-class",
+    "world-famous",
+    "world music",
+    "worldwide",
+    "the best of both worlds",
+    "for all the world",
+    "out of this world",
+    "what in the world(?)"
+  ],
+  "list_browse": [
+    "works",
+    "worksheet",
+    "workshop",
+    "workstation",
+    "world",
+    "world music",
+    "world-class",
+    "world-famous",
+    "worldliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688719_8eae88ae42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688719_1a7ba9069d_o.png",
+      "id_image": "world_309256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070530_6d2b5e201e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070530_d76abab39a_o.png",
+      "id_image": "world_366468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378462_efcbd4eb10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378462_58f52d0f40_o.png",
+      "id_image": "world_439956"
+    }
+  ]
+}

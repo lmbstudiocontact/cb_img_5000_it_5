@@ -1,0 +1,63 @@
+{
+  "english": "voicemail",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thư thoại",
+          "definition": "a system that stores telephone messages for subscribers to this service",
+          "world_new": [
+            "system",
+            "telephone",
+            "service"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you checked your voicemail?",
+              "world_new": [
+                "checked",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Having no basis for an arrest, she phoned the parole office to relay her concerns, leaving a report of the meeting on voicemail.",
+    "She calls her daughter and leaves a voicemail.",
+    "For voice-mail, they'd see the header information (sender, date sent, size, and subject).",
+    "The setting is updated to 2010, with email and voicemail replacing the answering machine messages in the book.",
+    "The upper half of the screen includes signal, bluetooth, voicemail, sound, and battery symbols.",
+    "With unified voicemail users can have one voice mail for all these disparate lines.",
+    "Callahan tells the agents about the soldier and the voicemail, which was received twice before at his home.",
+    "The message is from a voicemail left on a friend's answering machine in 1998."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vogue",
+    "voice",
+    "voiced",
+    "voiceless",
+    "voicemail",
+    "void",
+    "vol.",
+    "volatile",
+    "volatility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341286_cd8fa1da02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341286_d877d36329_o.png",
+      "id_image": "voicemail_2482333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386242_f364531009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386242_28051267a8_o.png",
+      "id_image": "voicemail_2934484"
+    }
+  ]
+}

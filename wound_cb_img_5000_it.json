@@ -1,0 +1,108 @@
+{
+  "english": "wound",
+  "phat_am": "wuːnd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết thương",
+          "definition": "a physical hurt or injury",
+          "world_new": [
+            "physical",
+            "hurt",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wound that he had received in the war still gave him pain occasionally",
+              "world_new": [
+                "war",
+                "pain",
+                "occasionally"
+              ]
+            },
+            {
+              "ex_of_definition": "He died from a bullet-wound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bị thương",
+          "definition": "to hurt or injure physically",
+          "world_new": [
+            "hurt",
+            "injure",
+            "physically"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He didn’t kill the animal – he just wounded it",
+              "world_new": [
+                "kill",
+                "animal",
+                "wounded"
+              ]
+            },
+            {
+              "ex_of_definition": "He was wounded in the battle.",
+              "world_new": [
+                "wounded",
+                "battle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tổn thương",
+          "definition": "to hurt (someone’s feelings)",
+          "world_new": [
+            "hurt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her pride was wounded when she fell off the horse.",
+              "world_new": [
+                "pride",
+                "wounded",
+                "fell",
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wounded"
+  ],
+  "list_browse": [
+    "worthy",
+    "would",
+    "would you",
+    "would-be",
+    "wound",
+    "wounded",
+    "WP",
+    "wrangle",
+    "wrap"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070105_2a5c86caf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070105_b54bc34779_o.png",
+      "id_image": "wound_1068397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378097_935ab13f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378097_ef723fa52b_o.png",
+      "id_image": "wound_4236974"
+    }
+  ]
+}

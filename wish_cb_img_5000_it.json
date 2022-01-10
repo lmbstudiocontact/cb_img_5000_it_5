@@ -1,0 +1,185 @@
+{
+  "english": "wish",
+  "phat_am": "wiʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ước",
+          "definition": "to have and/or express a desire",
+          "world_new": [
+            "express",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no point in wishing for a miracle",
+              "world_new": [
+                "point",
+                "miracle"
+              ]
+            },
+            {
+              "ex_of_definition": "Touch the magic stone and wish",
+              "world_new": [
+                "magic",
+                "stone"
+              ]
+            },
+            {
+              "ex_of_definition": "He wished that she would go away"
+            },
+            {
+              "ex_of_definition": "I wish that I had never met him.",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yêu cầu",
+          "definition": "to require (to do or have something)",
+          "world_new": [
+            "require"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you wish to sit down, sir?",
+              "world_new": [
+                "sit",
+                "sir"
+              ]
+            },
+            {
+              "ex_of_definition": "We wish to book some seats for the theatre",
+              "world_new": [
+                "book",
+                "theatre"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll cancel the arrangement if you wish.",
+              "world_new": [
+                "cancel",
+                "arrangement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chúc",
+          "definition": "to say that one hopes for (something for someone)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wish you the very best of luck.",
+              "world_new": [
+                "I",
+                "best",
+                "luck"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mong ước",
+          "definition": "a desire or longing, or the thing desired",
+          "world_new": [
+            "desire",
+            "longing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s always been my wish to go to South America some day.",
+              "world_new": [
+                "my",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều ước",
+          "definition": "an expression of desire",
+          "world_new": [
+            "expression",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fairy granted him three wishes",
+              "world_new": [
+                "fairy",
+                "granted"
+              ]
+            },
+            {
+              "ex_of_definition": "Did you make a wish?"
+            }
+          ]
+        },
+        {
+          "mean_english": "lời chúc",
+          "definition": "an expression of hope for success etc for someone",
+          "world_new": [
+            "expression",
+            "hope",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sends you his best wishes.",
+              "world_new": [
+                "best"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it wished to move out of the usual definition of preventive interventions as discrete procedures addressed to a particular disease.",
+    "The unemployed wished for more financing for unemployment benefits and social assistance and single parents claimed more financing of child benefits and family benefits.",
+    "Although further work is necessary to pursue these tentative findings, they are of interest for those wishing to model macro data successfully.",
+    "The inclusion of comprehensive reference lists is helpful for professionals wishing to study individual topics further.",
+    "The different levels of government intervention must of course be taken into consideration when judging the extent to which the wishes of electors were distorted.",
+    "We found little evidence to suggest that these priorities were consistent with the expressed wishes and preferences of residents themselves.",
+    "The pain is, in this case, intentional - a means to the (laudable) end that this person wishes to achieve.",
+    "Firstly, we wished the group members to be familiar, feel confident and safe to explore their experiences and perceptions."
+  ],
+  "list_see_also": [
+    "wishful thinking",
+    "wishing-well"
+  ],
+  "list_browse": [
+    "wise",
+    "wise guy",
+    "wisecrack",
+    "wisely",
+    "wish",
+    "wishful thinking",
+    "wishing-well",
+    "wisp",
+    "wispy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072755_b07046c28f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072755_c20b88dbb1_o.png",
+      "id_image": "wish_2773044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072810_350cc3b245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072810_4bc6e95eef_o.png",
+      "id_image": "wish_994643"
+    }
+  ]
+}

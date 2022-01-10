@@ -1,0 +1,70 @@
+{
+  "english": "visitor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khách du lịch",
+          "definition": "a person who visits, socially or professionally",
+          "world_new": [
+            "person",
+            "socially",
+            "professionally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m expecting visitors from America"
+            },
+            {
+              "ex_of_definition": "We’re having visitors next week.",
+              "world_new": [
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A broad range of topics is covered, including water supplies, school medical services, nursing, midwifery, health visitors and inequalities in health and medical care.",
+    "Therefore, it was not permitted to impose fees on tourists or visitors in exchange for services beyond entrance fees into tourist and archaeological areas.",
+    "Flower visitors were grouped on the basis of their body size and taxonomic position.",
+    "Indeed, besides the cost, black visitors were allowed access to the zoo only on particular days.",
+    "Over time visitors cause the sound to change day and night.",
+    "Many other grandparents obtain only short-stay single-entry visitor's visas.",
+    "The protection of southern giant petrels should be increased by having a minimum distance of 50 m for all visitors.",
+    "To most visitors the result was radically novel."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "visible",
+    "visibly",
+    "vision",
+    "visit",
+    "visitor",
+    "visual",
+    "visual display unit",
+    "visualization",
+    "visualize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079640_9dfb56ffa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079640_18c3f5c908_o.png",
+      "id_image": "visitor_4615753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697444_2b9e9cbc26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697444_ca80a0eeb7_o.png",
+      "id_image": "visitor_827057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342236_a972ac57bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342236_fe8fe044fc_o.png",
+      "id_image": "visitor_874676"
+    }
+  ]
+}

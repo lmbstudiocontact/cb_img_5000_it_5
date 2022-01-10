@@ -1,0 +1,102 @@
+{
+  "english": "why",
+  "phat_am": "wai",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tại sao",
+          "definition": "for which reason (?)",
+          "world_new": [
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Why did you shout at the child?’",
+              "world_new": [
+                "shout",
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "‘He shouted at the child.’ ‘Why?’",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "Why haven’t you finished?",
+              "world_new": [
+                "finished"
+              ]
+            },
+            {
+              "ex_of_definition": "‘I haven’t finished.’ ‘Why not?’",
+              "world_new": [
+                "finished"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Let’s go to the cinema.’ ‘Why not?’ (= Let’s!)",
+              "world_new": [
+                "cinema"
+              ]
+            },
+            {
+              "ex_of_definition": "Tell me why you came here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative pronoun",
+      "list_definition": [
+        {
+          "mean_english": "tại sao",
+          "definition": "for which",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give me one good reason why I should help you!",
+              "world_new": [
+                "reason",
+                "I",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The obvious question, however, is why they are not used more in teaching design.",
+    "Even so, an explanation why just these symptoms co-occur would be welcome.",
+    "Why it should be so and why it perpetuates an injustice are the twin themes of the author.",
+    "Then why does threat simulation co-occur with psychological troubles?",
+    "So why has such a synthesis been so slow to develop?",
+    "This is why it is much easier to determine whether a philosophical principle is true than to determine the extent of its validity.",
+    "One might ponder why this is the case.",
+    "I would like to know why they took place."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whooping-cough",
+    "whopping",
+    "whore",
+    "whose",
+    "why",
+    "wick",
+    "wicked",
+    "wickedly",
+    "wickedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066570_cbc656d45a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066570_19426d7b60_o.png",
+      "id_image": "why_6028753"
+    }
+  ]
+}

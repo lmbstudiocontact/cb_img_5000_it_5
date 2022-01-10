@@ -1,0 +1,347 @@
+{
+  "english": "well",
+  "phat_am": "wel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giếng",
+          "definition": "a lined shaft made in the earth from which to obtain water, oil, natural gas etc",
+          "world_new": [
+            "lined",
+            "shaft",
+            "earth",
+            "obtain",
+            "water",
+            "oil",
+            "natural",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil well.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lồng cầu thang",
+          "definition": "the space round which a staircase winds",
+          "world_new": [
+            "space",
+            "staircase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell down the stairwell.",
+              "world_new": [
+                "fell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuôn ra",
+          "definition": "(of water from the earth or of tears) to flow freely",
+          "world_new": [
+            "water",
+            "earth",
+            "flow",
+            "freely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tears welled up in her eyes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khỏe",
+          "definition": "healthy",
+          "world_new": [
+            "healthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t feel very / at all well",
+              "world_new": [
+                "I",
+                "feel"
+              ]
+            },
+            {
+              "ex_of_definition": "She doesn’t look very well",
+              "world_new": [
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s been ill, but she’s quite well now.",
+              "world_new": [
+                "ill",
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tốt",
+          "definition": "in a satisfactory state or condition",
+          "world_new": [
+            "satisfactory",
+            "state",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All is well now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tốt",
+          "definition": "in a good, correct, successful, suitable etc way",
+          "world_new": [
+            "correct",
+            "successful",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s done well to become a millionaire at thirty",
+              "world_new": [
+                "become",
+                "millionaire"
+              ]
+            },
+            {
+              "ex_of_definition": "She plays the piano well",
+              "world_new": [
+                "piano"
+              ]
+            },
+            {
+              "ex_of_definition": "Mother and baby are both doing well",
+              "world_new": [
+                "baby"
+              ]
+            },
+            {
+              "ex_of_definition": "How well did he do in the exam?"
+            }
+          ]
+        },
+        {
+          "mean_english": "chính đáng",
+          "definition": "with good reason; with justice",
+          "world_new": [
+            "justice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You may well look ashamed – that was a cruel thing to do",
+              "world_new": [
+                "look",
+                "ashamed",
+                "cruel"
+              ]
+            },
+            {
+              "ex_of_definition": "You can’t very well refuse to go.",
+              "world_new": [
+                "refuse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh giá tốt",
+          "definition": "with approval or praise",
+          "world_new": [
+            "approval",
+            "praise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He speaks well of you."
+            }
+          ]
+        },
+        {
+          "mean_english": "thật là",
+          "definition": "used (with eg damn, jolly) for emphasis",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can jolly well do it yourself!",
+              "world_new": [
+                "jolly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kỹ lưỡng",
+          "definition": "thoroughly",
+          "world_new": [
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Examine the car well before you buy it.",
+              "world_new": [
+                "car",
+                "buy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẫn còn phong độ",
+          "definition": "to a great or considerable extent",
+          "world_new": [
+            "great",
+            "considerable",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is well over fifty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "ồ; thế à",
+          "definition": "used to express surprise etc",
+          "world_new": [
+            "express",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Well! I’d never have believed it!"
+            }
+          ]
+        },
+        {
+          "mean_english": "vâng",
+          "definition": "used when re-starting a conversation, starting an explanation etc",
+          "world_new": [
+            "conversation",
+            "explanation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you remember John Watson? Well, he’s become a teacher.",
+              "world_new": [
+                "remember",
+                "become",
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "tốt",
+          "definition": "in a good, satisfactory etc way etc, as in well-behaved.",
+          "world_new": [
+            "satisfactory"
+          ]
+        },
+        {
+          "mean_english": "rất",
+          "definition": "very much, as in well-known."
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "well-",
+    "well-behaved",
+    "well-being",
+    "well-bred",
+    "well-built",
+    "well-done",
+    "well-dressed",
+    "well-earned",
+    "well-educated",
+    "well-fed",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "weld",
+    "welder",
+    "welfare",
+    "welfare state",
+    "well",
+    "well enough",
+    "well up in",
+    "well-behaved",
+    "well-being"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687159_5faa45700d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687159_5970d70f1a_o.png",
+      "id_image": "well_3319298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068855_b0ac31e065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068855_7236ddfe07_o.png",
+      "id_image": "well_5773179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068725_fd0d7b8afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068725_c2e49caa55_o.png",
+      "id_image": "well_5795304"
+    }
+  ]
+}

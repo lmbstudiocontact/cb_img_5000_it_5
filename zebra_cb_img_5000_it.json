@@ -1,0 +1,78 @@
+{
+  "english": "zebra",
+  "phat_am": "ˈziːbrə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngựa vằn",
+          "definition": "a kind of striped animal of the horse family, found wild in Africa",
+          "world_new": [
+            "kind",
+            "striped",
+            "animal",
+            "horse",
+            "family",
+            "found",
+            "wild"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a herd of zebras.",
+              "world_new": [
+                "herd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, no zebra appears in the picture of zebra-shells.",
+    "Other wildlife found are the wildebeest, zebra, buffalo, sitatunga, crocodile and hippopotamus.",
+    "The analogy referenced in the introduction was that of a child who hears and maps the word ' zebra ' to the striped animal in the zoo.",
+    "The younger children had some difficulty with colour-based compounds, such as zebra-shells.",
+    "Metaphorically, these items can be labelled zebra-shells or carrot-crayon.",
+    "Finally, children produced utterances such as zebra-shells only for objects that did in fact have a notable resemblance.",
+    "Interestingly, a zebra was identified as intermediate host for the cattle strain.",
+    "On naming a giraffe as a zebra : picture naming errors across different categories."
+  ],
+  "list_see_also": [
+    "zebra crossing"
+  ],
+  "list_browse": [
+    "zapping",
+    "zeal",
+    "zealous",
+    "zealously",
+    "zebra",
+    "zebra crossing",
+    "zenith",
+    "zephyr",
+    "zero"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067080_3517035b47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067080_ccdeaf0389_o.png",
+      "id_image": "zebra_292687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374872_456ed81e73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374872_c1dc54d470_o.png",
+      "id_image": "zebra_371972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330176_c1dc54d470_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330176_de86b49d8f_o.png",
+      "id_image": "zebra_5150879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685244_fab7af56de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685244_4ce739b0f9_o.png",
+      "id_image": "zebra_520080"
+    }
+  ]
+}

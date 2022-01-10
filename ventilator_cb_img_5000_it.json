@@ -1,0 +1,72 @@
+{
+  "english": "ventilator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy thông gió",
+          "definition": "a device for ventilating a room etc",
+          "world_new": [
+            "device",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hum of the ventilator kept him awake.",
+              "world_new": [
+                "hum",
+                "awake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were in intensive care cots and were breathing by mechanical ventilators, a highly sophisticated technique requiring minute-by-minute oxygen monitoring.",
+    "Ventilators used under increased pressure (hyperbaric) require special precautions and few ventilators can operate under these conditions.",
+    "They are put on ventilators, they suffer from breathlessness, and so on.",
+    "Would it be morally acceptable to remove the ventilator rather than wean the baby as was done in the case?",
+    "Interposed between the masts and rigging were the ventilators and stack of the steam plant.",
+    "Other features include round-headed openings and ridge ventilators.",
+    "Many people in these circumstances block up ventilators which create draughts.",
+    "Indeed, in 1971 a survey of this estate showed that out of 350 residents who replied to a questionnaire 136 had at some time obstructed their ventilators."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "venomously",
+    "vent",
+    "ventilate",
+    "ventilation",
+    "ventilator",
+    "ventricle",
+    "ventriloquism",
+    "ventriloquist",
+    "venture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084050_5035fa3b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084050_4dc8f5b2fb_o.png",
+      "id_image": "ventilator_311723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391452_164bbac4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391452_eae102bdb0_o.png",
+      "id_image": "ventilator_3845403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701484_753860afe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701484_865e0bb8cb_o.png",
+      "id_image": "ventilator_406081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084005_5e3d96cd32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084005_f98f93ae47_o.png",
+      "id_image": "ventilator_923854"
+    }
+  ]
+}

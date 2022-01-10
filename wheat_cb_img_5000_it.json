@@ -1,0 +1,62 @@
+{
+  "english": "wheat",
+  "phat_am": "wiːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây lúa mỳ",
+          "definition": "a type of grain from which flour, much used in making bread, cakes etc, is obtained",
+          "world_new": [
+            "type",
+            "grain",
+            "flour",
+            "bread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) wheat allergy/intolerance."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At most sites wheat was planted in the same paddocks to follow the monitored chickpea crops.",
+    "For analysis, the wheat fields and the three successional stages of wildflower areas were considered as four different habitat types.",
+    "The coefficients of the dummy variables (excluding wheat), therefore, compare the production frontier of barley, other cereals, pulses, and other crops to that of wheat.",
+    "This land produces the bulk of wheat and rice grains required to meet the food security requirements of the country.",
+    "Plant size variation and vertebrate herbivory: winter wheat grazed by rabbits.",
+    "This should lead to a better understanding of the contributions of wheat improvement to food security and poverty reduction.",
+    "The proportions of wheat consumed by different livestock classes were assumed to be consistent over the years of the study.",
+    "Farmers grow important cash crops such as cotton, wheat, and soybeans in both soil types."
+  ],
+  "list_see_also": [
+    "wheaten"
+  ],
+  "list_browse": [
+    "what’s-his/-her/-its etc -name",
+    "whatever",
+    "whatnot",
+    "whatsoever",
+    "wheat",
+    "wheaten",
+    "wheel",
+    "wheelbarrow",
+    "wheelchair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446633_394dd5bf53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446633_0135506fa6_o.png",
+      "id_image": "wheat_123950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331586_8bc036d3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331586_e2061ac706_o.png",
+      "id_image": "wheat_433693"
+    }
+  ]
+}

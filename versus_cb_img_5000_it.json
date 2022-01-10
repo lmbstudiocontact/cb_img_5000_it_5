@@ -1,0 +1,54 @@
+{
+  "english": "versus",
+  "phat_am": "ˈvəːsəs",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "đấu với",
+          "definition": "(often abbreviated to vor vswhen written) against",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the England v Wales rugby match.",
+              "world_new": [
+                "v",
+                "rugby",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "versatile",
+    "versatility",
+    "verse",
+    "version",
+    "versus",
+    "vertebra",
+    "vertebrate",
+    "vertex",
+    "vertical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083370_dd313ec28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083370_e2ec0548a4_o.png",
+      "id_image": "versus_1888095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460688_c6a4b264e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460688_4c1ef8d15c_o.png",
+      "id_image": "versus_496577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083310_8e7c57ab4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083310_0f34596bb0_o.png",
+      "id_image": "versus_4968315"
+    }
+  ]
+}

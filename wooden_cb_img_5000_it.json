@@ -1,0 +1,57 @@
+{
+  "english": "wooden",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng gỗ",
+          "definition": "made of wood",
+          "world_new": [
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "three wooden chairs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wood pulp",
+    "woodcut",
+    "woodcutter",
+    "wooded",
+    "wooden",
+    "woodland",
+    "woodlouse",
+    "woodpecker",
+    "woodwind"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379912_b030060558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379912_1801881a49_o.png",
+      "id_image": "wooden_1580242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449988_b4c57cc26c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449988_830bbcbddb_o.png",
+      "id_image": "wooden_1951235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071850_57dc5f558f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071850_41714d6cd9_o.png",
+      "id_image": "wooden_2858877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379822_1a785a63f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379822_08ee2cfa02_o.png",
+      "id_image": "wooden_6006256"
+    }
+  ]
+}

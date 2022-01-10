@@ -1,0 +1,105 @@
+{
+  "english": "vector",
+  "phat_am": "(British) ˈvektə; (American) ˈvektər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vectơ",
+          "definition": "a quantity such as velocity that has both size and direction",
+          "world_new": [
+            "quantity",
+            "velocity",
+            "size",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the direction of the acceleration vector.",
+              "world_new": [
+                "direction",
+                "acceleration"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vectơ",
+          "definition": "an insect or animal that carries a disease from one living thing to another",
+          "world_new": [
+            "insect",
+            "animal",
+            "disease",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Anopheles mosquitoes are the main vectors of malaria.",
+              "world_new": [
+                "main",
+                "malaria"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vectơ",
+          "definition": "an animal or human cell which is used in genetic engineering to transfer DNA from one cell to another.",
+          "world_new": [
+            "animal",
+            "human",
+            "cell",
+            "genetic",
+            "engineering",
+            "transfer",
+            "DNA",
+            "cell"
+          ]
+        },
+        {
+          "mean_english": "vectơ bay",
+          "definition": "the course taken by an aircraft.",
+          "world_new": [
+            "course",
+            "aircraft"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mechanical systems control transformed generalized force vectors, a considerable part of the canonical transformations cannot be applied for deformation purposes.",
+    "Probable hosts and vectors are listed to the right of the phylogram.",
+    "The functions linplus and lintens are the functions corresponding to the sum and tensor product on vectors.",
+    "The upward vectors represent the supporting leg, and the downward vectors represent the swing leg.",
+    "The articles in this volume represent an introduction to those systems, their vectors, actors and structures.",
+    "They construct upon that set of states the results of observations that may be represented as vectors in a suitable space.",
+    "In some areas, multiple malaria vectors occur sympatrically.",
+    "The velocity vectors used are computed in an upstream moving frame."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "VCR",
+    "VD",
+    "VDU",
+    "veal",
+    "vector",
+    "veer",
+    "veg",
+    "vegan",
+    "vegetable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085125_cbe8650fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085125_0a9d7e4090_o.png",
+      "id_image": "vector_291031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702464_93d02fa90f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702464_e1fdfd948d_o.png",
+      "id_image": "vector_345992"
+    }
+  ]
+}

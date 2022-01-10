@@ -1,0 +1,91 @@
+{
+  "english": "weave",
+  "phat_am": "wiːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đan",
+          "definition": "to make by crossing strands in a pattern",
+          "world_new": [
+            "crossing",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A machine was invented that could weave cloth.",
+              "world_new": [
+                "machine",
+                "cloth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kể",
+          "definition": "to tell (an interesting story).",
+          "world_new": [
+            "tell",
+            "interesting"
+          ]
+        },
+        {
+          "mean_english": "đu đưa",
+          "definition": "(past tense, past participle weaved) to move backwards and forwards or from side to side",
+          "world_new": [
+            "move",
+            "backwards",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cyclist weaved in and out of the traffic.",
+              "world_new": [
+                "cyclist",
+                "traffic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At least in the records the poor were few and far between before 1590 when they were kept busy spinning and weaving wool.",
+    "On the other hand, the women who were non-heirs, the cabaleres, wove important networks of social relationships.",
+    "The real and the imaginary can be woven seamlessly in electroacoustic sound imagery.",
+    "Most importantly, it was the weaving family that determined how work was allocated within the household, not some outside set of actors.",
+    "Seen from the perspective of the co-opted and bureaucratized movement member, tension, ambivalence, opposition, and conflict is woven into the entanglement.",
+    "Furthermore, the book weaves in a wide range of ideas and issues from different branches of science.",
+    "Again he offers a taut telling of a familiar story, weaving together above all the histories of policy, economics and society.",
+    "Although given a separate chapter, the mechanics governing thrustbelt deformation is a theme which is woven throughout the book."
+  ],
+  "list_see_also": [
+    "weaver"
+  ],
+  "list_browse": [
+    "weather front",
+    "weathercock",
+    "weathering",
+    "weatherperson",
+    "weave",
+    "weaver",
+    "web",
+    "web browser",
+    "web page"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333796_1d2b58e6f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333796_e8121bf227_o.png",
+      "id_image": "weave_1230735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070790_70fe264aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070790_a214bace13_o.png",
+      "id_image": "weave_3461831"
+    }
+  ]
+}

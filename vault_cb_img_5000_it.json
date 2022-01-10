@@ -1,0 +1,155 @@
+{
+  "english": "vault",
+  "phat_am": "voːlt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vòm, mái vòm",
+          "definition": "(a room, especially a cellar, with) an arched roof or ceiling",
+          "world_new": [
+            "room",
+            "cellar",
+            "arched",
+            "roof",
+            "ceiling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the castle vaults.",
+              "world_new": [
+                "castle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hầm",
+          "definition": "an underground room, especially for storing valuables",
+          "world_new": [
+            "underground",
+            "room",
+            "valuables"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves broke into the bank vaults.",
+              "world_new": [
+                "broke",
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hầm mộ",
+          "definition": "a burial chamber, often for all the members of a family",
+          "world_new": [
+            "burial",
+            "chamber",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was buried in the family vault.",
+              "world_new": [
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nhảy qua (hàng rào)",
+          "definition": "a leap aided by the hands or by a pole",
+          "world_new": [
+            "leap",
+            "pole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the pole vault",
+              "world_new": [
+                "pole"
+              ]
+            },
+            {
+              "ex_of_definition": "With an athletic vault, he was over the fence and away.",
+              "world_new": [
+                "athletic",
+                "fence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy qua",
+          "definition": "to leap (over)",
+          "world_new": [
+            "leap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He vaulted (over) the fence.",
+              "world_new": [
+                "vaulted",
+                "fence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Children play around in this area, but there are broken vaults and fallen gravestones.",
+    "In lateral view, larvae slightly and almost symmetrically vaulted; glabella and protopygidial axis inflated.",
+    "The churches are wide and are generally vaulted.",
+    "Similarly, tierceron and lierne ribs may be stripped away to leave the underlying vaults structurally intact.",
+    "The roof rests directly on the church vaults.",
+    "Overall, the larva is less vaulted in lateral view.",
+    "The house has brick membrane walls and complicated vaults of brick and concrete.",
+    "They have cellars and vaults full of pictures for which no display space is available."
+  ],
+  "list_see_also": [
+    "vaulted"
+  ],
+  "list_browse": [
+    "vast",
+    "vastness",
+    "vat",
+    "vaudeville",
+    "vault",
+    "vaulted",
+    "VCR",
+    "VD",
+    "VDU"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347861_3dbf27b57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347861_4b58aea4d5_o.png",
+      "id_image": "vault_1088946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702549_2538745d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702549_f235d5190f_o.png",
+      "id_image": "vault_2563006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462643_2219596714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462643_43b6192961_o.png",
+      "id_image": "vault_3898040"
+    }
+  ]
+}

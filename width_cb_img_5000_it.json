@@ -1,0 +1,81 @@
+{
+  "english": "width",
+  "phat_am": "widθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bề rộng",
+          "definition": "size from side to side",
+          "world_new": [
+            "size",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the width of this material?",
+              "world_new": [
+                "material"
+              ]
+            },
+            {
+              "ex_of_definition": "This fabric comes in three different widths.",
+              "world_new": [
+                "fabric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính chất rộng",
+          "definition": "the state of being wide.",
+          "world_new": [
+            "state",
+            "wide"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The distribution widths are similar and the anisotropy increases with charge state.",
+    "However, such a deconvolution would narrow the estimated widths of cor tical activity distributions.",
+    "In addition, the largest sector widths used distributed noise over an angle of 240 deg in our coordinates.",
+    "We now consider the effects of variation in the relative widths of the hot and cool electron distributions.",
+    "As a consequence, this result indicated that both patterns are perceived with the same strength for these widths.",
+    "We have shown that this behaviour occur s not only for small widths but for all widths.",
+    "The widths of individual trabeculae are variable, but none is greater than 1.0 mm.",
+    "In the vicinity of these widths, the waves 3 3 4 start as backward waves (indicated by open circles)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "widespread",
+    "widow",
+    "widowed",
+    "widower",
+    "width",
+    "wield",
+    "wiener",
+    "wife",
+    "wife-battering"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374197_e07607fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374197_af0b11be85_o.png",
+      "id_image": "width_3094422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684494_450a8aafe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684494_e0a20ec53c_o.png",
+      "id_image": "width_3393354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444483_ee535ab3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444483_6d60d1562c_o.png",
+      "id_image": "width_5558581"
+    }
+  ]
+}

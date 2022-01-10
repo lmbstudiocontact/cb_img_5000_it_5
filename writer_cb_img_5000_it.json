@@ -1,0 +1,68 @@
+{
+  "english": "writer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác giả",
+          "definition": "a person who writes, especially for a living",
+          "world_new": [
+            "person",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dickens was a famous English writer",
+              "world_new": [
+                "famous",
+                "English"
+              ]
+            },
+            {
+              "ex_of_definition": "the writer of this letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The other dimension of invisible language policies involves the role of creative writers in moulding language policy.",
+    "Postprocessual writers might have wanted to argue that the interpreted past was socially constructed and that it was informed by evidence.",
+    "Perhaps one should not be too surprised if the role of dialect contact in leading to dialect mixture has been rejected by such writers.",
+    "Such 'histories' proposed three or four stages from 'savage' hunters, through 'barbarian' pastoralists and 'civilised' farmers, to the writer's contemporary commercial world.",
+    "What was evident to him was a certain lack of understanding among actors about their obligation to writers and plays of social commitment.",
+    "Speakers and writers can, and do, modify their usage in different directions according to level of formality, genre, and mode of language.",
+    "The heroes of the new enterprise are the writers, many of whom individually contributed hundreds of articles.",
+    "The main strength of this book is its breadth of scope: it covers an impressively wide range of countries, writers and kinds of artistic production."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wrist-watch",
+    "write",
+    "write down",
+    "write out",
+    "writer",
+    "writhe",
+    "writing",
+    "writing paper",
+    "writings"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068635_dba6886539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068635_03dc6a2962_o.png",
+      "id_image": "writer_1983427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686939_45ce0813ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686939_1bf3c5d990_o.png",
+      "id_image": "writer_2653927"
+    }
+  ]
+}

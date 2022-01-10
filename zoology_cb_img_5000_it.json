@@ -1,0 +1,62 @@
+{
+  "english": "zoology",
+  "phat_am": "zuˈolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động vật học",
+          "definition": "the scientific study of animals",
+          "world_new": [
+            "scientific",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s studying zoology at Cambridge University."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The glossary- where incidentally the word 'orthogonal' does not occur but 'zoology' and 'epidermis' do-ought to be improved.",
+    "During this period he occupied himself with investigations relating to histology, comparative anatomy, general zoology and biology, and teratology.",
+    "When this aspect was felt to be too weak a reason for an expedition, the collection of scientific data was added, including meteorology, terrestrial magnetism, physical oceanography, and zoology.",
+    "He was an all-round, classical scholar of zoology and could teach any aspect of the subject.",
+    "Viewed this way, linguistics will not be fully comparable to zoology and anthropology until mind research gives way to brain research (if it ever does).",
+    "The zoology is not reliable, but this does not matter.",
+    "It was fossil zoology that interested him more than geology.",
+    "A comparison with zoology and anthropology indicates that it is not necessary, and, in my view, it is not particularly desirable."
+  ],
+  "list_see_also": [
+    "zoological",
+    "zoologically",
+    "zoologist"
+  ],
+  "list_browse": [
+    "zookeeper",
+    "zoological",
+    "zoologically",
+    "zoologist",
+    "zoology",
+    "zoom",
+    "zoom in",
+    "zoom lens",
+    "zooplankton"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374652_4237bf905a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374652_8a49b7e598_o.png",
+      "id_image": "zoology_4635456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444918_d01df44397_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444918_853799b57c_o.png",
+      "id_image": "zoology_5332923"
+    }
+  ]
+}

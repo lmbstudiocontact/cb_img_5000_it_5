@@ -1,0 +1,161 @@
+{
+  "english": "weight",
+  "phat_am": "weit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trọng lượng",
+          "definition": "the amount which a person or thing weighs",
+          "world_new": [
+            "amount",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s put on a lot of weight (= got much fatter) over the years."
+            }
+          ]
+        },
+        {
+          "mean_english": "quả cân",
+          "definition": "a piece of metal etc of a standard weight",
+          "world_new": [
+            "piece",
+            "metal",
+            "standard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a seven-pound weight."
+            }
+          ]
+        },
+        {
+          "mean_english": "quả tạ",
+          "definition": "a heavy object, especially one for lifting as a sport",
+          "world_new": [
+            "heavy",
+            "object",
+            "especially",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lifts weights to develop his muscles.",
+              "world_new": [
+                "develop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gánh nặng",
+          "definition": "burden; load",
+          "world_new": [
+            "load"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have taken a weight off my mind.",
+              "world_new": [
+                "my",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầm quan trọng",
+          "definition": "importance",
+          "world_new": [
+            "importance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her opinion carries a lot of weight.",
+              "world_new": [
+                "opinion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắn thêm vật nặng",
+          "definition": "to attach, or add, a weight or weights to",
+          "world_new": [
+            "attach",
+            "add"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane is weighted at the nose so that it balances correctly in flight.",
+              "world_new": [
+                "plane",
+                "nose",
+                "correctly",
+                "flight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc thêm vật nặng",
+          "definition": "to hold down by attaching weights",
+          "world_new": [
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They weighted the balloon to prevent it from flying away.",
+              "world_new": [
+                "balloon",
+                "prevent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Standard deviations of importance weights under interval ranking were generally low.",
+    "Other weights may be regarded as more suitable depending on the circumstances.",
+    "Retrospective index weights used in multiple trait selection in maize breeding programme.",
+    "At each vine harvest the numbers and the fresh weights were recorded.",
+    "The published evidence for quadriceps strengthening using weights, for instance, is quite unequivocal.",
+    "The mean weights of the pairs were equally distributed over the five stables.",
+    "Changes in actual collection times come closer to a welfare impact but need to be weighted by the opportunity cost of time.",
+    "The maximum correlation of each variable with an index of these two variables was obtained with equal weights for the two variables."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "weigh in",
+    "weigh out",
+    "weigh up",
+    "weighing machine",
+    "weight",
+    "weightily",
+    "weightiness",
+    "weightless",
+    "weightlessness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687839_54b6837cb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687839_989f150e93_o.png",
+      "id_image": "weight_1201859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377722_75257cacff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377722_bc6451abc0_o.png",
+      "id_image": "weight_523819"
+    }
+  ]
+}

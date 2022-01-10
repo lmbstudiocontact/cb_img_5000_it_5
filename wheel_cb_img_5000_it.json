@@ -1,0 +1,153 @@
+{
+  "english": "wheel",
+  "phat_am": "wiːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh xe",
+          "definition": "a circular frame or disc turning on a rod or axle, on which vehicles etc move along the ground",
+          "world_new": [
+            "circular",
+            "frame",
+            "disc",
+            "rod",
+            "axle",
+            "move",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A bicycle has two wheels, a tricycle three, and most cars four",
+              "world_new": [
+                "bicycle",
+                "tricycle"
+              ]
+            },
+            {
+              "ex_of_definition": "a cartwheel.",
+              "world_new": [
+                "cartwheel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hệ thống bánh xe",
+          "definition": "any of several things similar in shape and action",
+          "world_new": [
+            "similar",
+            "shape",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a potter’s wheel"
+            },
+            {
+              "ex_of_definition": "He was found drunk at the wheel (= steering-wheel) of his car.",
+              "world_new": [
+                "found",
+                "drunk",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi xe",
+          "definition": "to cause to move on wheels",
+          "world_new": [
+            "cause",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wheeled his bicycle along the path.",
+              "world_new": [
+                "wheeled",
+                "bicycle",
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quay",
+          "definition": "to (cause to) turn quickly",
+          "world_new": [
+            "turn",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wheeled round and slapped me.",
+              "world_new": [
+                "wheeled"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bay vòng tròn",
+          "definition": "(of birds) to fly in circles.",
+          "world_new": [
+            "fly"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A young man who didn't witness the accident saw the driver of an expensive sports car being wheeled away in a stretcher.",
+    "Time-optimal trajectories for mobile robots with two independently driven wheels are presented in reference 14.",
+    "Studies have been carried out to assess these errors and to consider how best to overcome them5 ; the tested vehicles were robots with solid wheels.",
+    "In the 1920s, in mountainous areas inaccessible to wheeled transport, women raised income by carrying fragile and liquid items from trading stores.",
+    "Researchers in the field talk of constructions that involve making girders, wheels etc., which are just one millionth of a millimetre long.",
+    "The first states how identities from semirings can be transferred to wheels of fractions.",
+    "Specifically, wheeled walkers are associated with higher speed and cadence, lower energy demands, more normal-appearing gait, and higher patient s atisfaction.",
+    "The dust follows a perfect arc as the wheels throw it up and gravity pulls it back down."
+  ],
+  "list_see_also": [
+    "wheeled",
+    "-wheeled",
+    "wheelbarrow",
+    "wheelchair",
+    "wheelhouse",
+    "wheelwright"
+  ],
+  "list_browse": [
+    "whatnot",
+    "whatsoever",
+    "wheat",
+    "wheaten",
+    "wheel",
+    "wheelbarrow",
+    "wheelchair",
+    "wheeled",
+    "wheelhouse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376187_759b2926e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376187_c7dc90c5ff_o.png",
+      "id_image": "wheel_1399491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686559_54f57a2990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686559_84a90f4b20_o.png",
+      "id_image": "wheel_545974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376232_85f9304e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376232_47bde5b6c9_o.png",
+      "id_image": "wheel_827194"
+    }
+  ]
+}

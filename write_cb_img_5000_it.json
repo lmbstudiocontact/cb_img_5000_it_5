@@ -1,0 +1,145 @@
+{
+  "english": "write",
+  "phat_am": "rait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viết",
+          "definition": "to draw (letters or other forms of script) on a surface, especially with a pen or pencil on paper",
+          "world_new": [
+            "draw",
+            "surface",
+            "pen",
+            "pencil",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They wrote their names on a sheet of paper",
+              "world_new": [
+                "their",
+                "sheet",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "The child has learned to read and write",
+              "world_new": [
+                "child",
+                "learned",
+                "read"
+              ]
+            },
+            {
+              "ex_of_definition": "Please write in ink.",
+              "world_new": [
+                "ink"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết sách",
+          "definition": "to compose the text of (a book, poem etc)",
+          "world_new": [
+            "compose",
+            "text",
+            "book",
+            "poem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wrote a book about dinosaurs.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết thư",
+          "definition": "to compose a letter (and send it)",
+          "world_new": [
+            "compose",
+            "letter",
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has written a letter to me about this matter",
+              "world_new": [
+                "letter",
+                "matter"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll write you a long letter about my holiday",
+              "world_new": [
+                "long",
+                "letter",
+                "my",
+                "holiday"
+              ]
+            },
+            {
+              "ex_of_definition": "I wrote to you last week.",
+              "world_new": [
+                "I",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Follow-up e-mails, written correspondence and personal interviews have been carried out over a three and a half year period.",
+    "The score range is usually 1 through 6, where 1 indicates a poorly written essay, and 6 indicates a well-written essay.",
+    "Part of the point of this article is to cast that kind of reification of written forms into doubt.",
+    "One feature of writing valued by writing experts that is not explicitly represented in the current version of e-rater is coherence.",
+    "Given these advances, their discussion of measuring progress is more pertinent now than when the paper was written.",
+    "I consider this book to be written in a \"tutorial\" style.",
+    "The design objective is to allow the assembler to build an aggregate engine without writing any code.",
+    "A reversing option that writes a soundfile backwards is available."
+  ],
+  "list_see_also": [
+    "writer",
+    "writing",
+    "writings",
+    "written",
+    "writing paper",
+    "write down",
+    "write out"
+  ],
+  "list_browse": [
+    "wrinkle",
+    "wrinkled",
+    "wrist",
+    "wrist-watch",
+    "write",
+    "write down",
+    "write out",
+    "writer",
+    "writhe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068665_0b4b8a2b55_o.png",
+      "id_image": "write_5511966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068775_759eb45cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068775_5c7c121765_o.png",
+      "id_image": "write_705059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687049_3da3b6ed9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687049_c3d880e802_o.png",
+      "id_image": "write_878563"
+    }
+  ]
+}

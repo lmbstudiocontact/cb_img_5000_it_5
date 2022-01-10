@@ -1,0 +1,101 @@
+{
+  "english": "varnish",
+  "phat_am": "ˈvaːniʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "véc ni",
+          "definition": "a usually clear sticky liquid which gives protection and a glossy surface to wood, paint etc",
+          "world_new": [
+            "clear",
+            "sticky",
+            "liquid",
+            "protection",
+            "glossy",
+            "surface",
+            "wood",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nail varnish.",
+              "world_new": [
+                "nail"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sơn dầu",
+          "definition": "the glossy surface given by this liquid",
+          "world_new": [
+            "glossy",
+            "surface",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be careful or you’ll take the varnish off the table!",
+              "world_new": [
+                "careful",
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh véc ni",
+          "definition": "to cover with varnish",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t sit on that chair – I’ve just varnished it.",
+              "world_new": [
+                "sit",
+                "chair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The grain appearance is prized, likened to that of mahogany and is often varnished for a decorative appearance.",
+    "Another grooved plank is glued on top, and the whole assembly is then cut into individual pencils, which are then varnished or painted.",
+    "When dry, varnishes are typically transparent and can vary in gloss and durability as its composition changes.",
+    "Ester gum has drying properties and is used in paints, varnishes, and lacquers.",
+    "Most commonly, fluoride is applied topically to the teeth using gels, varnishes, toothpaste/dentifrices or mouth rinse.",
+    "Decorative woodwork; fretwork, carving; turning; picture framing; staining; varnishing and painting.",
+    "Truth is truth and should not be varnished or biased.",
+    "As a solvent, turpentine is used for thinning oil-based paints, for producing varnishes, and as a raw material for the chemical industry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "variegated",
+    "variety",
+    "various",
+    "variously",
+    "varnish",
+    "vary",
+    "vascular",
+    "vase",
+    "vast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702984_f36efaee5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702984_432e571641_o.png",
+      "id_image": "varnish_3468348"
+    }
+  ]
+}

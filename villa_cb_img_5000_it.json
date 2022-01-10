@@ -1,0 +1,65 @@
+{
+  "english": "villa",
+  "phat_am": "ˈvilə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biệt thự",
+          "definition": "a type of detached or semi-detached (usually luxury) house, in the country or suburbs, or used for holidays at the seaside",
+          "world_new": [
+            "type",
+            "detached",
+            "semi-detached",
+            "house",
+            "country",
+            "seaside"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have a villa at the seaside.",
+              "world_new": [
+                "seaside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A villa is in many ways an escape from the modern world and the complex compromises of city life.",
+    "The task of the villa architect seems to be to reconstitute some sense of the continuity between a building and its setting.",
+    "According to this view, towns and a villa system scarcely evolved here.",
+    "But he was talking about a street of villas and that's how they read in the street, for sure.",
+    "The villa system probably did exist; it simply looked different and is difficult to trace archaeologically.",
+    "Their dwellings were principally flats or tenements - upper-class single-family villas are not included.",
+    "The paper is at its best when searching for a definition of the villa as a type, and placing it within a historical context.",
+    "Staying in the house for a long weekend you tend to drift into the rhythm of the day that a villa reveals to us all."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vigour",
+    "vile",
+    "vilely",
+    "vileness",
+    "villa",
+    "village",
+    "villager",
+    "villain",
+    "villainous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458693_bd7f6ac509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458693_23e1e9e80a_o.png",
+      "id_image": "villa_2038457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458668_e220e82b3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458668_9c329f4d38_o.png",
+      "id_image": "villa_6250457"
+    }
+  ]
+}

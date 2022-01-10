@@ -1,0 +1,61 @@
+{
+  "english": "wearable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể mặc được",
+          "definition": "(opposite unwearable) fit to be worn",
+          "world_new": [
+            "fit",
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My only wearable coat is at the cleaners.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The advent of advanced electronics has resulted in wearable technology being developed and popularized since the 1980s.",
+    "Today still wearable computing is a topic of active research, with areas of study including user interface design, augmented reality, pattern recognition.",
+    "He is best known for design of the first smartphones, wearable fitness technology and tablet applications.",
+    "In addition to force-plate measurement devices, wearable sensor postural sway systems are becoming more popular due to their portability and low cost.",
+    "Through gateway devices, it is possible to connect the wearable devices on the human body to the internet.",
+    "Wearable technology has applications in monitoring and realtime feedback for athletes as well.",
+    "The communicating systems use e-mail, or wireless devices such as mobile phones, wearable computers or the handheld variety.",
+    "Measures must now be taken by the leading world powers to make the system wearable and bearable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wear",
+    "wear away",
+    "wear off",
+    "wear out",
+    "wearable",
+    "wearer",
+    "wearily",
+    "weariness",
+    "wearing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379047_1ccd21f8cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379047_1ac3f694a9_o.png",
+      "id_image": "wearable_1558898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379012_4911287622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379012_c124c8a95f_o.png",
+      "id_image": "wearable_1998151"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "unknown",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không được biết đến",
+          "definition": "not known",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "her unknown helper.",
+              "world_new": [
+                "helper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không nổi tiếng",
+          "definition": "not famous; not well-known",
+          "world_new": [
+            "well-known"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That actor was almost unknown before he played that part.",
+              "world_new": [
+                "actor",
+                "almost",
+                "part"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The only unknowns in (2.18) are the constants 1 and 2 ; a procedure for calculating the dominant one of these will be illustrated shortly.",
+    "There are many significant unknowns related to copermitting.",
+    "The discretizations we have described lead to a large coupled nonlinear system of equations with the same number of equations as unknowns.",
+    "Ratios of count rates for the unknowns relative to the standard reference materials were used to calculate the concentrations of elements in the unknowns.",
+    "In these references, it is also shown how the convergence of the scaled unknowns u() themselves can be also established, in an ad hoc completion.",
+    "One way to solve this system is to use the first three (linear) equations to express all of the other unknowns in terms of (r).",
+    "The number of unknowns does not change since two forces replace a force and a couple.",
+    "The prior distributions for different types of unknowns are usually assumed to be independent a priori."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "university",
+    "unjust",
+    "unkind",
+    "unknowingly",
+    "unknown",
+    "unless",
+    "unlike",
+    "unlikely",
+    "unlimited"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707149_2966e85fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707149_c0e14a1732_o.png",
+      "id_image": "unknown_1207583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397242_03cc28be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397242_30a56de0fc_o.png",
+      "id_image": "unknown_2748784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467043_c4f31d6e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467043_e404df1150_o.png",
+      "id_image": "unknown_5059613"
+    }
+  ]
+}

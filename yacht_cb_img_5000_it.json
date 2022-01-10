@@ -1,0 +1,80 @@
+{
+  "english": "yacht",
+  "phat_am": "jot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "du thuyền",
+          "definition": "a boat or small ship, usually with sails, often with an engine, built and used for racing or cruising",
+          "world_new": [
+            "boat",
+            "small",
+            "ship",
+            "engine",
+            "racing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We spent our holidays on a friend’s yacht",
+              "world_new": [
+                "spent",
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a yacht race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The airframe domain results are surprisingly similar to the yacht-domain results.",
+    "Final rates of hire have not yet been arranged for requisitioned yachts but pending settlement advances on account are being made to the owners.",
+    "One of the other yachts narrowly missed destruction when the berg to which it was moored suddenly toppled over.",
+    "There was the little problem of y appearing as a vowel in very and as a consonant in yacht, but every rule needs its exception.",
+    "Prototype selection is especially appropriate in domains such as the yacht domain in which there is a database of previous designs available and the available simulators are noisy.",
+    "To the northeast, they saw the derelict yacht yet again.",
+    "I wanted to include aircraft, yachts, oil production platforms and ski lifts as well as environmental issues such as the recycling of building materials and embodied energy.",
+    "We tested this idea in both the yacht and aircraft domains and found it to be successful in both domains."
+  ],
+  "list_see_also": [
+    "yachting",
+    "yachtsman",
+    "yacht club"
+  ],
+  "list_browse": [
+    "Y",
+    "Y chromosome",
+    "y-axis",
+    "Y-fronts",
+    "yacht",
+    "yacht club",
+    "yachting",
+    "yachtsman",
+    "yak"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331581_18950d5502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331581_1856e7a05b_o.png",
+      "id_image": "yacht_2189572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376257_850771a823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376257_91621cafc6_o.png",
+      "id_image": "yacht_3806469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068220_8a563b48a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068220_9629721f5a_o.png",
+      "id_image": "yacht_6141639"
+    }
+  ]
+}

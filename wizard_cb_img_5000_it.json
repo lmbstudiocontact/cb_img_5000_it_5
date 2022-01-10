@@ -1,0 +1,62 @@
+{
+  "english": "wizard",
+  "phat_am": "ˈwizəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thầy phù thủy",
+          "definition": "a man who is said to have magic powers",
+          "world_new": [
+            "magic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fairy-story about a wizard."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The wizards won the first game 2-0.",
+    "Under normal circumstances, only those of a magical disposition (e.g. witches and wizards), children, and cats can see him, or allow themselves to see him.",
+    "Throughout the series, this limit is continually mentioned, and wizards try to transcend it at their own folly.",
+    "They both realize that the age of wizards and dragons may be finished.",
+    "Becoming a ghost is also an option for wizards and witches; however, it is said that it is a pale imitation of life.",
+    "The time has come for plain speaking, and no half-truths and muttering like that of so many wizards.",
+    "Using powerful magic and swordsmanship they battle overreaching wizards, demons seeking to destroy the world, and an occasional hapless gang of bandits.",
+    "He is very old, has a long white beard and wears purple clothes and a purple wizard's hat."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "witticism",
+    "wittily",
+    "wittiness",
+    "witty",
+    "wizard",
+    "wobble",
+    "wobbliness",
+    "wobbly",
+    "woe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380497_1800c8b952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380497_d83d2c2492_o.png",
+      "id_image": "wizard_2210034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380452_b7b270ca4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380452_c3bde6ff69_o.png",
+      "id_image": "wizard_2332835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335356_9e413fe9e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335356_02478b48c2_o.png",
+      "id_image": "wizard_5149040"
+    }
+  ]
+}

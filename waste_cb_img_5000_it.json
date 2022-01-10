@@ -1,0 +1,139 @@
+{
+  "english": "waste",
+  "phat_am": "weist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lãng phí",
+          "definition": "to fail to use (something) fully or in the correct or most useful way",
+          "world_new": [
+            "fail",
+            "fully",
+            "correct",
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re wasting my time with all these stupid questions.",
+              "world_new": [
+                "my",
+                "time",
+                "stupid"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rác thải",
+          "definition": "material which is or has been made useless",
+          "world_new": [
+            "material",
+            "useless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "industrial waste from the factories",
+              "world_new": [
+                "industrial"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) waste material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãng phí",
+          "definition": "(the) act of wasting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That was a waste of an opportunity.",
+              "world_new": [
+                "opportunity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoang mạc",
+          "definition": "a huge stretch of unused or infertile land, or of water, desert, ice etc",
+          "world_new": [
+            "huge",
+            "stretch",
+            "infertile",
+            "land",
+            "water",
+            "desert",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Arctic wastes.",
+              "world_new": [
+                "Arctic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wastage",
+    "wasteful",
+    "wastefully",
+    "wastefulness",
+    "wastebasket",
+    "waste paper",
+    "wastepaper basket",
+    "waste pipe",
+    "wastewater",
+    "waste away"
+  ],
+  "list_browse": [
+    "Waspish",
+    "waspishly",
+    "waspishness",
+    "wastage",
+    "waste",
+    "waste away",
+    "waste paper",
+    "waste pipe",
+    "wastebasket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336111_1c338629f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336111_e4c87977e4_o.png",
+      "id_image": "waste_2372112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336161_f7a68d2d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336161_a4d2055862_o.png",
+      "id_image": "waste_315286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691469_91f26bdab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691469_13e28c962d_o.png",
+      "id_image": "waste_416237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691364_c22242b939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691364_9a131301ee_o.png",
+      "id_image": "waste_4465658"
+    }
+  ]
+}

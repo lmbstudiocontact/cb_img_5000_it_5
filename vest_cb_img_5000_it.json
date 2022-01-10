@@ -1,0 +1,73 @@
+{
+  "english": "vest",
+  "phat_am": "vest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo lót",
+          "definition": "a kind of sleeveless shirt worn under a shirt, blouse etc",
+          "world_new": [
+            "kind",
+            "sleeveless",
+            "shirt",
+            "worn",
+            "shirt",
+            "blouse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was dressed only in (a) vest and underpants.",
+              "world_new": [
+                "dressed",
+                "underpants"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo gi lê",
+          "definition": "a waistcoat",
+          "world_new": [
+            "waistcoat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "jacket, vest and trousers",
+              "world_new": [
+                "jacket",
+                "trousers"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a vest pocket.",
+              "world_new": [
+                "pocket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "very",
+    "very well",
+    "vesicle",
+    "vessel",
+    "vest",
+    "vestige",
+    "vet",
+    "veteran",
+    "veterinary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460318_7d1be00582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460318_9b0b254e89_o.png",
+      "id_image": "vest_1373396"
+    }
+  ]
+}

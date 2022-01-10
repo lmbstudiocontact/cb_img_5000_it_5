@@ -1,0 +1,71 @@
+{
+  "english": "valley",
+  "phat_am": "ˈvӕli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thung lũng",
+          "definition": "a stretch of flat, low land between hills or mountains, usually drained by a river and its tributaries",
+          "world_new": [
+            "stretch",
+            "flat",
+            "low",
+            "land",
+            "river",
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a beautiful green valley between the mountains.",
+              "world_new": [
+                "beautiful",
+                "green"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By the middle of 1853 some 50,000 diggers had migrated to the valley, and a government camp had been established to administer the field.",
+    "Neither envy nor misfortune creeps into our peaceful valley; our cares are our work.",
+    "Uprooting proportions declined moving from the valleys up to the ridges.",
+    "This was evidence of chronic low body weights in the disease-ridden valleys.",
+    "The southern sector is formed by the nor theastern arm of a long ridge extending from the eastern edge of the valley.",
+    "This picture was uneven both on watersheds and in valleys.",
+    "Likewise, the lowest value between the two peaks could be in a single point (the tip of a sharp ' v ') or a flatbottomed valley floor.",
+    "Those observations with values above the \"valley point\" will belong to the upper regime, whereas those with values below will belong to the lower regime."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "valiantly",
+    "valid",
+    "validly",
+    "valise",
+    "valley",
+    "valour",
+    "valuable",
+    "valuables",
+    "value"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704014_e23d279a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704014_1a433708b0_o.png",
+      "id_image": "valley_3038825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703979_ed75e3994a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703979_4584c9ab38_o.png",
+      "id_image": "valley_5026454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349346_e3ce33fcd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349346_c69e1bbb16_o.png",
+      "id_image": "valley_721099"
+    }
+  ]
+}

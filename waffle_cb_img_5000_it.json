@@ -1,0 +1,118 @@
+{
+  "english": "waffle",
+  "phat_am": "ˈwofl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyện dông dài",
+          "definition": "to talk on and on foolishly, pretending that one knows something which one does not",
+          "world_new": [
+            "talk",
+            "foolishly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The history lecturer was inclined to waffle on for hours.",
+              "world_new": [
+                "history",
+                "lecturer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu chuyện dông dài",
+          "definition": "talk of this kind",
+          "world_new": [
+            "talk",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His speech was pure waffle – he really has no idea what he’s talking about.",
+              "world_new": [
+                "speech",
+                "pure",
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh quế",
+          "definition": "a flat cake baked in a special appliance that leaves a pattern of squares on it",
+          "world_new": [
+            "flat",
+            "cake",
+            "baked",
+            "special",
+            "appliance",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Waffles are usually eaten with ice cream, syrup, or jam.",
+              "world_new": [
+                "ice",
+                "cream",
+                "syrup",
+                "jam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wade",
+    "wader",
+    "wafer",
+    "wafer-thin",
+    "waffle",
+    "wag",
+    "wage",
+    "wage-packet",
+    "wager"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384632_8522100df8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384632_6593296ba5_o.png",
+      "id_image": "waffle_1999906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339656_3085c42c13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339656_5fa8909130_o.png",
+      "id_image": "waffle_1999918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076835_22bf8b6a88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076835_8f75e246db_o.png",
+      "id_image": "waffle_2442267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384542_99153320ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384542_6382ab540d_o.png",
+      "id_image": "waffle_3200286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339571_5faac92e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339571_9ed0b411a4_o.png",
+      "id_image": "waffle_4524549"
+    }
+  ]
+}

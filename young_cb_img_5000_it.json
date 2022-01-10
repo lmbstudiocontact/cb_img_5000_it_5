@@ -1,0 +1,113 @@
+{
+  "english": "young",
+  "phat_am": "jaŋ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "non; trẻ",
+          "definition": "in the first part of life, growth, development etc; not old",
+          "world_new": [
+            "part",
+            "life",
+            "growth",
+            "development",
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a young person",
+              "world_new": [
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "Young babies sleep a great deal",
+              "world_new": [
+                "sleep",
+                "great",
+                "deal"
+              ]
+            },
+            {
+              "ex_of_definition": "A young cow is called a calf.",
+              "world_new": [
+                "cow",
+                "calf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "con non",
+          "definition": "the group of animals or birds produced by parents",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most animals defend their young.",
+              "world_new": [
+                "defend",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Compared to children with tantrums, children with rages were significantly younger, female, and more likely to suffer from speech0language problems.",
+    "Although the controls were somewhat younger than the patients, there were no significant correlations between age and conflict scores in any of the groups.",
+    "Contributors are a mix of leaders in their fields and younger scientists engaged in groundbreaking work.",
+    "Second, age differences were also analyzed by classifying participants into a younger and older group based on their arrival ages.",
+    "Intergenerational talk stereotypically includes the expectation of both younger and older participants that older people will reveal their age as a matter of course.",
+    "The three oldest children were boarded out while the two youngest were allowed to stay with their parents who would receive poor relief.",
+    "Speci®cally, the younger learners were faster for the ungrammatical items but the older learners were faster for the grammatical items.",
+    "During this period, grandchildren were younger and many could only visit with their parents."
+  ],
+  "list_see_also": [
+    "youngster",
+    "the young"
+  ],
+  "list_browse": [
+    "you",
+    "you bet",
+    "you never can tell",
+    "you’re welcome!",
+    "young",
+    "youngster",
+    "your",
+    "yours",
+    "yours (faithfully/sincerely/truly)"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375027_0f79870853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375027_dff425965d_o.png",
+      "id_image": "young_2897024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685409_168493e8ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685409_a63851197e_o.png",
+      "id_image": "young_3014426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445278_9813fcbc91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445278_b8b32c0a00_o.png",
+      "id_image": "young_3088339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067190_2c1bd5e472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067190_3a02dd3b2d_o.png",
+      "id_image": "young_3576969"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "valve",
+  "phat_am": "vӕlv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "van",
+          "definition": "a device for allowing a liquid or gas to pass through an opening in one direction only",
+          "world_new": [
+            "device",
+            "liquid",
+            "gas",
+            "pass",
+            "opening",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a safety valve.",
+              "world_new": [
+                "safety"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "van tim",
+          "definition": "a structure with the same effect in an animal body",
+          "world_new": [
+            "structure",
+            "effect",
+            "animal",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Valves in the heart control the flow of blood in the human body.",
+              "world_new": [
+                "heart",
+                "control",
+                "flow",
+                "blood",
+                "human",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đèn chân không",
+          "definition": "a type of electronic component found in many, especially older, types of television, radio etc",
+          "world_new": [
+            "type",
+            "electronic",
+            "component",
+            "found",
+            "television",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a valve amplifier.",
+              "world_new": [
+                "amplifier"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fifty-five cases having acute lesions, and 38 of those with chronic lesions suffered involvement of all cardiac valves.",
+    "Successful transcatheter closure of ventricular septal defects with retrievable coils is feasible even in close proximity to cardiac valves.",
+    "The remaining 18 (22.2%) specimens revealed aortic valves with two leaflets arranged in ventrodorsal orientation.",
+    "Within the next 3 years, four more valves were replaced because of severe regurgitation.",
+    "By contrast isolated bifoliate aortic valves are much more common.",
+    "The electro-pneumatic valves have within them analogue circuitry that regulates the output pressure to be proportional to input voltage.",
+    "Cambriid with markedly postplete valves, adult carapace (dorsal shield) c. 6-7 mm long.",
+    "Complete valves of ostracodes, or their large identifiable fragments were counted as specimens in a representative part of the 1-0.5 mm fraction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "value-added tax",
+    "valued",
+    "valueless",
+    "values",
+    "valve",
+    "vampire",
+    "van",
+    "vandal",
+    "vandalism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703629_a6e11abdc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703629_41440a8195_o.png",
+      "id_image": "valve_3829653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086185_eacef08fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086185_21cf9163ce_o.png",
+      "id_image": "valve_416235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348856_6e335f483b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348856_0fca071e85_o.png",
+      "id_image": "valve_4752231"
+    }
+  ]
+}

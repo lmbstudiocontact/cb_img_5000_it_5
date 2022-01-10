@@ -1,0 +1,97 @@
+{
+  "english": "woman",
+  "phat_am": "ˈwumən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đàn bà đã có chồng",
+          "definition": "an adult human female",
+          "world_new": [
+            "adult",
+            "human",
+            "female"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His sisters are both grown women now",
+              "world_new": [
+                "grown"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a woman doctor",
+              "world_new": [
+                "doctor"
+              ]
+            },
+            {
+              "ex_of_definition": "women doctors."
+            }
+          ]
+        },
+        {
+          "mean_english": "bà hầu cận",
+          "definition": "a female domestic daily helper",
+          "world_new": [
+            "female",
+            "domestic",
+            "daily",
+            "helper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a woman who comes in to do the cleaning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "phụ nữ",
+          "definition": "sometimes used instead of man when the person performing an activity is a woman, as in chairwoman.",
+          "world_new": [
+            "instead",
+            "person",
+            "activity"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "-woman",
+    "womanhood",
+    "womankind",
+    "womanly",
+    "womanliness",
+    "womenfolk"
+  ],
+  "list_browse": [
+    "wok",
+    "wolf",
+    "wolf-cub",
+    "wolf-whistle",
+    "woman",
+    "womanhood",
+    "womankind",
+    "womanliness",
+    "womanly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450198_d8ab38381d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450198_01c05e9c9c_o.png",
+      "id_image": "woman_409231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335161_93f7c56980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335161_4e7a288f4c_o.png",
+      "id_image": "woman_417745"
+    }
+  ]
+}

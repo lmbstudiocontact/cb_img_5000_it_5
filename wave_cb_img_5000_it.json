@@ -1,0 +1,251 @@
+{
+  "english": "wave",
+  "phat_am": "weiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sóng",
+          "definition": "a moving ridge, larger than a ripple, moving on the surface of water",
+          "world_new": [
+            "moving",
+            "ridge",
+            "ripple",
+            "moving",
+            "surface",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rolling waves",
+              "world_new": [
+                "rolling"
+              ]
+            },
+            {
+              "ex_of_definition": "The boat was being tossed about on the waves.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sóng điện từ",
+          "definition": "a vibration travelling eg through the air",
+          "world_new": [
+            "vibration",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "radio waves",
+              "world_new": [
+                "radio"
+              ]
+            },
+            {
+              "ex_of_definition": "sound waves",
+              "world_new": [
+                "sound"
+              ]
+            },
+            {
+              "ex_of_definition": "light waves.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gợn sóng",
+          "definition": "a curve or curves in the hair",
+          "world_new": [
+            "curve",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are those waves natural?",
+              "world_new": [
+                "natural"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tăng lên",
+          "definition": "a (usually temporary) rise or increase",
+          "world_new": [
+            "rise",
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the recent crime wave",
+              "world_new": [
+                "recent",
+                "crime"
+              ]
+            },
+            {
+              "ex_of_definition": "a wave of violence",
+              "world_new": [
+                "violence"
+              ]
+            },
+            {
+              "ex_of_definition": "The pain came in waves.",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự vẫy tay",
+          "definition": "an act of waving",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She recognized me, and gave me a wave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vẫy nhẹ",
+          "definition": "to move backwards and forwards or flutter",
+          "world_new": [
+            "move",
+            "backwards",
+            "flutter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The flags waved gently in the breeze.",
+              "world_new": [
+                "gently",
+                "breeze"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "uốn cong",
+          "definition": "to (cause hair to) curve first one way then the other",
+          "world_new": [
+            "hair",
+            "curve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s had her hair waved",
+              "world_new": [
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hair waves naturally.",
+              "world_new": [
+                "hair",
+                "naturally"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẫy",
+          "definition": "to make a gesture (of greeting etc) with (eg the hand)",
+          "world_new": [
+            "gesture",
+            "greeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She waved to me across the street",
+              "world_new": [
+                "across",
+                "street"
+              ]
+            },
+            {
+              "ex_of_definition": "Everyone was waving handkerchiefs in farewell",
+              "world_new": [
+                "farewell"
+              ]
+            },
+            {
+              "ex_of_definition": "They waved goodbye.",
+              "world_new": [
+                "goodbye"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dải sóng điện từ",
+          "definition": "a range of wavelengths on which eg radio signals are broadcast.",
+          "world_new": [
+            "range",
+            "radio",
+            "broadcast"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As already noted some evidence or these waves is seen in figures 5-7.",
+    "In particular, it is shown that (depending on the values of the parameters) short waves may appear on either side of the pressure distribution.",
+    "Conversely, a t small gaps the longer waves correspond to the most dangerous modes and so the flow is destabilized.",
+    "In the higher frequency range both locked and free long waves could be resonated.",
+    "Therefore, the waves of shorter wavelength are now on the back.",
+    "Such a distribution function is formed mainly owing to pitch-angle scattering caused by ultralow-frequency hydromagnetic waves.",
+    "Plane shear waves and loss of stability in a granular body.",
+    "The moon and sun's gravitational forces mostly drive the longest waves (tides)."
+  ],
+  "list_see_also": [
+    "wavy",
+    "waviness",
+    "wave",
+    "wavelength",
+    "wave aside"
+  ],
+  "list_browse": [
+    "waterwheel",
+    "waterworks",
+    "watery",
+    "watt",
+    "wave",
+    "wave aside",
+    "wavelength",
+    "waver",
+    "waviness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690414_c1d2ef44a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690414_7a60c0863e_o.png",
+      "id_image": "wave_433984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380292_3c9d40f424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380292_2cd8619479_o.png",
+      "id_image": "wave_468351"
+    }
+  ]
+}

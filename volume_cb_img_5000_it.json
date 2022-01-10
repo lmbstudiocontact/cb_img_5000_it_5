@@ -1,0 +1,134 @@
+{
+  "english": "volume",
+  "phat_am": "ˈvoljum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyển, cuốn sách",
+          "definition": "a book",
+          "world_new": [
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This library contains over a million volumes.",
+              "world_new": [
+                "library"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập",
+          "definition": "one of a series of connected books",
+          "world_new": [
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where is volume fifteen of the encyclopedia?",
+              "world_new": [
+                "encyclopedia"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dung tích, thể tích",
+          "definition": "the amount of space occupied by something, expressed in cubic measurement",
+          "world_new": [
+            "amount",
+            "space",
+            "cubic",
+            "measurement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the volume of the petrol tank?",
+              "world_new": [
+                "petrol",
+                "tank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khối lượng, số lượng",
+          "definition": "amount",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A large volume of work remains to be done.",
+              "world_new": [
+                "large",
+                "work",
+                "remains"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm lượng",
+          "definition": "level of sound eg on a radio, television etc",
+          "world_new": [
+            "level",
+            "sound",
+            "radio",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Turn up the volume on the radio.",
+              "world_new": [
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The final two volumes probably represent a forlorn attempt to continue the publication with support from an alternative source of funding.",
+    "Page numbers should be given in full for all references to articles in journals or edited volumes.",
+    "As with other volumes in this series, there are endnotes rather than footnotes.",
+    "The use of bounding volumes allows to simplify the mathematical representation and reduces the computational complexity.",
+    "Throughout the report and the research volumes, those in need of care are referred to using the gender-free term of 'elderly people'.",
+    "As with the earlier volumes, this is an ambitious undertaking.",
+    "The purchaser should be warned, therefore, that the two volumes should be purchased together in order to access the full scholarly apparatus.",
+    "He has published over fifty journal articles, two edited volumes, and numerous other papers on topics in language comprehension, language production, reading, and dialogue."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "volt",
+    "voltage",
+    "voluble",
+    "volubly",
+    "volume",
+    "voluntarily",
+    "voluntary",
+    "volunteer",
+    "vomit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455648_a4f746b03a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455648_70cbfa361d_o.png",
+      "id_image": "volume_227193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385677_16eb7ae227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385677_8f07bb3f92_o.png",
+      "id_image": "volume_227194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340716_eeb3403a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340716_5434b61cdb_o.png",
+      "id_image": "volume_227196"
+    }
+  ]
+}

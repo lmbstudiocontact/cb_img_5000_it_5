@@ -1,0 +1,130 @@
+{
+  "english": "view",
+  "phat_am": "vjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quang cảnh",
+          "definition": "(an outlook on to, or picture of) a scene",
+          "world_new": [
+            "outlook",
+            "picture",
+            "scene"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your house has a fine view of the hills",
+              "world_new": [
+                "house",
+                "fine"
+              ]
+            },
+            {
+              "ex_of_definition": "He painted a view of the harbour.",
+              "world_new": [
+                "harbour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan điểm",
+          "definition": "an opinion",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tell me your view/views on the subject.",
+              "world_new": [
+                "your",
+                "subject"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhìn, tầm mắt",
+          "definition": "an act of seeing or inspecting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were given a private view of the exhibition before it was opened to the public.",
+              "world_new": [
+                "private",
+                "exhibition",
+                "public"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhìn, đánh giá",
+          "definition": "to look at, or regard (something)",
+          "world_new": [
+            "look",
+            "regard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She viewed the scene with astonishment.",
+              "world_new": [
+                "scene",
+                "astonishment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The only representations that exist, in this view, are those that are embedded in the momentary phenomenal experience.",
+    "One viewed the community as an object - a network of interdependent systems, bureaucratic organizations, interest groups, political parties, and so forth, which is acted upon.",
+    "From the point of view of advanced undergraduate teaching the topic provides an excellent example of the evolution of an orogenic belt by terrane accretion.",
+    "In other words, one analyses in view of a possible synthesis.",
+    "From the application's point of view, the requirement was to deliver joint values whenever requested by the feeder.",
+    "The papers represented the views of different parties affected by breathlessness or those involved in their care.",
+    "This view of marriage has been explored through political, legal, demographic, and more recently symbolic perspectives.",
+    "Forthcoming procedures for the analysis of electroacoustic music should derive from the synthesis of top-down and bottom-up views derived from different competences."
+  ],
+  "list_see_also": [
+    "viewer",
+    "viewpoint",
+    "in view of",
+    "on view",
+    "point of view"
+  ],
+  "list_browse": [
+    "video arcade",
+    "video camera",
+    "videotape",
+    "vie",
+    "view",
+    "viewer",
+    "viewpoint",
+    "vigilance",
+    "vigilant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699634_d45ed68c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699634_dc0ac8ba52_o.png",
+      "id_image": "view_2033280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389442_9bc2ffd822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389442_2179cbf243_o.png",
+      "id_image": "view_4470917"
+    }
+  ]
+}

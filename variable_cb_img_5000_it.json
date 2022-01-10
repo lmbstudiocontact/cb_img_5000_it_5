@@ -1,0 +1,104 @@
+{
+  "english": "variable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể thay đổi/biến đổi",
+          "definition": "that may be varied",
+          "world_new": [
+            "varied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The speed of the food mixer is variable.",
+              "world_new": [
+                "speed",
+                "food",
+                "mixer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hay thay đổi",
+          "definition": "(of eg winds, weather etc) liable or likely to change",
+          "world_new": [
+            "weather",
+            "liable",
+            "likely",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "British weather is very variable.",
+              "world_new": [
+                "British",
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biến số",
+          "definition": "something that varies, eg in quantity, value, effect etc",
+          "world_new": [
+            "quantity",
+            "value",
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you taken all the variables into account in your calculations?",
+              "world_new": [
+                "account",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The next group of variables in the regression concerns the financial situation of the surveyed households.",
+    "Of course, ours is a metropolitan sample and, therefore, for variables affected by the urban-rural distinction, the outcomes will be specific to a city sample.",
+    "We have here made a design choice to choose the use of nameless variables in code representation.",
+    "Examination of interactions among the other physiological variables measured provided little evidence for more pronounced effects as a result of the combined administration of compounds.",
+    "We recognize that these variables could have important effects on the level of stock holdings.",
+    "All variables are coded with the hypothesized pro-multicultural response high.",
+    "A term with no free variables is closed.",
+    "When two or more independent variables (treatment conditions) are manipulated at the same time, we are dealing with factorial experiments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vanquish",
+    "vaporize",
+    "vapour",
+    "variability",
+    "variable",
+    "variably",
+    "variant",
+    "variation",
+    "varicose veins"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393262_65100419f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393262_d978723028_o.png",
+      "id_image": "variable_1900284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393217_70774fc1d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393217_ffeb547b76_o.png",
+      "id_image": "variable_2620328"
+    }
+  ]
+}

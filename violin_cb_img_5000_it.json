@@ -1,0 +1,73 @@
+{
+  "english": "violin",
+  "phat_am": "vaiəˈlin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vĩ cầm",
+          "definition": "a type of musical instrument with four strings, played with a bow",
+          "world_new": [
+            "type",
+            "musical",
+            "instrument",
+            "strings",
+            "bow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She played the violin in the school orchestra",
+              "world_new": [
+                "school",
+                "orchestra"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you play that on the violin?",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It consisted of piano, violin, drums and two banjos!",
+    "She was a skilled musician, playing piano and violin.",
+    "Extensive travelling and playing his violin day and night not only diffuses his musical identity but also depletes his body of strength.",
+    "Three of the participants had learned to play the classical violin while they were at school.",
+    "Similar to my schema, he also proposes classes of instruments, particularly the meta-instrument, an archetype of 'violin-ness'.",
+    "Clusterweighted sampling for synthesis and cross-synthesis of violin family instruments.",
+    "A whole set of envelopes of a violin sound, and the matrix showing the correlation between them.",
+    "However, both forms co-occur in the same session with variants showing the expected reduplicative onset : violin-bin and goldfish-poldfish."
+  ],
+  "list_see_also": [
+    "violinist"
+  ],
+  "list_browse": [
+    "violence",
+    "violent",
+    "violently",
+    "violet",
+    "violin",
+    "violinist",
+    "violoncellist",
+    "violoncello",
+    "VIP"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343066_3d71893ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343066_763128ff76_o.png",
+      "id_image": "violin_2776318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387992_2d575c6aa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387992_920a1829c5_o.png",
+      "id_image": "violin_4424670"
+    }
+  ]
+}

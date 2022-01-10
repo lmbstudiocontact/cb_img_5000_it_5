@@ -1,0 +1,189 @@
+{
+  "english": "wire",
+  "phat_am": "ˈwaiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây kim loại",
+          "definition": "(also adjective) (of) metal drawn out into a long strand, as thick as string or as thin as thread",
+          "world_new": [
+            "metal",
+            "drawn",
+            "long",
+            "strand",
+            "thick",
+            "string",
+            "thin",
+            "thread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need some wire to connect the battery to the rest of the circuit",
+              "world_new": [
+                "connect",
+                "battery",
+                "rest",
+                "circuit"
+              ]
+            },
+            {
+              "ex_of_definition": "a wire fence.",
+              "world_new": [
+                "fence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây dẫn điện",
+          "definition": "a single strand of this",
+          "world_new": [
+            "single",
+            "strand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There must be a loose wire in my radio somewhere.",
+              "world_new": [
+                "loose",
+                "my",
+                "radio",
+                "somewhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây dẫn âm thanh",
+          "definition": "the metal cable used in telegraphy",
+          "world_new": [
+            "metal",
+            "cable",
+            "telegraphy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The message came over the wire this morning.",
+              "world_new": [
+                "message",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bức điện",
+          "definition": "a telegram",
+          "world_new": [
+            "telegram"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Send me a wire if I’m needed urgently.",
+              "world_new": [
+                "urgently"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mắc điện",
+          "definition": "to fasten, connect etc with wire",
+          "world_new": [
+            "fasten",
+            "connect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house has been wired (up), but the electricity hasn’t been connected yet.",
+              "world_new": [
+                "house",
+                "electricity",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi điện",
+          "definition": "to send a telegram to",
+          "world_new": [
+            "send",
+            "telegram"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wire me if anything important happens.",
+              "world_new": [
+                "important"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi điện tín",
+          "definition": "to send (a message) by telegram",
+          "world_new": [
+            "send",
+            "telegram"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can wire the details to my brother in New York.",
+              "world_new": [
+                "my",
+                "brother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wireless",
+    "wiring",
+    "high wire",
+    "wire-netting"
+  ],
+  "list_browse": [
+    "wintry",
+    "wipe",
+    "wipe out",
+    "wiper",
+    "wire",
+    "wire-netting",
+    "wireless",
+    "wiring",
+    "wiry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381587_ce9ac45acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381587_99570b30e1_o.png",
+      "id_image": "wire_3380347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451463_0bf3f2314a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451463_0eedd14ded_o.png",
+      "id_image": "wire_3380565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073480_31fa379911_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073480_7ebf596bce_o.png",
+      "id_image": "wire_4697326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451398_095c132d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451398_1cfb069132_o.png",
+      "id_image": "wire_6343774"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "yoghurt",
+  "phat_am": "ˈjoɡət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sữa chua",
+          "definition": "a type of semi-liquid food made from fermented milk",
+          "world_new": [
+            "type",
+            "food",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a raspberry yoghurt.",
+              "world_new": [
+                "raspberry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yob",
+    "yodel",
+    "yodeller",
+    "yoga",
+    "yoghurt",
+    "yogi",
+    "yoke",
+    "yolk",
+    "yolk sac"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685519_49036c5dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685519_2320866172_o.png",
+      "id_image": "yoghurt_1488873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685509_abd353d745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685509_cd233c04c7_o.png",
+      "id_image": "yoghurt_2592587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445383_335dcee4c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445383_c2b54621d4_o.png",
+      "id_image": "yoghurt_6411140"
+    }
+  ]
+}

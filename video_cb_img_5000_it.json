@@ -1,0 +1,124 @@
+{
+  "english": "video",
+  "phat_am": "ˈvidiəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viđêô",
+          "definition": "the recording or broadcasting (by means of a video recorder) of television pictures and sound",
+          "world_new": [
+            "recording",
+            "broadcasting",
+            "means",
+            "television",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police sometimes use video to record interviews.",
+              "world_new": [
+                "police",
+                "record"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "băng viđêô",
+          "definition": "a videotape",
+          "world_new": [
+            "videotape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a great video I want to show you.",
+              "world_new": [
+                "great",
+                "I",
+                "want"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu máy viđêô",
+          "definition": "(also video cassette recorder; VCR) a machine used for watching or recording television films and programmes on videotape.",
+          "world_new": [
+            "machine",
+            "recording",
+            "television",
+            "videotape"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu vào băng viđêô",
+          "definition": "to record on a video recorder or videotape",
+          "world_new": [
+            "record",
+            "recorder",
+            "videotape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He videoed a television programme on volcanoes.",
+              "world_new": [
+                "television",
+                "programme"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The face videos and voice recordings comprise actors of both genders, various ages, and ethnicities, to facilitate generalization.",
+    "Training workshops utilized small group work: videos and role-play allowed the practice use of relevant techniques.",
+    "Two commercially available videos are also referred to for the quality and time-dependent features of the images.",
+    "Many other more interesting videos are listed in a footnote.",
+    "There is one television set in each classroom for playing videos to students, a language laboratory and a networked computer in the school.",
+    "Such themes also form a significant category of subject matter in music videos.",
+    "In session 1, children were shown two videos, each 6 minutes in length.",
+    "The home page also can direct the reader to demonstration videos."
+  ],
+  "list_see_also": [
+    "video arcade",
+    "video camera",
+    "videotape"
+  ],
+  "list_browse": [
+    "Victorian",
+    "victorious",
+    "victoriously",
+    "victory",
+    "video",
+    "video arcade",
+    "video camera",
+    "videotape",
+    "vie"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699869_547130c2be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699869_860b935a05_o.png",
+      "id_image": "video_1246622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389742_d3e9e3fbbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389742_c8a45350e0_o.png",
+      "id_image": "video_183606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699899_152ef15491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699899_8a7d9ded37_o.png",
+      "id_image": "video_563034"
+    }
+  ]
+}

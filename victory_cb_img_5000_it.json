@@ -1,0 +1,79 @@
+{
+  "english": "victory",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiến thắng",
+          "definition": "(a) defeat of an enemy or rival",
+          "world_new": [
+            "defeat",
+            "enemy",
+            "rival"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our team has had two defeats and eight victories",
+              "world_new": [
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "At last they experienced the joy of victory.",
+              "world_new": [
+                "experienced",
+                "joy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The answer stems from the threshold effect in the relationship between votes and victories.",
+    "Alternatively, electorally competitive environments may emerge gradually as opposition parties increase their margins from one election to the next, and opposition victories spread across neighbouring municipalities.",
+    "However, as is the case with many such victories, the outcome produced inadvertent and less desirable consequences than anticipated.",
+    "The result is a secular liberalism combined with a principled multi-culturalism that still wins important victories in non-democratic electoral settings.",
+    "However, the tone is one of celebration of those who have died securing great sea victories.",
+    "A 5 per cent threshold (or victories in three constituencies) limits access to extremist parties.",
+    "A mural of this magnitude would only be commissioned for significant victories.",
+    "Fundamentally, the president could no longer guarantee electoral victories for his party's members."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "victor",
+    "Victorian",
+    "victorious",
+    "victoriously",
+    "victory",
+    "video",
+    "video arcade",
+    "video camera",
+    "videotape"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082405_b99f8d6ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082405_88cc54db32_o.png",
+      "id_image": "victory_1403214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082375_7b267c2744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082375_a2854d678a_o.png",
+      "id_image": "victory_1610509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459763_e5b92e649a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459763_95918b5f3f_o.png",
+      "id_image": "victory_366452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699984_ffda313828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699984_7719978654_o.png",
+      "id_image": "victory_5521329"
+    }
+  ]
+}

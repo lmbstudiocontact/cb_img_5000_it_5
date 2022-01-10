@@ -1,0 +1,74 @@
+{
+  "english": "vane",
+  "phat_am": "vein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cánh quạt máy",
+          "definition": "a flat blade which is moved by water or wind to generate power for a machine such as a windmill or turbine",
+          "world_new": [
+            "flat",
+            "blade",
+            "water",
+            "wind",
+            "generate",
+            "power",
+            "machine",
+            "windmill",
+            "turbine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The open degree of the vanes of the windmill can be controlled automatically according to the local wind power.",
+              "world_new": [
+                "open",
+                "degree",
+                "windmill",
+                "automatically",
+                "local",
+                "wind",
+                "power"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, it is important to remember here that the vane was of k i t e size; a 1.0 cm square.",
+    "This is a very thin vane, normally 1 x 1cm, mounted on a spindle so that the vane can rotate.",
+    "These conditioning units included diffusers, corner vanes, a honeycomb, screens and a contraction and were inserted within the channel to suppress any spatial and temporal nonuniformity of the flow.",
+    "Examples include heart valve leaflets, parachute canopies, thin airfoils (including bird, insect, or bat wings), sails, kites, flags, and weather vanes.",
+    "This is illustrated by the weather vane.",
+    "This effect would be minimized if the vanes are made perfectly symmetric.",
+    "The soundbite and sentence become the weather vane in the opposite.",
+    "The inertial oscillations, though unsteady, may produce a non-linear higher order steady component by interacting with the vanes in the tank."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "van",
+    "vandal",
+    "vandalism",
+    "vandalize",
+    "vane",
+    "vanguard",
+    "vanilla",
+    "vanish",
+    "vanity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393442_07b63339f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393442_7e6f6a265f_o.png",
+      "id_image": "vane_124381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085850_c16883567c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085850_89a2196a33_o.png",
+      "id_image": "vane_391547"
+    }
+  ]
+}

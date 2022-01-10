@@ -1,0 +1,76 @@
+{
+  "english": "venom",
+  "phat_am": "ˈvenəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nọc độc",
+          "definition": "the poison produced by some snakes, scorpions etc, transmitted by biting or stinging",
+          "world_new": [
+            "poison",
+            "biting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the venom of a cobra.",
+              "world_new": [
+                "cobra"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự căm ghét",
+          "definition": "great ill-feeling, anger etc",
+          "world_new": [
+            "great",
+            "ill-feeling",
+            "anger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke with venom.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As already noted, stingray spines apparently continue to retain venom for some time after becoming detached from the animal.",
+    "Differences in venom composition may play a role in the effectiveness of the medicinal plants used for snakebites.",
+    "To put this into perspective, though, deaths from mollusc venoms are less than 10% of the number of deaths from jellyfish stings.",
+    "The venoms contain many different toxins that vary in their effects; some are extremely toxic.",
+    "He further believed that the viper inoculates its venom at the moment it reverses itself.",
+    "Snake venoms are complex mixtures of proteins, and are stored in poison glands at the back of the head.",
+    "Two broad classes of toxins found in snake venoms are neurotoxins (mostly found in elapids) and hemotoxins (mostly found in viperids).",
+    "Also, some venoms include a proteolytic component that aids in digestion."
+  ],
+  "list_see_also": [
+    "venomous",
+    "venomously"
+  ],
+  "list_browse": [
+    "venereal disease",
+    "Venetian",
+    "vengeance",
+    "venison",
+    "venom",
+    "venomous",
+    "venomously",
+    "vent",
+    "ventilate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391722_bc3f4c337b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391722_5bdaba079b_o.png",
+      "id_image": "venom_5671603"
+    }
+  ]
+}

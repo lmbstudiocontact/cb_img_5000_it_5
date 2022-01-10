@@ -1,0 +1,82 @@
+{
+  "english": "window",
+  "phat_am": "ˈwindəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa sổ",
+          "definition": "an opening in the wall of a building etc which is fitted with a frame of wood, metal etc containing glass or similar material, that can be seen through and usually opened",
+          "world_new": [
+            "opening",
+            "wall",
+            "building",
+            "frame",
+            "wood",
+            "metal",
+            "glass",
+            "similar",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw her through the window",
+              "world_new": [
+                "I",
+                "saw"
+              ]
+            },
+            {
+              "ex_of_definition": "Open/Close the window"
+            },
+            {
+              "ex_of_definition": "goods displayed in a shop-window.",
+              "world_new": [
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Interestingly, they have advertising windows dedicated to specific national markets.",
+    "The model includes walls, the floor, the ceiling, windows, doors and some heavy pieces of furniture.",
+    "Radiators are located below the windows in these niches.",
+    "Ring bases with their hallmark stepfret or triangle cut-out windows are more common than tripod supports.",
+    "The context windows do not cross sentence boundaries.",
+    "The scheduling windows are also referred to as periods.",
+    "The shells are designed as brickwork cladding with vertical windows.",
+    "Large-scale, system-wide changes open large windows, which allow radical change, while small-scale, issue-specific problems create more limited opportunities for change."
+  ],
+  "list_see_also": [
+    "window-box",
+    "window-dressing",
+    "window-dresser",
+    "window-frame",
+    "window-ledge",
+    "window-pane",
+    "window-shopping",
+    "window-sill"
+  ],
+  "list_browse": [
+    "windfall",
+    "windiness",
+    "winding",
+    "windmill",
+    "window",
+    "window-box",
+    "window-dresser",
+    "window-dressing",
+    "window-frame"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373832_f936178993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373832_c60da1a048_o.png",
+      "id_image": "window_313110"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "upload",
+  "phat_am": "(British) apˈloud; (American) ˈaploud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tải lên",
+          "definition": "to transfer programs or data from a smaller computer system (= a client) to a larger one (= a host), especially over the Internet",
+          "world_new": [
+            "transfer",
+            "data",
+            "computer",
+            "system",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When you finish working on a file, you have to upload it to the central server.",
+              "world_new": [
+                "finish",
+                "file",
+                "central",
+                "server"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tải",
+          "definition": "programs or data that have been transferred from a smaller computer system (= a client) to a larger one (= a host), especially over the Internet",
+          "world_new": [
+            "data",
+            "computer",
+            "system",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Performing a software upload is a straightforward process.",
+              "world_new": [
+                "software",
+                "straightforward",
+                "process"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first story uploaded on to the site, as a test, was a fake news story.",
+    "Sanghvi denied all allegations and uploaded the article onto his website for readers to make their own judgement.",
+    "The code is uploaded and the virus destroys him.",
+    "Twango members can subscribe to a channel, receiving notifications when new media has been uploaded to a channel or when new comments have been added.",
+    "The frame was then uploaded by the company, which also offered to create a site for free if needed.",
+    "Lap times and other records can also be uploaded to the game's website which features a global ranking list.",
+    "He also uploaded pictures with his fans on a regular basis on social networking sites.",
+    "Since then, he has uploaded nearly one hundred videos and amassed over one million subscribers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "upholstered",
+    "upholsterer",
+    "upholstery",
+    "upkeep",
+    "upload",
+    "upon",
+    "upon my word!",
+    "upper",
+    "upper class"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466323_1892f22718_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466323_5b7db16c46_o.png",
+      "id_image": "upload_909841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706269_3d69cd41ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706269_3fe9e8d0fd_o.png",
+      "id_image": "upload_984463"
+    }
+  ]
+}

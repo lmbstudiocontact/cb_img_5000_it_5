@@ -1,0 +1,73 @@
+{
+  "english": "wardrobe",
+  "phat_am": "ˈwoːdrəub",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ treo quần áo",
+          "definition": "a cupboard in which clothes may be hung",
+          "world_new": [
+            "cupboard",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hang your suit in the wardrobe.",
+              "world_new": [
+                "your",
+                "suit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toàn bộ quần áo của một người",
+          "definition": "a stock of clothing",
+          "world_new": [
+            "stock",
+            "clothing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bought a complete new wardrobe in Paris.",
+              "world_new": [
+                "complete"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The two wardrobes housed their personal belongings.",
+    "Suits of clothes hanging in wardrobes were completely destroyed, and then there was an argument about compensation.",
+    "We want them to have decent wardrobes—something that will take the width of one's suit at least.",
+    "Money is usually no object when it comes to these princesses' wardrobes.",
+    "The interior consisted of two sofas, a dining table, galley sink and two wardrobes.",
+    "The house holds a large stage, wardrobes, a music library, storage facilities and seating for 200 - 250 people.",
+    "The afflicted will enter small, enclosed spaces, such as underneath beds or behind wardrobes.",
+    "The main deck houses the flightdeck, two wardrobes, eight toilets, two pantries and a three-section passenger cabin."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ward",
+    "-ward(s)",
+    "warden",
+    "warder",
+    "wardrobe",
+    "-ware",
+    "warehouse",
+    "wares",
+    "warfare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693049_ab823ebe08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693049_0cf731b553_o.png",
+      "id_image": "wardrobe_700116"
+    }
+  ]
+}

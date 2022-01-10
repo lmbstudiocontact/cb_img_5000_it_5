@@ -1,0 +1,86 @@
+{
+  "english": "wallet",
+  "phat_am": "ˈwolit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ví",
+          "definition": "a small (usually folding) case made of soft leather, plastic etc, carried in the pocket and used for holding (especially paper) money, personal papers etc; billfold American",
+          "world_new": [
+            "small",
+            "case",
+            "soft",
+            "leather",
+            "plastic",
+            "pocket",
+            "money",
+            "personal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His wallet has been stolen."
+            }
+          ]
+        },
+        {
+          "mean_english": "bao da",
+          "definition": "a similar case containing other things",
+          "world_new": [
+            "similar",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plastic wallet containing a set of small tools.",
+              "world_new": [
+                "plastic",
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our message on meat imports is currently advertised on seven million ticket wallets for long-haul destinations.",
+    "What about a motorist who carries his driving licence with him, but loses his wallet?",
+    "In the free document wallet, notably there was a tie.",
+    "But before he could make his speech of welcome, they stripped off his suit, taking his watch and wallet into the bargain.",
+    "She invented a new phrase tonight about the council tax being a light touch on people's wallets.",
+    "I remembered that in the school bag there was my wallet with $100 in it, and all my anatomy textbooks.",
+    "It does not cover pen and pencil holders as wallets.",
+    "There must be scope for hitting the persistent hooligan very sharply through his wallet."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "walkway",
+    "wall",
+    "wall-to-wall",
+    "walled",
+    "wallet",
+    "wallop",
+    "wallow",
+    "wallpaper",
+    "walnut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075490_bef17e5c46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075490_0306300fe5_o.png",
+      "id_image": "wallet_144926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338426_806f047ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338426_42ff042024_o.png",
+      "id_image": "wallet_290942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383327_6611312ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383327_6da83d8b60_o.png",
+      "id_image": "wallet_390128"
+    }
+  ]
+}

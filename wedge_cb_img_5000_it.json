@@ -1,0 +1,110 @@
+{
+  "english": "wedge",
+  "phat_am": "wedʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nệm",
+          "definition": "a piece of wood or metal, thick at one end and sloping to a thin edge at the other, used in splitting wood etc or in fixing something tightly in place",
+          "world_new": [
+            "piece",
+            "wood",
+            "metal",
+            "thick",
+            "sloping",
+            "thin",
+            "edge",
+            "wood",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She used a wedge under the door to prevent it swinging shut.",
+              "world_new": [
+                "door",
+                "prevent",
+                "swinging",
+                "shut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật hình cái nệm",
+          "definition": "something similar in shape",
+          "world_new": [
+            "similar",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wedge of cheese.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chèn",
+          "definition": "to fix or become fixed by, or as if by, a wedge or wedges",
+          "world_new": [
+            "fix",
+            "become",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is so fat that he got wedged in the doorway.",
+              "world_new": [
+                "fat",
+                "doorway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The expected along-strike structural variations and their accommodation modes may represent a first-order parameter which helps determine the three-dimensional architecture of thrust wedges.",
+    "In all of the images, the middle 4 mm does not have any par t of the step wedges in front of it.",
+    "Two examples of these progradation wedges are presented in detail.",
+    "In this approximation, at a given time, the two branches resulting from a tip splitting both move in two virtual wedges.",
+    "The distance between the two wedges was ;35 mm.",
+    "The inflated aerofoil consisted of an impervious sleeve supported by thin steel wedges a t the leading and trailing edges.",
+    "Such wedges are known to be a significant source of the current produced by many electrodes.",
+    "The wedges representing the trials in which the model reached the end of the board are magnified."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "webcam",
+    "website",
+    "wed",
+    "wedding",
+    "wedge",
+    "wedlock",
+    "Wednesday",
+    "weed",
+    "weed out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448233_0064e96002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448233_d48f8bd056_o.png",
+      "id_image": "wedge_1811669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378012_1d1fe729d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378012_9e17a4a3a8_o.png",
+      "id_image": "wedge_3390203"
+    }
+  ]
+}

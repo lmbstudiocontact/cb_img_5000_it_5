@@ -1,0 +1,135 @@
+{
+  "english": "wait",
+  "phat_am": "weit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đợi",
+          "definition": "(with for) to remain or stay (in the same place or without doing anything)",
+          "world_new": [
+            "remain",
+            "stay",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wait (for) two minutes (here) while I go inside",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m waiting for John (to arrive)."
+            }
+          ]
+        },
+        {
+          "mean_english": "mong mỏi",
+          "definition": "(with for) to expect",
+          "world_new": [
+            "expect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was just waiting for that pile of dishes to fall!",
+              "world_new": [
+                "I",
+                "pile",
+                "fall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phục vụ",
+          "definition": "(with on) to serve dishes, drinks etc (at table)",
+          "world_new": [
+            "serve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She employed a servant to wait on her guests",
+              "world_new": [
+                "employed",
+                "servant"
+              ]
+            },
+            {
+              "ex_of_definition": "He waits at table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chờ đợi",
+          "definition": "an act of waiting; a delay",
+          "world_new": [
+            "act",
+            "delay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a long wait before they could get on the train.",
+              "world_new": [
+                "long",
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have found that in beginning to implement radiographer led breast marking, sessions run more smoothly and result in less waiting around for individual patients.",
+    "The psychological trauma of waiting results in many patients electing for private referral.",
+    "The remaining children were on a waiting list for language evaluation for late speech onset or poor language development.",
+    "Accordingly, the number of deaths on the waiting list for livers will continue to increase in the near future.",
+    "A waiting list database application was developed to book patients in the correct order of priority and within target waiting times.",
+    "The benefits to many health organisations is obvious with the possibility of cutting waiting times for operations and a more controllable financial budget.",
+    "The normal behaviour was that people waited for a train, moved around a bit, got on a train, then left.",
+    "To assist with the organisation of the waiting lists, a database application was written."
+  ],
+  "list_see_also": [
+    "waiter",
+    "waiting list",
+    "waiting room"
+  ],
+  "list_browse": [
+    "waist",
+    "waistband",
+    "waistcoat",
+    "waisted",
+    "wait",
+    "waiter",
+    "waiting list",
+    "waiting room",
+    "waive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339171_e23ff2d660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339171_b7cf2532d2_o.png",
+      "id_image": "wait_1686925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694234_a50347ec61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694234_53c5aebd77_o.png",
+      "id_image": "wait_1687059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384042_cbb21df0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384042_1ca097a9c0_o.png",
+      "id_image": "wait_4401450"
+    }
+  ]
+}

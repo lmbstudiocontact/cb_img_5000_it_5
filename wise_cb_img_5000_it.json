@@ -1,0 +1,112 @@
+{
+  "english": "wise",
+  "phat_am": "waiz",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thông thái",
+          "definition": "having gained a great deal of knowledge from books or experience or both and able to use it well.",
+          "world_new": [
+            "great",
+            "deal",
+            "knowledge",
+            "experience"
+          ]
+        },
+        {
+          "mean_english": "tỉnh táo",
+          "definition": "sensible",
+          "world_new": [
+            "sensible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You would be wise to do as he suggests"
+            },
+            {
+              "ex_of_definition": "a wise decision.",
+              "world_new": [
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "có sáng suốt",
+          "definition": "in respect of or as regards",
+          "world_new": [
+            "respect",
+            "regards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This new idea may prove to be difficult cost-wise.",
+              "world_new": [
+                "idea",
+                "prove",
+                "difficult"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo cách",
+          "definition": "in a (particular) way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stripes run crosswise.",
+              "world_new": [
+                "run"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Still, the couple deemed it wise to do so, possibly anticipating future problems.",
+    "These wise men hold the positions of leadership and govern the country.",
+    "Thwarting permanent human interests is not a wise political strategy.",
+    "A king wishes to determine which of his three wise men is the wisest.",
+    "Once clones are evaluated on a standard rootstock, it would be wise to use this rootstock for commercial plantings.",
+    "Creative and wise people : similarities, differences, and how they develop.",
+    "We thought it wise to elect leaders in different places.",
+    "In vain would they assemble for this purpose the wisest statisticians, the most expert merchants, the most skilled manufacturers, and the ablest administrators."
+  ],
+  "list_see_also": [
+    "wisely",
+    "wisdom",
+    "wisdom tooth",
+    "wisecrack",
+    "wise guy",
+    "be wise to",
+    "none the wiser",
+    "put (someone) wise"
+  ],
+  "list_browse": [
+    "wiring",
+    "wiry",
+    "wisdom",
+    "wisdom tooth",
+    "wise",
+    "wise guy",
+    "wisecrack",
+    "wisely",
+    "wish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335866_e2fc65b364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335866_3588fbcc24_o.png",
+      "id_image": "wise_401559"
+    }
+  ]
+}

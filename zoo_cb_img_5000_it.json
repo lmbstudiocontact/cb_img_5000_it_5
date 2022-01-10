@@ -1,0 +1,69 @@
+{
+  "english": "zoo",
+  "phat_am": "zuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sở thú",
+          "definition": "(short for zoological garden) a place where wild animals are kept for the public to see, and for study, breeding etc",
+          "world_new": [
+            "place",
+            "wild",
+            "public",
+            "see",
+            "study",
+            "breeding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I thought I’d take the children to the zoo on Sunday.",
+              "world_new": [
+                "I",
+                "thought",
+                "Sunday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Over 8,000 words are entertainingly and informatively covered, from a to zoo.",
+    "If the camel was seen at the zoo, then 1904 was the year.",
+    "A very dangerous wild cat escaped from the zoo.",
+    "Furthermore, he had visited a petting zoo 1 week before the onset of symptoms.",
+    "The results substantiate that there is an infection risk for zoo animals.",
+    "Specific antibodies were detected in 154 (10.4 %) out of 1487 zoo animals tested.",
+    "The association with visits to farms, small-holdings or zoos, was no longer significant.",
+    "Seroprevalences varying among zoos are believed to be based on unequal expositions caused mainly by differences in the occurrence and infection rates of vector-competent ticks."
+  ],
+  "list_see_also": [
+    "zookeeper"
+  ],
+  "list_browse": [
+    "zit",
+    "zodiac",
+    "zombie",
+    "zone",
+    "zoo",
+    "zookeeper",
+    "zoological",
+    "zoologically",
+    "zoologist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445028_11d3d18f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445028_24d750a167_o.png",
+      "id_image": "zoo_831506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684944_c3afbb4c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684944_a4ab4922fd_o.png",
+      "id_image": "zoo_848571"
+    }
+  ]
+}

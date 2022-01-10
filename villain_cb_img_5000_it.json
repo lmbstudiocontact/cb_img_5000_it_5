@@ -1,0 +1,58 @@
+{
+  "english": "villain",
+  "phat_am": "ˈvilən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tên côn đồ",
+          "definition": "a person who is wicked or of very bad character",
+          "world_new": [
+            "person",
+            "wicked",
+            "bad",
+            "character"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the villain of the play/story."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "villainous",
+    "villainy"
+  ],
+  "list_browse": [
+    "vileness",
+    "villa",
+    "village",
+    "villager",
+    "villain",
+    "villainous",
+    "villainy",
+    "villus",
+    "vine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081125_7157e9dc39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081125_32b9a4dd18_o.png",
+      "id_image": "villain_2155380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343701_49c68eb333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343701_e8f619c3c7_o.png",
+      "id_image": "villain_5039273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698854_b45dab208f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698854_e34c5ea8ed_o.png",
+      "id_image": "villain_5039320"
+    }
+  ]
+}

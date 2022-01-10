@@ -1,0 +1,256 @@
+{
+  "english": "wear",
+  "phat_am": "weə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mặc; mang; đeo",
+          "definition": "to be dressed in or carry on (a part of) the body",
+          "world_new": [
+            "dressed",
+            "carry",
+            "part",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore a white dress",
+              "world_new": [
+                "white",
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "Does she usually wear glasses?",
+              "world_new": [
+                "glasses"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để râu, tóc",
+          "definition": "to arrange (one’s hair) in a particular way",
+          "world_new": [
+            "arrange",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wears her hair in a ponytail.",
+              "world_new": [
+                "hair",
+                "ponytail"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏ thái độ",
+          "definition": "to have or show (a particular expression)",
+          "world_new": [
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore an angry expression on her face.",
+              "world_new": [
+                "angry",
+                "expression",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng mòn",
+          "definition": "to (cause to) become thinner etc because of use, rubbing etc",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This carpet has worn in several places",
+              "world_new": [
+                "carpet",
+                "worn"
+              ]
+            },
+            {
+              "ex_of_definition": "This sweater is wearing thin at the elbows.",
+              "world_new": [
+                "sweater",
+                "wearing",
+                "thin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm rách",
+          "definition": "to make (a bare patch, a hole etc) by rubbing, use etc",
+          "world_new": [
+            "bare",
+            "patch",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve worn a hole in the elbow of my jacket.",
+              "world_new": [
+                "worn",
+                "hole",
+                "elbow",
+                "my",
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bền",
+          "definition": "to stand up to use",
+          "world_new": [
+            "stand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This material doesn’t wear very well.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quần áo mặc",
+          "definition": "use as clothes etc",
+          "world_new": [
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I use this suit for everyday wear",
+              "world_new": [
+                "I",
+                "suit",
+                "everyday"
+              ]
+            },
+            {
+              "ex_of_definition": "Those shoes won’t stand much wear.",
+              "world_new": [
+                "stand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những thứ để mặc",
+          "definition": "articles for use as clothes",
+          "world_new": [
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "casual wear",
+              "world_new": [
+                "casual"
+              ]
+            },
+            {
+              "ex_of_definition": "sportswear",
+              "world_new": [
+                "sportswear"
+              ]
+            },
+            {
+              "ex_of_definition": "leisure wear.",
+              "world_new": [
+                "leisure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mòn",
+          "definition": "(sometimes wear and tear) damage due to use",
+          "world_new": [
+            "damage",
+            "due"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hall carpet is showing signs of wear.",
+              "world_new": [
+                "hall",
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bền",
+          "definition": "ability to withstand use",
+          "world_new": [
+            "ability",
+            "withstand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s plenty of wear left in these boots.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further, 22.6 % of them (7/31) stated that they would not wear a mask when going to public areas, if they had any flu-like symptoms.",
+    "On weekdays gowns were worn, and surplices by the scholars, who read the lessons.",
+    "There are watches that can be worn to give you full computing power or just as or, in addition to serve as a cellphone.",
+    "As long as she had something to eat, clothes to wear and somewhere to sleep, she did not consider herself to be poor.",
+    "Phonograph cylinders were made of wax, and thus only withstood a very limited number of replayings before the groove was worn.",
+    "These were large puppets worn by their operators and the puppets became progressively larger throughout the show.",
+    "Everywhere on the globe people watch the same films, eat the same food, and wear the same clothing.",
+    "And, in any case, by the next day the novelty of the sighting had worn off."
+  ],
+  "list_see_also": [
+    "wearable",
+    "wearer",
+    "wearing",
+    "worn",
+    "wear away",
+    "wear off",
+    "wear out",
+    "worn out"
+  ],
+  "list_browse": [
+    "wealth",
+    "wealthy",
+    "wean",
+    "weapon",
+    "wear",
+    "wear away",
+    "wear off",
+    "wear out",
+    "wearable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379092_3fb8179d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379092_689946a4c1_o.png",
+      "id_image": "wear_4845986"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "welfare",
+  "phat_am": "ˈwelfeə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoẻ mạnh; thịnh vượng",
+          "definition": "mental and physical health; living conditions",
+          "world_new": [
+            "mental",
+            "physical",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is looking after the child’s welfare?"
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền trợ cấp",
+          "definition": "money or aid given by government to people in need",
+          "world_new": [
+            "money",
+            "aid",
+            "government",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is on welfare"
+            },
+            {
+              "ex_of_definition": "She lives on welfare."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Certainly, if the length of the speakers' list is anything to go by, today is animal welfare's day.",
+    "The nature of the welfare regime seems to have been very important.",
+    "The substantive response to welfare spending that breaches the cap threshold is entirely a matter of political selection.",
+    "A measure of welfare would ideally incorporate information on both.",
+    "At the same time, cultural influences and different welfare-state models continue to produce divergent national patterns.",
+    "Many older people far from being a ' burden ' were vital to the survival and welfare of their families.",
+    "We are still studying the all party group for animal welfare's report on circus animals.",
+    "What they have to give depends largely on the resources made available to them by the welfare system."
+  ],
+  "list_see_also": [
+    "child welfare",
+    "welfare state"
+  ],
+  "list_browse": [
+    "welcome",
+    "welcoming",
+    "weld",
+    "welder",
+    "welfare",
+    "welfare state",
+    "well",
+    "well enough",
+    "well up in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687219_b4b13bb6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687219_bd821fc521_o.png",
+      "id_image": "welfare_2191170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332201_16d0947dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332201_493a651fac_o.png",
+      "id_image": "welfare_3053805"
+    }
+  ]
+}

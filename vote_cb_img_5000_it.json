@@ -1,0 +1,137 @@
+{
+  "english": "vote",
+  "phat_am": "vəut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bỏ phiếu, bầu cử",
+          "definition": "(the right to show) one’s wish or opinion, eg in a ballot or by raising a hand etc, especially at an election or in a debate",
+          "world_new": [
+            "right",
+            "wish",
+            "opinion",
+            "ballot",
+            "hand",
+            "election",
+            "debate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In Britain, the vote was given to women over twenty-one in 1928"
+            },
+            {
+              "ex_of_definition": "Nowadays everyone over eighteen has a vote"
+            },
+            {
+              "ex_of_definition": "A vote was taken to decide the matter.",
+              "world_new": [
+                "decide",
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ phiếu, bấu cử",
+          "definition": "to cast or record one’s vote",
+          "world_new": [
+            "cast",
+            "record"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She voted for the Conservative candidate",
+              "world_new": [
+                "candidate"
+              ]
+            },
+            {
+              "ex_of_definition": "I always vote Labour",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I shall vote against the restoration of capital punishment.",
+              "world_new": [
+                "I",
+                "restoration",
+                "capital",
+                "punishment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông qua trợ cấp",
+          "definition": "to allow, by a vote, the provision of (something) eg to someone, for a purpose etc",
+          "world_new": [
+            "allow",
+            "provision",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were voted $5,000 to help them in their research.",
+              "world_new": [
+                "help",
+                "their",
+                "research"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Members of authorizing committees have delegated to members of appropriations committees the power (subject to floor votes) to limit spending.",
+    "However, the share of votes is not appropriate for the index since it is largely influenced by the number of candidates.",
+    "I include state population into the model to test whether it is more difficult for a senator to cultivate personal votes in a larger state.",
+    "Intriguingly, these data suggest that these fundamental variables are less reflected in voting preferences in non-party list countries as the election approaches.",
+    "They also find that the absolute level of voting participation in each state is a more influential predictor of health than voting inequality.",
+    "The nature of the electoral system not only determines the way votes are counted, but also influences the way they are cast.",
+    "Finally, it submits the total votes to its parent.",
+    "Under the new system, the number of successful candidates of a given party would be determined by the sum of the two types of votes."
+  ],
+  "list_see_also": [
+    "voter",
+    "vote of confidence",
+    "vote of thanks"
+  ],
+  "list_browse": [
+    "voluntary",
+    "volunteer",
+    "vomit",
+    "voodoo",
+    "vote",
+    "vote of confidence",
+    "vote of thanks",
+    "voter",
+    "vouch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077575_bfdfdaa7f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077575_c8c394b667_o.png",
+      "id_image": "vote_1666098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695589_71fa0c0aca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695589_8389f5847b_o.png",
+      "id_image": "vote_1666102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077505_0432f7e376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077505_d81d5eb770_o.png",
+      "id_image": "vote_2529798"
+    }
+  ]
+}

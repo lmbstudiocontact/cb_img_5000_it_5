@@ -1,0 +1,125 @@
+{
+  "english": "yard",
+  "phat_am": "jaːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thước Anh (0,914 mét)",
+          "definition": "(often abbreviated to yd) an old unit of length equal to 0.9144 metres",
+          "world_new": [
+            "old",
+            "unit",
+            "length",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The field is 50 yards long.",
+              "world_new": [
+                "field",
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân",
+          "definition": "an area of (enclosed) ground beside a building",
+          "world_new": [
+            "area",
+            "ground",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave your bicycle in the yard",
+              "world_new": [
+                "your",
+                "bicycle"
+              ]
+            },
+            {
+              "ex_of_definition": "a schoolyard"
+            },
+            {
+              "ex_of_definition": "a courtyard.",
+              "world_new": [
+                "courtyard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho; xưởng",
+          "definition": "an area of enclosed ground used for a special purpose",
+          "world_new": [
+            "area",
+            "ground",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shipyard",
+              "world_new": [
+                "shipyard"
+              ]
+            },
+            {
+              "ex_of_definition": "a dockyard.",
+              "world_new": [
+                "dockyard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This paper presented a remote crane control system for port container loading/unloading yard cranes.",
+    "Questions of architectural planning have been raised because in the near future both the commercial harbour and the railroad yards will be abandoned.",
+    "They used tall pieces of wood so that the thing would keep the dog in the yard.",
+    "For example at one site we had walls that related to a house and a series of cesspits behind it, and then a yard.",
+    "Ethnographers observed that in both of these census tracts, the homes and yards appeared wellmaintained, and the streets were quiet and clean.",
+    "When logging themselves, farmers generally used a farm tractor to yard harvested wood.",
+    "For example, under new regulations, no pawnshop was allowed to be set up within fifty yards (and later one hundred yards) of a gambling house.",
+    "The farmhouse and dairy barn were to have been connected by a transitional utility space, with other utility structures forming a yard to the rear."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yam",
+    "yank",
+    "Yankee",
+    "yap",
+    "yard",
+    "yarn",
+    "yashmak",
+    "yawn",
+    "yawning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331406_826e2953f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331406_3baca8f6ca_o.png",
+      "id_image": "yard_306705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068095_6d074aa152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068095_9dd976dcb4_o.png",
+      "id_image": "yard_5234304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446303_39ecba16fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446303_6853096c98_o.png",
+      "id_image": "yard_5776764"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "worship",
+  "phat_am": "ˈwəːʃip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thờ",
+          "definition": "to pay great honour/honor to",
+          "world_new": [
+            "pay",
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People go to church in order to worship God.",
+              "world_new": [
+                "church",
+                "order",
+                "God"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tôn sùng",
+          "definition": "to love or admire very greatly",
+          "world_new": [
+            "love",
+            "admire",
+            "greatly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She worships her older brother.",
+              "world_new": [
+                "brother"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thờ phụng",
+          "definition": "the act of worshipping",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A church is a place of worship",
+              "world_new": [
+                "church",
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "the worship of God / of money.",
+              "world_new": [
+                "God",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "worshipper"
+  ],
+  "list_browse": [
+    "worry",
+    "worse",
+    "worse luck!",
+    "worsen",
+    "worship",
+    "worshipper",
+    "worst",
+    "worth",
+    "worth one’s while"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688349_2e966f427e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688349_66e2b6c2ba_o.png",
+      "id_image": "worship_4334595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688324_cd631d8076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688324_679c013f58_o.png",
+      "id_image": "worship_4839287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333296_dfbb8793ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333296_6517fff810_o.png",
+      "id_image": "worship_594728"
+    }
+  ]
+}

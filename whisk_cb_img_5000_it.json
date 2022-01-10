@@ -1,0 +1,129 @@
+{
+  "english": "whisk",
+  "phat_am": "wisk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vụt, đập",
+          "definition": "to sweep, or cause to move, rapidly",
+          "world_new": [
+            "sweep",
+            "cause",
+            "move",
+            "rapidly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He whisked the dirty dishes off the table",
+              "world_new": [
+                "dirty",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "He whisked her off to the doctor.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh kem",
+          "definition": "to beat (eggs etc) with a fork or whisk",
+          "world_new": [
+            "beat",
+            "fork"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whisk the eggs thoroughly.",
+              "world_new": [
+                "thoroughly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái vụt",
+          "definition": "a rapid, sweeping motion.",
+          "world_new": [
+            "rapid",
+            "sweeping",
+            "motion"
+          ]
+        },
+        {
+          "mean_english": "cái đánh trứng, kem",
+          "definition": "a kitchen tool made of wire etc, for beating eggs, cream etc",
+          "world_new": [
+            "kitchen",
+            "tool",
+            "wire",
+            "beating",
+            "cream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "egg whisk.",
+              "world_new": [
+                "egg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Europa mounts the bull, which quickly whisks her away into the ocean.",
+    "The cup is then whisked away, and the napkin is inspected for any signs of moisture.",
+    "The tax applies to articles of a domestic kind, and egg whisks over 12 inches long are not, according to my information, commonly used in the domestic kitchen.",
+    "When the beurre mani is whisked into a hot or warm liquid, the butter melts, releasing the flour particles without creating lumps.",
+    "Many species have long, sensitive vibrissae for touch or whisking.",
+    "They both look upwards towards him and hold fly whisks.",
+    "She falls in love with him at last; as they are about to embrace, however, she is whisked back to her own time.",
+    "The egg mixture is whisked until fluffy and then cooked on a skillet."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whirl",
+    "whirlpool",
+    "whirlwind",
+    "whirr",
+    "whisk",
+    "whisker",
+    "whiskered",
+    "whisky",
+    "whisper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375532_4582b2b428_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375532_fe6c457ac2_o.png",
+      "id_image": "whisk_184490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067555_466780a4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067555_19064a359f_o.png",
+      "id_image": "whisk_2455937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685864_3b2828553d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685864_3dec61a5f3_o.png",
+      "id_image": "whisk_527770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330781_a0fe1fc3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330781_8ee5d5ff6b_o.png",
+      "id_image": "whisk_741367"
+    }
+  ]
+}

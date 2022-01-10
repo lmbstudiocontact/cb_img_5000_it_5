@@ -1,0 +1,88 @@
+{
+  "english": "wealth",
+  "phat_am": "welθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giàu có",
+          "definition": "riches",
+          "world_new": [
+            "riches"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a man of great wealth.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự phong phú",
+          "definition": "a great quantity (of)",
+          "world_new": [
+            "great",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wealth of information.",
+              "world_new": [
+                "information"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given the time separabilities in preferences, there are important distinctions between consumption and wealth lotteries.",
+    "Aging and the income value of housing wealth.",
+    "The community is based on the shared interest in the circulation of wealth for the purpose of its preservation and expansion (p. 253).",
+    "Finally, let us analyse the relationship between wealth status and remarriage.",
+    "A closer scrutiny of the wealth of some will-makers will allow us to say more.",
+    "Even so, the great strength of this work is the wealth of detailed and clearly presented information that it brings together.",
+    "Although those properties are owner-occupied, if that trend continued it would cause an erosion of one of the basic wealths of the nation.",
+    "The net flow of wealth was from child to parent over a lifetime."
+  ],
+  "list_see_also": [
+    "wealthy"
+  ],
+  "list_browse": [
+    "weaken",
+    "weakling",
+    "weakly",
+    "weakness",
+    "wealth",
+    "wealthy",
+    "wean",
+    "weapon",
+    "wear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449618_14f9b60858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449618_250a36d509_o.png",
+      "id_image": "wealth_2200880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379522_dbed6cecc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379522_788b3308ff_o.png",
+      "id_image": "wealth_3053803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379492_982e190a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379492_b0cdd37943_o.png",
+      "id_image": "wealth_4802417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071475_5d889773ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071475_20a2e1439e_o.png",
+      "id_image": "wealth_6214082"
+    }
+  ]
+}

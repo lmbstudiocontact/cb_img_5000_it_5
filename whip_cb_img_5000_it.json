@@ -1,0 +1,142 @@
+{
+  "english": "whip",
+  "phat_am": "wip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "roi da",
+          "definition": "a long cord or strip of leather attached to a handle, used for punishing people, driving horses etc",
+          "world_new": [
+            "long",
+            "cord",
+            "strip",
+            "leather",
+            "attached",
+            "handle",
+            "punishing",
+            "people",
+            "driving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carries a whip, but he would never use it on the horse.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghị viên phụ trách tổ chức",
+          "definition": "in parliament, a member chosen by his party to make sure that no one fails to vote on important questions.",
+          "world_new": [
+            "parliament",
+            "member",
+            "party",
+            "sure",
+            "vote",
+            "important"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quất bằng roi",
+          "definition": "to strike with a whip",
+          "world_new": [
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He whipped the horse to make it go faster",
+              "world_new": [
+                "horse"
+              ]
+            },
+            {
+              "ex_of_definition": "The criminals were whipped."
+            }
+          ]
+        },
+        {
+          "mean_english": "đập",
+          "definition": "to beat (eggs etc)",
+          "world_new": [
+            "beat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whip the eggs until they form stiff peaks.",
+              "world_new": [
+                "form",
+                "stiff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "động tác nhanh",
+          "definition": "to move fast especially with a twisting motion like a whip",
+          "world_new": [
+            "move",
+            "fast",
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suddenly he whipped round and saw me",
+              "world_new": [
+                "saw"
+              ]
+            },
+            {
+              "ex_of_definition": "He whipped out a revolver and shot her.",
+              "world_new": [
+                "revolver",
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "whiplash",
+    "whipped cream",
+    "whip up"
+  ],
+  "list_browse": [
+    "whimper",
+    "whine",
+    "whiningly",
+    "whinny",
+    "whip",
+    "whip up",
+    "whiplash",
+    "whipped cream",
+    "whippet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686044_c8f164c03b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686044_52d6b7a530_o.png",
+      "id_image": "whip_1809883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445933_85686648c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445933_563e77de0a_o.png",
+      "id_image": "whip_1917170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067825_5664d9b755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067825_d9f00baf9a_o.png",
+      "id_image": "whip_257512"
+    }
+  ]
+}

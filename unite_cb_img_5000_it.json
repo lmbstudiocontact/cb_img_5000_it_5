@@ -1,0 +1,91 @@
+{
+  "english": "unite",
+  "phat_am": "juˈnait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hợp nhất",
+          "definition": "to join together, or to make or become one",
+          "world_new": [
+            "join",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "England and Scotland were united under one parliament in 1707",
+              "world_new": [
+                "united",
+                "parliament"
+              ]
+            },
+            {
+              "ex_of_definition": "He was united with his friends again.",
+              "world_new": [
+                "united"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoàn kết",
+          "definition": "to act together",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let us unite against the common enemy.",
+              "world_new": [
+                "common",
+                "enemy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The emphasis on collective decision-making, rather than departmental autonomy, reflects not only the constitutional requirement that the government stand united in parliament.",
+    "To unite these two methods of working, strategies for this second type of interactive improvisation were devised, based on object-cues.",
+    "Moreover, no natural connection keeps these two criteria united.",
+    "What unites these articles is a concern with identifying the substance of laryngeal contrasts.",
+    "Their social organisation is based on small bands, united in flexible egalitarian structures.",
+    "The drama culminates with the workers uniting in a communal effort to repair the potentially lethal seepage.",
+    "They are united by origin; indeed, they cannot be imagined without the other.",
+    "All floors are united through contributing to, and accessing, a common data bank of information and sound."
+  ],
+  "list_see_also": [
+    "united"
+  ],
+  "list_browse": [
+    "unique",
+    "unisex",
+    "unison",
+    "unit",
+    "unite",
+    "united",
+    "unity",
+    "universal",
+    "universality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707419_5ffe539df0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707419_072e26a491_o.png",
+      "id_image": "unite_232954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707384_aaf6089474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707384_25b15ee093_o.png",
+      "id_image": "unite_2844578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707364_3a47224953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707364_c6a43300c2_o.png",
+      "id_image": "unite_5376888"
+    }
+  ]
+}

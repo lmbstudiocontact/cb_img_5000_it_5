@@ -1,0 +1,69 @@
+{
+  "english": "worldwide",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "toàn thế giới",
+          "definition": "(extending over or found) everywhere in the world",
+          "world_new": [
+            "everywhere",
+            "world"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a worldwide sales network",
+              "world_new": [
+                "network"
+              ]
+            },
+            {
+              "ex_of_definition": "Their products are sold worldwide."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The estimates for actual losses due to pathogens, viruses, animal pests and weeds worldwide totalled 14, 7, 11 and 8 %, respectively.",
+    "It has been established for some 25 years, and operates worldwide.",
+    "There has been much discussion worldwide about the safest and most efficient ways of clearing landmines.",
+    "Probably, in species with a worldwide distribution, genetic changes may occur as populations adapt to new regions.",
+    "Work-related low back disorders are a significant and increasing problem worldwide.",
+    "Since the epidemiology of varicella varies worldwide, adopting foreign prevention policies may not always be applicable.",
+    "This was accompanied by a greater interaction worldwide between musicians from the 'free improv' and 'new music' scenes.",
+    "Organic farming worldwide 2007 overview and main statistics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "world-class",
+    "world-famous",
+    "worldliness",
+    "worldly",
+    "worldwide",
+    "worm",
+    "worn",
+    "worn out",
+    "worn to a shadow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333576_cdeb471266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333576_403681e840_o.png",
+      "id_image": "worldwide_169480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333566_e39e548ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333566_0025c08cb9_o.png",
+      "id_image": "worldwide_179706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333536_2333031eca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333536_d64887c303_o.png",
+      "id_image": "worldwide_230604"
+    }
+  ]
+}

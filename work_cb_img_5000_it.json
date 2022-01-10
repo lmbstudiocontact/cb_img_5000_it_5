@@ -1,0 +1,392 @@
+{
+  "english": "work",
+  "phat_am": "wəːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nỗ lực",
+          "definition": "effort made in order to achieve or make something",
+          "world_new": [
+            "effort",
+            "order",
+            "achieve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has done a lot of work on this project",
+              "world_new": [
+                "project"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công việc",
+          "definition": "employment",
+          "world_new": [
+            "employment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cannot find work in this town.",
+              "world_new": [
+                "I",
+                "find",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiệm vụ",
+          "definition": "a task or tasks; the thing that one is working on",
+          "world_new": [
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please clear your work off the table.",
+              "world_new": [
+                "clear",
+                "your",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tác phẩm",
+          "definition": "a painting, book, piece of music etc",
+          "world_new": [
+            "painting",
+            "book",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the works of Van Gogh / Shakespeare/Mozart",
+              "world_new": [
+                "works"
+              ]
+            },
+            {
+              "ex_of_definition": "This work was composed in 1816.",
+              "world_new": [
+                "composed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công trình",
+          "definition": "the product or result of a person’s labours/labors",
+          "world_new": [
+            "product",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work has shown a great improvement lately.",
+              "world_new": [
+                "great",
+                "improvement",
+                "lately"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi làm việc",
+          "definition": "one’s place of employment",
+          "world_new": [
+            "place",
+            "employment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He left (his) work at 5.30 p.m.",
+              "world_new": [
+                "left",
+                "p",
+                "m"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t think I’ll go to work tomorrow.",
+              "world_new": [
+                "I",
+                "think",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm việc",
+          "definition": "to (cause to) make efforts in order to achieve or make something",
+          "world_new": [
+            "order",
+            "achieve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works at the factory three days a week",
+              "world_new": [
+                "works",
+                "factory",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "He works his employees very hard",
+              "world_new": [
+                "works"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve been working on/at a new project.",
+              "world_new": [
+                "project"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có việc làm",
+          "definition": "to be employed",
+          "world_new": [
+            "employed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you working just now?"
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động",
+          "definition": "to (cause to) operate (in the correct way)",
+          "world_new": [
+            "operate",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has no idea how that machine works / how to work that machine",
+              "world_new": [
+                "idea",
+                "machine",
+                "works",
+                "machine"
+              ]
+            },
+            {
+              "ex_of_definition": "That machine doesn’t/won’t work, but this one’s working.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành công",
+          "definition": "to be practicable and/or successful",
+          "world_new": [
+            "practicable",
+            "successful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If my scheme works, we’ll be rich!",
+              "world_new": [
+                "my",
+                "scheme",
+                "works",
+                "rich"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vượt qua được",
+          "definition": "to make (one’s way) slowly and carefully with effort or difficulty",
+          "world_new": [
+            "slowly",
+            "carefully",
+            "effort",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She worked her way up the rock face.",
+              "world_new": [
+                "rock",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên",
+          "definition": "to get into, or put into, a stated condition or position, slowly and gradually",
+          "world_new": [
+            "condition",
+            "position",
+            "slowly",
+            "gradually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wheel worked loose.",
+              "world_new": [
+                "wheel",
+                "loose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chế tác",
+          "definition": "to make by craftsmanship",
+          "world_new": [
+            "craftsmanship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ornaments had been worked in gold.",
+              "world_new": [
+                "gold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "tác phẩm",
+          "definition": "(the art of making) goods of a particular material",
+          "world_new": [
+            "art",
+            "goods",
+            "particular",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He learns woodwork at school",
+              "world_new": [
+                "woodwork",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "This shop sells basketwork.",
+              "world_new": [
+                "shop",
+                "basketwork"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần",
+          "definition": "parts of something, eg a building, made of a particular material",
+          "world_new": [
+            "building",
+            "particular",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stonework/woodwork/paintwork needs to be renewed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The early excitement for this work has been replaced by considerably more caution.",
+    "One can argue that if a numerical scheme works well, then its numerical dissipation must have the same qualitative properties as the physical dissipation.",
+    "Whereas oncologists and primary care physicians overwhelmingly reported having working relationships with hospice, only 57% of cardiologists reported having those contacts.",
+    "How far can the number of working languages be reduced?",
+    "Servants were gradually replaced by other types of labour with work duties as crofters or different types of paid workers.",
+    "The work represents the product of two workshops, held in 2004 and 2005.",
+    "Space permits only a cursory overview of these slighter works.",
+    "There is also the question of marking pupils' or students' work."
+  ],
+  "list_see_also": [
+    "-work",
+    "workable",
+    "worker",
+    "works",
+    "work-basket",
+    "workbook",
+    "workforce",
+    "working class",
+    "working day",
+    "working hours",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "word processing",
+    "word processor",
+    "word-perfect",
+    "wording",
+    "work",
+    "work of art",
+    "work off",
+    "work out",
+    "work up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071355_c388c3b3e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071355_555767dfae_o.png",
+      "id_image": "work_5020969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334391_d795f27806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334391_31bbdd64ee_o.png",
+      "id_image": "work_5260134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689399_c80f4588cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689399_b928840c66_o.png",
+      "id_image": "work_5966049"
+    }
+  ]
+}

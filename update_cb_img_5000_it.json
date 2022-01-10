@@ -1,0 +1,68 @@
+{
+  "english": "update",
+  "phat_am": "apˈdeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cập nhật, hiện đại hóa",
+          "definition": "to make (something) suitable for the present time by adapting it to recent ideas etc",
+          "world_new": [
+            "suitable",
+            "present",
+            "time",
+            "recent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dictionaries constantly need to be updated.",
+              "world_new": [
+                "constantly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the songs are gathered into a songbook that is updated from time to time.",
+    "A status bar informs the participant of process updates.",
+    "As firms struggled to be competitive, they also often updated their production processes to produce better products.",
+    "Once her location has been detected, a connection to the reasoning engine is established and her current location is updated.",
+    "Moreover, as the code evolves, it is difficult to ensure that when one instance is updated, its siblings are updated as well.",
+    "The resolution of multiple constraints is obtained by interval propagation that updates the domain values of the control points.",
+    "The primitive become updates state analogously to set.",
+    "The book has benefited from a much improved layout, more judicious use of headings, updating of illustrations and greater use of colour plates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "up to the minute",
+    "(up) to the hilt",
+    "up-and-coming",
+    "upbringing",
+    "update",
+    "upgrade",
+    "upheaval",
+    "uphill",
+    "uphold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352111_7f67bc3b36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352111_b024ab694d_o.png",
+      "id_image": "update_228887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706559_4e748eb0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706559_899e155fab_o.png",
+      "id_image": "update_4370942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706534_82db5f8010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706534_ab39786666_o.png",
+      "id_image": "update_5746144"
+    }
+  ]
+}

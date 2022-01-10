@@ -1,0 +1,76 @@
+{
+  "english": "utility",
+  "phat_am": "juˈtiləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành phục vụ công cộng",
+          "definition": "a useful public service, eg the supply of water, gas, electricity etc.",
+          "world_new": [
+            "useful",
+            "public",
+            "service",
+            "supply",
+            "water",
+            "gas",
+            "electricity"
+          ]
+        },
+        {
+          "mean_english": "tính hữu dụng",
+          "definition": "usefulness",
+          "world_new": [
+            "usefulness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some kitchen gadgets have only a limited utility.",
+              "world_new": [
+                "kitchen",
+                "limited"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I begin by describing the expected discounted utilities of agents.",
+    "If one were to drop this restriction, the utilitarian solution of adding up the individuals' utilities would satisfy all the other conditions usually suggested.",
+    "Surplus for each regime when promised utilities are truncated at autarky.",
+    "Do the utilities reflect how my patients would value the outcomes of the decision?",
+    "In short, the commission had to decide about the future function of electricity within the increasingly complex framework of public utilities.",
+    "More sophisticated markers such as cytokines, chemokines and adhesion molecules have exhibited better diagnostic utilities at the early stages of infection.",
+    "The municipal government's expansion of city planning, safety regulations and public utilities provided a model for similar provisions by central government.",
+    "In doing so, they guarantee that weights have to be uniform in the aggregation of individual utilities."
+  ],
+  "list_see_also": [
+    "utilitarian"
+  ],
+  "list_browse": [
+    "usurper",
+    "utensil",
+    "uterus",
+    "utilitarian",
+    "utility",
+    "utilization",
+    "utilize",
+    "utmost",
+    "Utopia"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395142_e31261cc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395142_df8ac441c6_o.png",
+      "id_image": "utility_4757480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087535_2dbdf4c740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087535_9248b6a46a_o.png",
+      "id_image": "utility_5966739"
+    }
+  ]
+}

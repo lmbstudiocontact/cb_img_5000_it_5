@@ -1,0 +1,122 @@
+{
+  "english": "weigh",
+  "phat_am": "wei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cân",
+          "definition": "to find the heaviness of (something) by placing it on a scale",
+          "world_new": [
+            "find",
+            "heaviness",
+            "scale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He weighed himself on the bathroom scales",
+              "world_new": [
+                "bathroom",
+                "scales"
+              ]
+            },
+            {
+              "ex_of_definition": "You must have your luggage weighed at the airport.",
+              "world_new": [
+                "your",
+                "luggage",
+                "airport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cân nặng",
+          "definition": "to be equal to in heaviness",
+          "world_new": [
+            "equal",
+            "heaviness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This parcel weighs one kilo",
+              "world_new": [
+                "parcel"
+              ]
+            },
+            {
+              "ex_of_definition": "How much / What does this box weigh?",
+              "world_new": [
+                "box"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là gánh nặng cho ai",
+          "definition": "to be a heavy burden to",
+          "world_new": [
+            "heavy",
+            "burden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was weighed down with two large suitcases.",
+              "world_new": [
+                "large"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In altruism, the agent is weighing costs and benefit vis-à-vis someone else who is passive.",
+    "He had weighed the brains of 29 normal men and found an average figure of 1323 grams.",
+    "Of course, the bene®ts of this must be weighed against the need to provide scalability.",
+    "Each larva was weighed to the nearest 0.1 mg as soon as it was detected and removed from the fish.",
+    "At maturity, plants were cut at soil level, and spikes and foliage were separated, dried and weighed.",
+    "The heart weighed 110 gm (compared to a normal for this age of 85 gm).",
+    "At autopsy, the heart weighed 160 grams with marked enlargement of the right atrium, right ventricle and moderate enlargement of left ventricle.",
+    "I weighed them up-were they rational or not?"
+  ],
+  "list_see_also": [
+    "weight",
+    "weightless",
+    "weightlessness",
+    "weighty",
+    "weightily",
+    "weightiness",
+    "weighing machine",
+    "weightlifting",
+    "weigh anchor",
+    "weigh in",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "weekday",
+    "weekend",
+    "weekly",
+    "weep",
+    "weigh",
+    "weigh anchor",
+    "weigh in",
+    "weigh out",
+    "weigh up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448128_13325cdb02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448128_f4ec9b515a_o.png",
+      "id_image": "weigh_2302591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448068_3e66974195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448068_48fd1bf34b_o.png",
+      "id_image": "weigh_5571674"
+    }
+  ]
+}

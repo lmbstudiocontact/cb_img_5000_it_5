@@ -1,0 +1,107 @@
+{
+  "english": "whirl",
+  "phat_am": "wəːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xoáy tít; quay cuồng",
+          "definition": "to move rapidly (round, away etc)",
+          "world_new": [
+            "move",
+            "rapidly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She whirled round when I called her name",
+              "world_new": [
+                "I",
+                "name"
+              ]
+            },
+            {
+              "ex_of_definition": "The wind whirled my hat away before I could grab it.",
+              "world_new": [
+                "wind",
+                "my",
+                "hat",
+                "I",
+                "grab"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quay cuồng; gió lốc",
+          "definition": "an excited confusion",
+          "world_new": [
+            "excited",
+            "confusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a whirl of activity",
+              "world_new": [
+                "activity"
+              ]
+            },
+            {
+              "ex_of_definition": "My head’s in a whirl – I can’t believe it’s all happening!",
+              "world_new": [
+                "I",
+                "believe",
+                "happening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xoay tít",
+          "definition": "a rapid turn.",
+          "world_new": [
+            "rapid",
+            "turn"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His empty eye socket is filled with whirling stars and covered with a dark eye patch.",
+    "Whenever the wind blows from the north-west the feathers of the wild geese and ducks caught by his hawk come whirling down like a snow-storm.",
+    "He was whirled round, and his arm was broken in six places between the elbow and shoulder; he was bruised about the body.",
+    "However, the worms can still be vectors for whirling disease, which can affect salamanders and certain tropical fish.",
+    "His voice can be heard through the medium of the bullroarer which is whirled through the air during initiation ceremonies.",
+    "Fire whirls usually are not as strong as tornadoes associated with thunderstorms.",
+    "An eyewitness reported that her child was whirled around as the tornado struck their street area.",
+    "Why should your arms be pulled away when the stars are whirling?"
+  ],
+  "list_see_also": [
+    "whirlpool",
+    "whirlwind"
+  ],
+  "list_browse": [
+    "whip up",
+    "whiplash",
+    "whipped cream",
+    "whippet",
+    "whirl",
+    "whirlpool",
+    "whirlwind",
+    "whirr",
+    "whisk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375587_3e8c710a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375587_7bf5b172c0_o.png",
+      "id_image": "whirl_2430106"
+    }
+  ]
+}

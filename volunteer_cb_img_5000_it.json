@@ -1,0 +1,109 @@
+{
+  "english": "volunteer",
+  "phat_am": "volənˈtiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tình nguyện",
+          "definition": "to offer oneself for a particular task, of one’s own free will (often without being paid for such work)",
+          "world_new": [
+            "offer",
+            "particular",
+            "task",
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He volunteered to act as messenger.",
+              "world_new": [
+                "act",
+                "messenger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xung phong làm",
+          "definition": "to offer (eg an opinion, information etc)",
+          "world_new": [
+            "offer",
+            "opinion",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two or three people volunteered suggestions.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quân tình nguyện, lính tình nguyện",
+          "definition": "a person who offers to do, or does, something (especially who joins the army) of his own free will",
+          "world_new": [
+            "person",
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If we can get enough volunteers, we shall not force people to join the Army.",
+              "world_new": [
+                "force",
+                "people",
+                "join"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Eight million female volunteers amassed supplies for soldiers and sailors, surgical dressings and garments for refugees.",
+    "The feedback from volunteers in our target audience, advanced and intermediate users, suggests that we may have achieved our cognitive objectives.",
+    "The other control group comprised 35 normal volunteers, none of whom reported a history of psychiatric illness.",
+    "The role of mass media and the impact of volunteers are discussed in the next two chapters.",
+    "The few words he volunteered during the final sequence are a case in point.",
+    "We thank the volunteers, especially the patients, for participating.",
+    "In general, the respondents wanted to meet other volunteers more often to discuss their experience of working on the help-line.",
+    "The volunteers, on the other hand, were at least from the next generation, compared to the cultivated variety from which they were lost."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "volubly",
+    "volume",
+    "voluntarily",
+    "voluntary",
+    "volunteer",
+    "vomit",
+    "voodoo",
+    "vote",
+    "vote of confidence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695889_ecd1f38cb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695889_2b7fb5e4c8_o.png",
+      "id_image": "volunteer_1312494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077890_fe21900a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077890_b04b75d229_o.png",
+      "id_image": "volunteer_4706857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340486_5420287679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340486_1db44f8955_o.png",
+      "id_image": "volunteer_6183121"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "wrap",
+  "phat_am": "rӕp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gói lại",
+          "definition": "to roll or fold (round something or someone)",
+          "world_new": [
+            "roll",
+            "fold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrapped his handkerchief round his bleeding finger.",
+              "world_new": [
+                "handkerchief",
+                "bleeding",
+                "finger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quấn",
+          "definition": "to cover by folding or winding something round",
+          "world_new": [
+            "cover",
+            "folding",
+            "winding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wrapped the book (up) in brown paper",
+              "world_new": [
+                "book",
+                "brown",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "She wrapped the baby up in a warm shawl.",
+              "world_new": [
+                "baby",
+                "warm",
+                "shawl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo khoác",
+          "definition": "a warm covering to put over one’s shoulders.",
+          "world_new": [
+            "warm",
+            "covering"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dishes were wrapped with plastic film to reduce the rate of water loss.",
+    "The collecting tubes in the cercarial body are composed of cells that are wrapped around the lumen.",
+    "The cocoon was covered with shrink-wrapped plastic, and wrapped with masking tape to form the spool.",
+    "The shape and size of the central object suggest that it is a stela, and it appears to be wrapped with bands of tied cloth.",
+    "Like the proximal capillaries, they were composed of large flattened cells wrapped around the lumen.",
+    "We can explain the discipline in terms of solidity, and assume that human agency wraps itself around the real.",
+    "A wrapped operation also calls the old operation, and wraps the result into a node with a new identity tag.",
+    "Two layers of flannel were wrapped round the cylinder and the seam pulled tight."
+  ],
+  "list_see_also": [
+    "wrapper",
+    "wrapping",
+    "wrapping paper",
+    "wrapped up in",
+    "wrap up"
+  ],
+  "list_browse": [
+    "wound",
+    "wounded",
+    "WP",
+    "wrangle",
+    "wrap",
+    "wrap up",
+    "wrapped up in",
+    "wrapper",
+    "wrapping"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377847_511043c957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377847_ce5fa35d02_o.png",
+      "id_image": "wrapping_2403461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448248_f34a75b054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448248_8f9c99430a_o.png",
+      "id_image": "wrap_2293083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688169_17d8b56975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688169_320e3caed2_o.png",
+      "id_image": "wrap_2819421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448223_c9fedb2714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448223_c6565d7c75_o.png",
+      "id_image": "wrap_2923199"
+    }
+  ]
+}

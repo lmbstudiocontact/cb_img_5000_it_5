@@ -1,0 +1,67 @@
+{
+  "english": "version",
+  "phat_am": "ˈvəːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài dịch",
+          "definition": "an account from one point of view",
+          "world_new": [
+            "account",
+            "point",
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy gave his version of what had occurred.",
+              "world_new": [
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is compact, as it is a significantly cut-down version of the full list of identified terms.",
+    "But the structural differences between the two versions cannot be described as 'correction'.",
+    "Here was a version of philosophical commerce closer to our own definition of the word \"commerce,\" yet one intimately related to practice.",
+    "In the final 57-item version, items are grouped into 14 domains representing the common methodological themes of economic evaluation.",
+    "It is not possible to find a degraded version to realise the service; it has to be stopped.",
+    "The author would like to thank the referee for valuable comments and suggestions on the first version of this paper.",
+    "We use a more precise version of the expansion (3.10c).",
+    "It is a straightforward reprint of the original version with printing errors corrected."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vernacular",
+    "versatile",
+    "versatility",
+    "verse",
+    "version",
+    "versus",
+    "vertebra",
+    "vertebrate",
+    "vertex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083470_fd00e5e827_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083470_5e9d0d6cdd_o.png",
+      "id_image": "version_2620555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083450_abd57ed791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083450_4d277b921a_o.png",
+      "id_image": "version_2620998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460723_5b03faf39c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460723_d0da089ff2_o.png",
+      "id_image": "version_3098184"
+    }
+  ]
+}

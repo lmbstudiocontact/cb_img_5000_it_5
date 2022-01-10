@@ -1,0 +1,84 @@
+{
+  "english": "walnut",
+  "phat_am": "ˈwoːlnat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây óc chó",
+          "definition": "a type of tree whose wood is used for making furniture etc.",
+          "world_new": [
+            "type",
+            "tree",
+            "wood",
+            "furniture"
+          ]
+        },
+        {
+          "mean_english": "quả óc chó",
+          "definition": "the nut produced by this tree.",
+          "world_new": [
+            "nut",
+            "tree"
+          ]
+        },
+        {
+          "mean_english": "gỗ cây óc chó",
+          "definition": "(also adjective) (of) the wood of the tree",
+          "world_new": [
+            "wood",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a walnut table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Why bring a sledgehammer to crack a walnut?",
+    "Whatever terms are used, today the relationship is much more that of the walnut being brutally crushed under the heel of the aggressor.",
+    "If he applies the existing criteria to authorise something which only he can do, in my opinion he is taking a sledgehammer to crack a walnut.",
+    "Because an elephant is the heaviest animal in the world it does not follow that it is the best instrument for cracking walnuts.",
+    "Optimal distances for squirrels to transport and hoard walnuts.",
+    "There would be nothing to stop them supposing, like neoplatonist medical thinkers, that walnuts might be therapeutic for some brain conditions because they look rather like brains.",
+    "This is especially true in almonds and winegrapes, and to a lesser extent in walnuts.",
+    "However, a company can charge against its profits the most luxurious office accommodation—walnut panelling, cocktail cabinets, etc."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wallet",
+    "wallop",
+    "wallow",
+    "wallpaper",
+    "walnut",
+    "walrus",
+    "waltz",
+    "wan",
+    "wand"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453223_2a7c522f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453223_f3667d017b_o.png",
+      "id_image": "walnut_2153134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338216_5a273cb4c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338216_401ecb4655_o.png",
+      "id_image": "walnut_2599665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453123_1aa27d672f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453123_97304ebd55_o.png",
+      "id_image": "walnut_3944277"
+    }
+  ]
+}

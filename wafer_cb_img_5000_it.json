@@ -1,0 +1,61 @@
+{
+  "english": "wafer",
+  "phat_am": "ˈweifə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh xốp",
+          "definition": "a type of very thin biscuit, often eaten with ice-cream",
+          "world_new": [
+            "type",
+            "thin",
+            "biscuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ice-cream was sandwiched between two wafers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wafer-thin"
+  ],
+  "list_browse": [
+    "W",
+    "waddle",
+    "wade",
+    "wader",
+    "wafer",
+    "wafer-thin",
+    "waffle",
+    "wag",
+    "wage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339836_a9a006008a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339836_74da9fb29c_o.png",
+      "id_image": "wafer_2218708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339766_dcbd4444d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339766_e3d47a51a5_o.png",
+      "id_image": "wafer_2269361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454683_303b48dfb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454683_df9fbfec4a_o.png",
+      "id_image": "wafer_3200505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384632_8522100df8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384632_6593296ba5_o.png",
+      "id_image": "waffle_1999906"
+    }
+  ]
+}

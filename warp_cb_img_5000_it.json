@@ -1,0 +1,120 @@
+{
+  "english": "warp",
+  "phat_am": "woːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cong",
+          "definition": "to make or become twisted out of shape",
+          "world_new": [
+            "become",
+            "twisted",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door has been warped by all the rain we’ve had lately.",
+              "world_new": [
+                "door",
+                "warped",
+                "rain",
+                "lately"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lệch lạc",
+          "definition": "to cause to think or act in an abnormal way",
+          "world_new": [
+            "cause",
+            "think",
+            "act",
+            "abnormal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His experiences had warped his judgement/mind.",
+              "world_new": [
+                "warped"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vênh",
+          "definition": "the shape into which something is twisted by warping",
+          "world_new": [
+            "shape",
+            "twisted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain has given this wood a permanent warp.",
+              "world_new": [
+                "rain",
+                "wood",
+                "permanent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sợi dọc trên khung cửi",
+          "definition": "(usually with the) the set of threads lying lengthwise in a loom during weaving (the other being the weftweft).",
+          "world_new": [
+            "loom"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Warps may be useful or necessary for anchoring or the navigation of the vessel.",
+    "The cost of nets, warps and gear generally and stores has also increased.",
+    "Dynamic time warping is an algorithm for measuring similarity between two sequences that may vary in time or speed.",
+    "In this case they are glad to have their warps dressed by someone who is 81 years of age.",
+    "In addition, they appear to run both upslope and downslope, suggesting that the plains were warped by regional tectonism after channel formation.",
+    "The vessel was towed astern for about 10 minutes before the gear was freed by the cutting of one of the warps.",
+    "The amount of money that we spend on defence warps our design and technological development.",
+    "Both aircraft were two-bay tractor biplanes with low-dihedral parallel-chord unstaggered wings with rounded ends, using wing warping for roll control."
+  ],
+  "list_see_also": [
+    "warped"
+  ],
+  "list_browse": [
+    "warmth",
+    "warn",
+    "warning",
+    "warningly",
+    "warp",
+    "warpaint",
+    "warped",
+    "warrant",
+    "warren"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382142_0b47f6e368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382142_c53e7e692e_o.png",
+      "id_image": "warp_1699460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337081_be83e8dd3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337081_0bf53fd5d8_o.png",
+      "id_image": "warp_2590546"
+    }
+  ]
+}

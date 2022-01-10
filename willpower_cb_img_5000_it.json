@@ -1,0 +1,67 @@
+{
+  "english": "willpower",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyết tâm",
+          "definition": "the determination to do something",
+          "world_new": [
+            "determination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t have the willpower to stop smoking.",
+              "world_new": [
+                "I",
+                "stop",
+                "smoking"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He lacks the political willpower to do anything against it.",
+    "The need is for the resource of money and willpower.",
+    "Some can but many of us here probably have not the willpower to do so.",
+    "Great willpower and unity behind a clear, radical programme will be required.",
+    "I do not myself overrate the willpower here to see this business through.",
+    "Intertemporal bargaining theory predicts the emergence of both positive and negative features that have been ascribed to willpower.",
+    "The number of those who thought the reason was laziness and lack of willpower had more than halved.",
+    "It is actually a pity that what we do today is not determined by such political vision, in tandem with political willpower."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "willing",
+    "willingly",
+    "willingness",
+    "willow",
+    "willpower",
+    "wilt",
+    "wily",
+    "wimp",
+    "win"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684269_6343a763bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684269_4449ab5949_o.png",
+      "id_image": "willpower_3062441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066100_349c32b9a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066100_6411c6c829_o.png",
+      "id_image": "willpower_3062542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066090_9489f1defc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066090_d8a6a5d3d8_o.png",
+      "id_image": "willpower_4371302"
+    }
+  ]
+}

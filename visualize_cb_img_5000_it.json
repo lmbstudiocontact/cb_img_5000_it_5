@@ -1,0 +1,61 @@
+{
+  "english": "visualize",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hình dung",
+          "definition": "to form a picture of someone or something in your mind",
+          "world_new": [
+            "form",
+            "picture",
+            "your",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These models let forecasters visualize how the storm is forming and what direction it will move.",
+              "world_new": [
+                "let",
+                "storm",
+                "direction",
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dimensionality of each relative warp can be visualized as a displacement of landmarks relative to the average configuration of landmarks.",
+    "In order to visualize the main effects, we simulated the dynamics of the wave of stratification numerically.",
+    "The venous pathways, and possible collaterals, were visualized by angiography.",
+    "Fragments were separated through electrophoresis on 2 % agarose gels and visualized using ethidium bromide under ultraviolet light.",
+    "Figure 3 visualizes the exponential like relation between approximation order and the number of summands with respect to different random dimensions.",
+    "To visualize this, we generated new graphs by plotting the rank of a candidate's score on the x-axis.",
+    "To envision indicates not simply to visualize, but also to envisage, to apply specific mental frames and epistemological categories.",
+    "One can visualize this by imagining a point and its image connected by a piece of elastic string."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "visitor",
+    "visual",
+    "visual display unit",
+    "visualization",
+    "visualize",
+    "visually",
+    "vital",
+    "vitality",
+    "vitamin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697059_06d36f57f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697059_5f3fca58fd_o.png",
+      "id_image": "visualize_3062435"
+    }
+  ]
+}

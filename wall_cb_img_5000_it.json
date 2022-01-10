@@ -1,0 +1,128 @@
+{
+  "english": "wall",
+  "phat_am": "woːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức tường",
+          "definition": "something built of stone, brick, plaster, wood etc and used to separate off or enclose something",
+          "world_new": [
+            "stone",
+            "brick",
+            "plaster",
+            "wood",
+            "separate",
+            "enclose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a wall at the bottom of the garden",
+              "world_new": [
+                "bottom",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "The Great Wall of China"
+            },
+            {
+              "ex_of_definition": "a garden wall.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tường nhà",
+          "definition": "any of the sides of a building or room",
+          "world_new": [
+            "building",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One wall of the room is yellow – the rest are white.",
+              "world_new": [
+                "room",
+                "yellow",
+                "rest",
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xây tường bao quanh",
+          "definition": "(often with in) to enclose (something) with a wall",
+          "world_new": [
+            "enclose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve walled in the playground to prevent the children getting out.",
+              "world_new": [
+                "walled",
+                "playground",
+                "prevent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The walls of the compar tment were white and the compar tment was well illuminated.",
+    "The walls of the cysts contain prominent smooth muscle and elastic tissue.",
+    "The walls of a given type occur much less frequently than their fitting holes.",
+    "However, this process also encouraged elements within urban society to define themselves in opposition to rival 'communities' within their own walls.",
+    "The designer, who draws walls or furniture or writes captions, never specifies the significance of his or her actions.",
+    "The schools, the disciplines, the subdisciplines, the coteries, the paradigms, and the ideologies have built too many walls.",
+    "Scales were placed on the outer walls of the perspex flume at the centre of the contraction and in each reservoir (figure 7).",
+    "The validation gates can be different for different walls."
+  ],
+  "list_see_also": [
+    "walled",
+    "-walled",
+    "wallpaper",
+    "wall-to-wall",
+    "have one’s back to the wall",
+    "up the wall"
+  ],
+  "list_browse": [
+    "walkie-talkie",
+    "walking stick",
+    "walkover",
+    "walkway",
+    "wall",
+    "wall-to-wall",
+    "walled",
+    "wallet",
+    "wallop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075620_0494564c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075620_634de6df90_o.png",
+      "id_image": "wall_270067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075585_b17db248a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075585_218e0fd35f_o.png",
+      "id_image": "wall_3417087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383417_d466cf3b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383417_1d5d28d638_o.png",
+      "id_image": "wall_5234284"
+    }
+  ]
+}

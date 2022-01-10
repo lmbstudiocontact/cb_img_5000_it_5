@@ -1,0 +1,73 @@
+{
+  "english": "victim",
+  "phat_am": "ˈviktim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nạn nhân",
+          "definition": "a person who receives ill-treatment, injury etc",
+          "world_new": [
+            "person",
+            "ill-treatment",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a murder victim",
+              "world_new": [
+                "murder"
+              ]
+            },
+            {
+              "ex_of_definition": "Food is being sent to the victims of the disaster.",
+              "world_new": [
+                "disaster"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The biology of female reproduction is the victim of this new world order, in which machines and chemistry are agents of the continuing male hegemony.",
+    "Importance of recovering victims and their personal effects.",
+    "Would it be too dramatic to claim that he was a victim of truth?",
+    "In addition, states such as the one from which these data come offer similar definitions of \"family violence\" as it relates to adult victims.",
+    "The remaining nine talk about crime (some of our elderly have become victims of crime).",
+    "The creoles described above provided one important tool that made statistics comprehensible and convincing so that people could more easily imagine themselves as potential victims.",
+    "But by the opening decade of the twentieth century the railroads had become victims of their own success.",
+    "In the next stanza she takes on the persona of a victim who wakes up to find flood waters at her door, preventing her escape."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vicinity",
+    "vicious",
+    "viciously",
+    "viciousness",
+    "victim",
+    "victor",
+    "Victorian",
+    "victorious",
+    "victoriously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345036_385caec6f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345036_f6c648404d_o.png",
+      "id_image": "victim_2117465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389982_3f09b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389982_f6628e3942_o.png",
+      "id_image": "victim_2155410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082475_f12663411a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082475_efcbc55887_o.png",
+      "id_image": "victim_5781221"
+    }
+  ]
+}

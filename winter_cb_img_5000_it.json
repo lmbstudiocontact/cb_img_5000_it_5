@@ -1,0 +1,69 @@
+{
+  "english": "winter",
+  "phat_am": "ˈwintə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mùa đông",
+          "definition": "the coldest season of the year",
+          "world_new": [
+            "season",
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We often have snow in winter",
+              "world_new": [
+                "snow"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) winter evenings."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The length of winters, the cold, predictability of rainfall and resource densities are crucial parameters to characterize these environments.",
+    "Floods occur most winters although property flooding is generally avoided.",
+    "We have had recent evidence of the lack of foresight in this winter's coal situation.",
+    "Many were written expressly to describe tragic or dramatic events, particularly wintering by ships beset in the ice, some to be published as books or in newspapers or magazines.",
+    "We are certainly doing a great deal to see that last winter's experience is not experienced again.",
+    "The variations in this regard are attributed mainly to the presence or otherwise of ratooned cotton, particularly in mild winters and to seasons of very late planting.",
+    "One has to have an equal number of people having two winters and one summer.",
+    "Epidemics were noted during the winters of 1982-83 and 1985-86."
+  ],
+  "list_see_also": [
+    "wintry",
+    "wintriness",
+    "winter sports",
+    "wintertime"
+  ],
+  "list_browse": [
+    "winner",
+    "winning",
+    "winning post",
+    "winnow",
+    "winter",
+    "winter sports",
+    "wintertime",
+    "wintriness",
+    "wintry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451758_9c7052bff1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451758_401938c033_o.png",
+      "id_image": "winter_382570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336856_f7fc983f39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336856_1c912d8bf3_o.png",
+      "id_image": "winter_6249983"
+    }
+  ]
+}

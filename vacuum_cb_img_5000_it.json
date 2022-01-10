@@ -1,0 +1,85 @@
+{
+  "english": "vacuum",
+  "phat_am": "ˈvӕkjuəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chân không",
+          "definition": "a space from which (almost) all air or other gas has been removed",
+          "world_new": [
+            "space",
+            "air",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nature abhors a vacuum."
+            }
+          ]
+        },
+        {
+          "mean_english": "máy hút bụi",
+          "definition": "short for vacuum cleaner.",
+          "world_new": [
+            "short"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hút bụi",
+          "definition": "to clean (something) using a vacuum cleaner",
+          "world_new": [
+            "clean",
+            "cleaner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She vacuumed the carpet.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "vacuum cleaner",
+    "vacuum flask"
+  ],
+  "list_browse": [
+    "vaccine",
+    "vacillate",
+    "vacillation",
+    "vacuole",
+    "vacuum",
+    "vacuum cleaner",
+    "vacuum flask",
+    "vagabond",
+    "vagina"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704294_7993e43d3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704294_2cb88dea41_o.png",
+      "id_image": "vacuum_1288256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349691_871e2d433d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349691_c614a050e3_o.png",
+      "id_image": "vacuum_452708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464343_991d0b99e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464343_8df44f92f1_o.png",
+      "id_image": "vacuum_578001"
+    }
+  ]
+}

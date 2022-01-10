@@ -1,0 +1,64 @@
+{
+  "english": "yearbook",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "niên giám",
+          "definition": "a book of information which is updated and published every year",
+          "world_new": [
+            "book",
+            "information",
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his high-school yearbook."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Australian yearbooks function as an annual magazine for the school body, with a significant focus on objectively reporting the events that occurred during the schooling year.",
+    "Larger trade associations publish membership directories and yearbooks to promote their association to opinion formers, lawmakers, regulators and other stakeholders.",
+    "As of 2006, the series had 375 volumes, which included 23 yearbooks and 45 documentary volumes.",
+    "The cost was estimated to be $50,000 per year, with only a handful of yearbooks sold in the last year.",
+    "The main library has an extensive genealogy collection including digitized records, microfilm, local histories, yearbooks and other records in paper form.",
+    "To date, two yearbooks (2004 and 2006) have been published.",
+    "The yearbook's website is. launched for the 50th anniversary of the organisation.",
+    "Overfelt has also had a history of producing award-winning yearbooks, although there are no more yearbooks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yd",
+    "ye",
+    "yeah",
+    "year",
+    "yearbook",
+    "yearly",
+    "yearn",
+    "yearning",
+    "yeast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331056_c8a6d70b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331056_c24c4b8984_o.png",
+      "id_image": "yearbook_124774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067775_4c095360b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067775_7f80343b3a_o.png",
+      "id_image": "yearbook_124775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375612_8c6c8b6789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375612_95075f2658_o.png",
+      "id_image": "yearbook_4650656"
+    }
+  ]
+}

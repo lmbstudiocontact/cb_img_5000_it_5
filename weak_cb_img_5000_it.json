@@ -1,0 +1,104 @@
+{
+  "english": "weak",
+  "phat_am": "wiːk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "yếu",
+          "definition": "lacking in physical strength",
+          "world_new": [
+            "physical",
+            "strength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her illness has made her very weak.",
+              "world_new": [
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu nghị lực",
+          "definition": "not strong in character",
+          "world_new": [
+            "strong",
+            "character"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m very weak when it comes to giving up cigarettes."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạt",
+          "definition": "(of a liquid) diluted; not strong",
+          "world_new": [
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "weak tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu thuyết phục",
+          "definition": "(of an explanation etc) not convincing",
+          "world_new": [
+            "explanation",
+            "convincing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a weak argument.",
+              "world_new": [
+                "argument"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạt nhẽo",
+          "definition": "(of a joke) not particularly funny.",
+          "world_new": [
+            "particularly",
+            "funny"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "weakly",
+    "weaken",
+    "weakling",
+    "weakness",
+    "have a weakness for"
+  ],
+  "list_browse": [
+    "wayside",
+    "wayward",
+    "WC",
+    "we",
+    "weak",
+    "weaken",
+    "weakling",
+    "weakly",
+    "weakness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449823_13f9c3cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449823_6420ff34d3_o.png",
+      "id_image": "weak_1616468"
+    }
+  ]
+}

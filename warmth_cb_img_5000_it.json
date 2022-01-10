@@ -1,0 +1,81 @@
+{
+  "english": "warmth",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hơi ấm",
+          "definition": "the state of being warm",
+          "world_new": [
+            "state",
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the warmth of the fire",
+              "world_new": [
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "The actor was delighted by the warmth of the applause",
+              "world_new": [
+                "actor",
+                "applause"
+              ]
+            },
+            {
+              "ex_of_definition": "The warmth of her smile made me feel welcome.",
+              "world_new": [
+                "smile",
+                "feel",
+                "welcome"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although these approaches are somewhat different, it is clear that parenting research focuses primarily on variations in parenting warmth and control.",
+    "The warmth rating was an evaluation of positive affect directed toward the child.",
+    "The subscales are named warmth, disciplinary warmth, power assertion, possessiveness, and personal relationship.",
+    "This symbolises the loneliness of the isolated individual, coming into the warmth of friendship.",
+    "Family conflict would put youth on the path to negative peers and family warmth to positive peers.",
+    "High scores on this composite reflect a combination of high structure and rules, warmth and closeness, and high expectations for child's achievement and prosocial behavior.",
+    "This is like warmth blocking synonymous *warmness, except that the blocked item in the relationship may be a syntactic unit.",
+    "Many of these particular memories were about the functions and abilities of music in creating warmth, partnership, community, getting attention and in-uencing moods."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "warmed-over",
+    "warmly",
+    "warmness",
+    "warmonger",
+    "warmth",
+    "warn",
+    "warning",
+    "warningly",
+    "warp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337351_1870bdf2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337351_0629f1da20_o.png",
+      "id_image": "warmth_2280462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337316_002ebf0062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337316_290545c773_o.png",
+      "id_image": "warmth_5783735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074360_00f5df1300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074360_09d83c7a60_o.png",
+      "id_image": "warmth_5783771"
+    }
+  ]
+}

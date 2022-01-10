@@ -1,0 +1,102 @@
+{
+  "english": "veil",
+  "phat_am": "veil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mạng che mặt; khăn trùm đầu",
+          "definition": "a piece of thin cloth worn over the face or head to hide, cover, or protect it",
+          "world_new": [
+            "piece",
+            "thin",
+            "cloth",
+            "worn",
+            "face",
+            "head",
+            "hide",
+            "cover",
+            "protect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some women wear veils for religious reasons, to prevent strangers from seeing their faces",
+              "world_new": [
+                "wear",
+                "religious",
+                "prevent",
+                "their"
+              ]
+            },
+            {
+              "ex_of_definition": "a veil of mist over the mountains",
+              "world_new": [
+                "mist"
+              ]
+            },
+            {
+              "ex_of_definition": "a veil of secrecy.",
+              "world_new": [
+                "secrecy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che mạng; trùm đầu",
+          "definition": "to cover with a veil",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The clouds veiled the sky in grey.",
+              "world_new": [
+                "veiled",
+                "sky",
+                "grey"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is quite a different approach to justice than postulating a veil of ignorance.",
+    "The veil of prudery and so-called good taste must be torn aside from this subject.",
+    "Why do these values translate only to bias-neutralizing, aversion to uncertainty, the veil of ignorance, and equality?",
+    "If anything, the experiment indicates their heightened risk-aversion in conditions of uncertainty, underscoring appeal to risk-aversion behind the veil.",
+    "Second, the reactionary tone of the contributions is only thinly veiled (indeed at some points, not at all).",
+    "Behind the veil of ignorance, would not we all agree to limited, humane preemptive strikes for the safety of all?",
+    "The veil of ignorance is a useful theoretical tool because bias toward oneself can potentially subvert understanding of social justice.",
+    "Teasing and withholding, veils are the stuff of suspense."
+  ],
+  "list_see_also": [
+    "veiled"
+  ],
+  "list_browse": [
+    "vehemence",
+    "vehement",
+    "vehemently",
+    "vehicle",
+    "veil",
+    "veiled",
+    "vein",
+    "Velcro",
+    "velocity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084390_d2c99ef7b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084390_9300d61a21_o.png",
+      "id_image": "veil_5262991"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "vomit",
+  "phat_am": "ˈvomit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nôn, mửa",
+          "definition": "to throw out (the contents of the stomach or other matter) through the mouth; to be sick",
+          "world_new": [
+            "throw",
+            "contents",
+            "stomach",
+            "sick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whenever the ship started to move, she felt like vomiting.",
+              "world_new": [
+                "ship",
+                "move",
+                "felt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nôn, mửa",
+          "definition": "food etc ejected from the stomach",
+          "world_new": [
+            "food",
+            "stomach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pool of vomit.",
+              "world_new": [
+                "pool"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perceptions of presenting symptoms ranged from painful though not an emergency, to severe pain or vomiting requiring urgent attention.",
+    "The production of viral aerosols and airborne transmission following vomiting have been suggested [15-17].",
+    "The additional symptoms could be diarrhoea, vomiting, nausea, fever, abdominal pain, abdominal cramps, blood in the stool, or mucous in the stool.",
+    "Side effects included hypertension, hypotension, fever, vomiting, diarrhoea and urticaria.",
+    "Other symptoms are also common, such as lethargy, poor feeding, vomiting and failure to thrive.",
+    "Symptoms included diarrhoea, fever, stomach cramps and vomiting in 88, 60, 54 and 21 % of cases identified.",
+    "Table 3 shows attack rates for classes grouped by the number of episodes of vomiting occurring within the relevant classrooms.",
+    "Classes were grouped according to the number of vomiting episodes which occurred within the classroom and attack rates calculated for each group."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "volume",
+    "voluntarily",
+    "voluntary",
+    "volunteer",
+    "vomit",
+    "voodoo",
+    "vote",
+    "vote of confidence",
+    "vote of thanks"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385452_972eb0afac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385452_6735939580_o.png",
+      "id_image": "vomit_1754091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455378_1bb128f584_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455378_368c77e6de_o.png",
+      "id_image": "vomit_2269014"
+    }
+  ]
+}

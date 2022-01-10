@@ -1,0 +1,174 @@
+{
+  "english": "wonder",
+  "phat_am": "ˈwandə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngạc nhiên",
+          "definition": "the state of mind produced by something unexpected or extraordinary",
+          "world_new": [
+            "state",
+            "mind",
+            "unexpected",
+            "extraordinary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was full of wonder at the amazing sight.",
+              "world_new": [
+                "full",
+                "amazing",
+                "sight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều ngạc nhiên",
+          "definition": "something strange, unexpected or extraordinary",
+          "world_new": [
+            "strange",
+            "unexpected",
+            "extraordinary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Seven Wonders of the World"
+            },
+            {
+              "ex_of_definition": "You work late so often that it’s a wonder you don’t take a bed to the office!",
+              "world_new": [
+                "work",
+                "bed",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều gây ngạc nhiên",
+          "definition": "the quality of being strange or unexpected",
+          "world_new": [
+            "quality",
+            "strange",
+            "unexpected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wonder of the discovery is that it was only made ten years ago.",
+              "world_new": [
+                "discovery"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngạc nhiên",
+          "definition": "to be surprised",
+          "world_new": [
+            "surprised"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Caroline is very fond of John – I shouldn’t wonder if she married him.",
+              "world_new": [
+                "fond",
+                "I",
+                "married"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghi ngờ",
+          "definition": "to feel curiosity or doubt",
+          "world_new": [
+            "feel",
+            "curiosity",
+            "doubt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you ever wondered about his reasons for wanting this money?",
+              "world_new": [
+                "ever",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tò mò",
+          "definition": "to feel a desire to know",
+          "world_new": [
+            "feel",
+            "desire",
+            "know"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wonder what the news is.",
+              "world_new": [
+                "I",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I wonder how many other people there were who started to write with that picture of the boy led away somewhere in their head?",
+    "Columnists wondered why a century-old conference paper came in for such blistering attacks.",
+    "You may wonder how the existence of this extra reason could avoid the instability of the reason to which it is added.",
+    "However, something extremely unlikely happens : those who witness the event do not wonder at it at all.",
+    "The reader might wonder about the role of political bias in attending to these petitioners.",
+    "As tantalizing glimpses of the fully formed wonders to come, though, they offer a valuable perspective to anyone interested in this singular composer's musical evolution.",
+    "One wonders who, part from libraries, will pay for a good deal of dross that includes a few plums.",
+    "Finally, readers with a topological background may have wondered about possible generalizations of our approach to higher dimensions."
+  ],
+  "list_see_also": [
+    "wonderful",
+    "wonderfully",
+    "wonderingly",
+    "wonderland",
+    "wondrous",
+    "no wonder"
+  ],
+  "list_browse": [
+    "womanliness",
+    "womanly",
+    "womb",
+    "womenfolk",
+    "wonder",
+    "wonderful",
+    "wonderfully",
+    "wonderingly",
+    "wonderland"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335091_5e4214704b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335091_5529ea219c_o.png",
+      "id_image": "wonder_1354747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380107_752ffa2277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380107_7a094e0a3c_o.png",
+      "id_image": "wonder_3561979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071990_a8f3676490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071990_4b78f888d0_o.png",
+      "id_image": "wonder_6143948"
+    }
+  ]
+}

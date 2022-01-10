@@ -1,0 +1,76 @@
+{
+  "english": "veteran",
+  "phat_am": "ˈvetərən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người kỳ cựu",
+          "definition": "a person who is (old and) experienced as a soldier etc or in some other occupation",
+          "world_new": [
+            "person",
+            "experienced",
+            "soldier",
+            "occupation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a veteran footballer/entertainer."
+            }
+          ]
+        },
+        {
+          "mean_english": "cựu chiến binh",
+          "definition": "a person who has been in the army etc",
+          "world_new": [
+            "person",
+            "army"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "war veterans.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More clearly, for our purposes, the urban-rural divide is now sharp, and the veterans' perception of the rural life is telling.",
+    "A total of 1721 male veterans responded (68 %).",
+    "Such feelings of gratitude may have been, for many veterans, translated into a sense of owing something back to society.",
+    "The initial postwar behavior of most veterans revealed the extent to which they believed they had become a part of the colonial power structure.",
+    "As discussed above, several thousand former soldiers received the training they sought, though not all of these veterans secured employment corresponding to their skills.",
+    "How veterans transformed social marginality into an active and, by implication, central position in the political realm remains unclear.",
+    "Migrations and forced population movements had been followed by steady settlement by veterans and immigrants from elsewhere in the empire.",
+    "He further repeats the tired official lie that war veterans engineered the subsequent farm invasions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vessel",
+    "vest",
+    "vestige",
+    "vet",
+    "veteran",
+    "veterinary",
+    "veterinary surgeon",
+    "veto",
+    "vex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460238_6da0657f95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460238_9937ffa1f4_o.png",
+      "id_image": "veteran_2142618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700564_3133cd1038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700564_462e28504b_o.png",
+      "id_image": "veteran_4850575"
+    }
+  ]
+}

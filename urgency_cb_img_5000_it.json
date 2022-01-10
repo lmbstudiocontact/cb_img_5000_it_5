@@ -1,0 +1,48 @@
+{
+  "english": "urgency",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khẩn cấp",
+          "definition": "need for immediate action, speed etc",
+          "world_new": [
+            "immediate",
+            "action",
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a matter of great urgency.",
+              "world_new": [
+                "matter",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "urethra",
+    "urethral",
+    "urge",
+    "urge on",
+    "urgency",
+    "urgent",
+    "urgently",
+    "urinary",
+    "urinary bladder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705799_343bc3802a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705799_43055feee0_o.png",
+      "id_image": "urgency_3079298"
+    }
+  ]
+}

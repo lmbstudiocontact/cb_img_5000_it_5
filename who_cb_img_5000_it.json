@@ -1,0 +1,130 @@
+{
+  "english": "who",
+  "phat_am": "huː",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "ai",
+          "definition": "(used as the subject of a verb) what person(s)(?)",
+          "world_new": [
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is that woman in the green hat?",
+              "world_new": [
+                "green",
+                "hat"
+              ]
+            },
+            {
+              "ex_of_definition": "Who did that?"
+            },
+            {
+              "ex_of_definition": "Who won?"
+            },
+            {
+              "ex_of_definition": "Do you know who all these people are?",
+              "world_new": [
+                "know",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative pronoun",
+      "list_definition": [
+        {
+          "mean_english": "chỉ người đã nhắc tới trước đó",
+          "definition": "(used to refer to a person or people mentioned previously to distinguish him or them from others; used as the subject of a verb; usually replaceable by that) (the) one(s) that",
+          "world_new": [
+            "refer",
+            "person",
+            "people",
+            "previously",
+            "distinguish",
+            "subject",
+            "replaceable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man who/that telephoned was a friend of yours",
+              "world_new": [
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "A doctor is a person who looks after people’s health.",
+              "world_new": [
+                "doctor",
+                "person",
+                "looks",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bổ nghĩa thêm cho người được nhắc trước đó",
+          "definition": "used, after a comma, to introduce a further comment on a person or people",
+          "world_new": [
+            "comma",
+            "introduce",
+            "further",
+            "comment",
+            "person",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His mother, who was so proud, gave him a hug.",
+              "world_new": [
+                "mother",
+                "proud",
+                "hug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "whoever",
+    "whom",
+    "know who’s who"
+  ],
+  "list_browse": [
+    "whitish",
+    "Whitsun",
+    "whittle",
+    "whizz",
+    "who",
+    "who’d",
+    "who’ll",
+    "who’s",
+    "whoever"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445113_11fe900956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445113_c29393c7f9_o.png",
+      "id_image": "who_5359806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330116_ba95bfd8f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330116_8bf54698fe_o.png",
+      "id_image": "who_5625635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374747_dd19f78916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374747_3ab30973b8_o.png",
+      "id_image": "who_5632314"
+    }
+  ]
+}

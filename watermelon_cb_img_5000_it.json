@@ -1,0 +1,70 @@
+{
+  "english": "watermelon",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả dưa hấu",
+          "definition": "a type of melon with green skin and red flesh",
+          "world_new": [
+            "type",
+            "melon",
+            "green",
+            "skin",
+            "red",
+            "flesh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slice of watermelon.",
+              "world_new": [
+                "slice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The zero-till system suited legume crops but gave lower productivity in wheat due to a build up of grassy weeds, and was not suitable for watermelon.",
+    "One last analogy: say you have a watermelon seed and are squeezing it between your thumb and forefinger.",
+    "In the summer, the produce driver would leave a watermelon once every week or two.",
+    "On small farms, labour availability per hectare is high, favouring the production of labour-intensive crops such as lentil and watermelon.",
+    "An event to celebrate summer by enjoying watermelon.",
+    "One may also question whether the problem with ' 'airplane' ' and ' 'watermelon' ' was caused by the fact that they are the only compounds in the task.",
+    "After this, the kitchen staff began to hide the watermelon in the cooler.",
+    "Most commonly potatoes, sometimes carrots, beetroots, onions, garlic and marrows were cultivated in the allotments, and in the south melons and watermelons."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "waterhole",
+    "wateriness",
+    "watering can",
+    "waterlogged",
+    "watermelon",
+    "waterproof",
+    "waters",
+    "watershed",
+    "watertight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450488_5b0b0d11d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450488_2852d7772b_o.png",
+      "id_image": "watermelon_119531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072360_f9aa6b4e53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072360_7fd45cbf4e_o.png",
+      "id_image": "watermelon_129208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335456_921bef021f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335456_f345991ce7_o.png",
+      "id_image": "watermelon_437095"
+    }
+  ]
+}

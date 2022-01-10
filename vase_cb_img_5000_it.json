@@ -1,0 +1,67 @@
+{
+  "english": "vase",
+  "phat_am": "vaːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình, lọ",
+          "definition": "a type of jar or jug used mainly as an ornament or for holding cut flowers",
+          "world_new": [
+            "type",
+            "jar",
+            "jug",
+            "mainly",
+            "ornament",
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a vase of flowers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These words were used in reference to a vase but the words were not produced immediately sequentially.",
+    "Furthermore, many sorts of visual imagery do not obviously involve any sort of motor component, as when one simply imagines a vase of flowers.",
+    "It would be constant, and yield the more-or-less constant mock sensory input of a vase of flowers.",
+    "The relativist says that arguing about ethics is like arguing whether a vase of flowers appears in the mirror in an empty room.",
+    "They are the following: window (connoting 'communication', 1.1c), twilight (1.1b), wind (1.2), cave (1.11), mirror (1.15), milk (1.20), dove (1.24), and vase (1.55).",
+    "The vase was broken by the clumsy child.",
+    "Furthermore, the scale borders on this vase are not typically associated with feline handles.",
+    "Finally, in mere size, this vase is larger than most."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "variously",
+    "varnish",
+    "vary",
+    "vascular",
+    "vase",
+    "vast",
+    "vastness",
+    "vat",
+    "vaudeville"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462928_6542a2ac24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462928_056dccbf9e_o.png",
+      "id_image": "vase_520074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392917_0e10899d24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392917_8ef96200cc_o.png",
+      "id_image": "vase_520087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085285_47c611af65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085285_6e4f2e4fee_o.png",
+      "id_image": "vase_673563"
+    }
+  ]
+}

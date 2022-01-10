@@ -1,0 +1,91 @@
+{
+  "english": "vain",
+  "phat_am": "vein",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kiêu ngạo, tự phụ",
+          "definition": "having too much pride in one’s appearance, achievements etc; conceited",
+          "world_new": [
+            "pride",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s very vain about her looks.",
+              "world_new": [
+                "looks"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thành công",
+          "definition": "unsuccessful",
+          "world_new": [
+            "unsuccessful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a vain attempt to reach the drowning woman.",
+              "world_new": [
+                "attempt",
+                "reach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rỗng tuếch, vô nghĩa",
+          "definition": "empty; meaningless",
+          "world_new": [
+            "meaningless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "vain threats"
+            },
+            {
+              "ex_of_definition": "vain promises."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I too hoped and waited for one until now- but in vain.",
+    "List archives are a goldmine for the specialist tracing his or her memory in vain at the moment of need.",
+    "Still, one looks in vain for scholarship which takes union decline in this field to be a serious issue.",
+    "If there is truly nothing to be gained from being, then all schemes to ' improve ' the world are vain.",
+    "The reader will also look in vain for broad, explorative theoretical discussions of the possible determinants of societal value in health care.",
+    "In short, it was the moral type of the vain, the superficial and the narcissistic, and the only emotion it could inspire was 'contempt'.",
+    "He could hardly have expounded his position more clearly: quite bluntly, any plans to abolish music are described as vain.",
+    "Put another way, $97,000 would be spent in vain."
+  ],
+  "list_see_also": [
+    "vainly",
+    "vanity",
+    "in vain"
+  ],
+  "list_browse": [
+    "vagrant",
+    "vague",
+    "vaguely",
+    "vagueness",
+    "vain",
+    "vainly",
+    "vale",
+    "valedictorian",
+    "valentine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086795_fe4454c05e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086795_b50938624f_o.png",
+      "id_image": "vain_260230"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "veterinary",
+  "phat_am": "vetəˈrinəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thú y",
+          "definition": "of, or concerning, the treatment of diseases in animals",
+          "world_new": [
+            "concerning",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "veterinary medicine",
+              "world_new": [
+                "medicine"
+              ]
+            },
+            {
+              "ex_of_definition": "veterinary care.",
+              "world_new": [
+                "care"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the sacrifices were not subject to veterinary control.",
+    "Once captured, animals were individually housed in plastic cages and transferred to the veterinary facility.",
+    "For instance, the state's veterinary measures probably caused intradistrict trade to gain in significance.",
+    "Late entrants' dairy herds had higher inputs of concentrates, achieved higher milk yields, and had a higher incidence of veterinary treatments.",
+    "The data for the veterinary personnel were too small to allow risk factor analysis.",
+    "This has led to the increased recognition of the genus as emerging pathogens of both medical and veterinary importance.",
+    "It has been noted by veterinary officers but has no obvious explanation.",
+    "We focus on zoonotic infections, although the principles that serve as the basis for this review certainly apply to emerging tick-borne infections of veterinary importance."
+  ],
+  "list_see_also": [
+    "veterinary surgeon"
+  ],
+  "list_browse": [
+    "vest",
+    "vestige",
+    "vet",
+    "veteran",
+    "veterinary",
+    "veterinary surgeon",
+    "veto",
+    "vex",
+    "vexation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700524_4534f2af7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700524_8b2abd7f2d_o.png",
+      "id_image": "veterinary_1312500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390307_c8ec504a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390307_11d54ef7e7_o.png",
+      "id_image": "veterinary_1312527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700454_5919a9b6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700454_99b7384750_o.png",
+      "id_image": "veterinary_2201608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345266_bc72485316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345266_276f41d6a4_o.png",
+      "id_image": "veterinary_5745198"
+    }
+  ]
+}

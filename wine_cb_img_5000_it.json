@@ -1,0 +1,74 @@
+{
+  "english": "wine",
+  "phat_am": "wain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu",
+          "definition": "a type of alcoholic drink made from the fermented juice of grapes or other fruit",
+          "world_new": [
+            "type",
+            "alcoholic",
+            "drink",
+            "juice",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "two bottles of wine"
+            },
+            {
+              "ex_of_definition": "a wide range of inexpensive wines.",
+              "world_new": [
+                "wide",
+                "range",
+                "inexpensive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the village souvenirs, such as wine and arts and crafts, are for sale everywhere.",
+    "The model can also be used to throw light on how strategies evolved over time in some countries or wine areas.",
+    "By endowing wine with these attributes, the wine poem appropriates the spiritual realm and reveals its full character.",
+    "Possibly he objected to honouring the unconsecrated bread and wine with excessive ceremony.",
+    "Among these volatiles are some important markers for the microbiological state of wine, for wine sensory characteristics, or for wine origin (both geographic and varietal).",
+    "Nevertheless, the wine poem cannot be regarded merely as an affirmative genre.",
+    "The design of a wine glass, for instance, may be driven by maintaining capacity as a constraint.",
+    "Sometimes, wine-shop keepers invited people to their establishments, either when they met in the street or at other public houses."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "windsurfing",
+    "windswept",
+    "windward",
+    "windy",
+    "wine",
+    "wing",
+    "wing commander",
+    "winged",
+    "winger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328996_cf6b3620cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328996_def3c3bb1a_o.png",
+      "id_image": "wine_2586743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328976_6dbef2d1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328976_9fb8c8a484_o.png",
+      "id_image": "wine_2601054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683974_23f0621e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683974_746f07ae21_o.png",
+      "id_image": "wine_2707733"
+    }
+  ]
+}

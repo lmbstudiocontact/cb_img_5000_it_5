@@ -1,0 +1,191 @@
+{
+  "english": "walk",
+  "phat_am": "woːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi bộ",
+          "definition": "(of people or animals) to (cause to) move on foot at a pace slower than running, never having both or all the feet off the ground at once",
+          "world_new": [
+            "people",
+            "move",
+            "foot",
+            "pace",
+            "running",
+            "ground",
+            "once"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked across the room and sat down",
+              "world_new": [
+                "across",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "How long will it take to walk to the station?",
+              "world_new": [
+                "long",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "She walks her dog in the park every morning.",
+              "world_new": [
+                "dog",
+                "park",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi dạo",
+          "definition": "to travel on foot for pleasure",
+          "world_new": [
+            "travel",
+            "foot",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re going walking in the hills for our holidays.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi lang thang",
+          "definition": "to move on foot along",
+          "world_new": [
+            "move",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s dangerous to walk the streets of the city alone after dark.",
+              "world_new": [
+                "dangerous",
+                "city",
+                "alone",
+                "dark"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đi bộ",
+          "definition": "(the distance covered during) an outing or journey on foot",
+          "world_new": [
+            "distance",
+            "outing",
+            "journey",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wants to go for / to take a walk"
+            },
+            {
+              "ex_of_definition": "It’s a long walk to the station.",
+              "world_new": [
+                "long",
+                "station"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dáng đi",
+          "definition": "a way or manner of walking",
+          "world_new": [
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I recognised her walk.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lối đi bộ",
+          "definition": "a route for walking",
+          "world_new": [
+            "route"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are many pleasant walks in this area.",
+              "world_new": [
+                "pleasant",
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For each embedding, all facial walks are generated, the genus is computed and polyhedrality is tested.",
+    "A non-motivic, walking bass line provides steady harmonic support for the voice.",
+    "His method uses return times of random walks to estimate the size of connected components.",
+    "For a biped motion velocity higher than 1.5 m/s, walking cannot be produced by the chosen actuator, but running is possible.",
+    "The empirical evidence shows that for some countries we can reject the hypothesis that exchange rates are random walks.",
+    "In the case of random walks in convex bodies, we show that this new bound is better than the known bounds for the worst case.",
+    "We measure size, say, by the length of the facial walk.",
+    "We state the theorem only for the simple random walk, although it was originally stated for more general (strongly reversible) walks."
+  ],
+  "list_see_also": [
+    "walker",
+    "walkie-talkie",
+    "walking stick",
+    "walkover",
+    "walkway",
+    "walk all over (someone)",
+    "walk off with",
+    "walk of life",
+    "walk on air"
+  ],
+  "list_browse": [
+    "wakeful",
+    "wakefully",
+    "wakefulness",
+    "waken",
+    "walk",
+    "walk all over (someone)",
+    "walk of life",
+    "walk off with",
+    "walk on air"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693954_ca2af8e49b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693954_5690d8483f_o.png",
+      "id_image": "walk_1693000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453783_a7bfb0a799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453783_b77b88ae24_o.png",
+      "id_image": "walk_5147283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383737_7c610ed28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383737_13fbeb20ec_o.png",
+      "id_image": "walk_599542"
+    }
+  ]
+}

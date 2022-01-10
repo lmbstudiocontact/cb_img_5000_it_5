@@ -1,0 +1,117 @@
+{
+  "english": "where",
+  "phat_am": "weə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ở đâu",
+          "definition": "(to or in) which place (?)",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where are you going (to)?"
+            },
+            {
+              "ex_of_definition": "Do you know where we are?",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "Where does he get his ideas from?"
+            },
+            {
+              "ex_of_definition": "We asked where to find a good restaurant.",
+              "world_new": [
+                "find",
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nơi mà",
+          "definition": "((to or in) the place) to or in which",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s nice going on holiday to a place where you’ve been before",
+              "world_new": [
+                "nice",
+                "holiday",
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "This is the town where I was born",
+              "world_new": [
+                "town",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s still where it was"
+            },
+            {
+              "ex_of_definition": "I can’t see him from where I am.",
+              "world_new": [
+                "I",
+                "see",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Countries in the third stage are those where family medicine is just emerging as an organized discipline within medical schools.",
+    "Where a sequence of actions achieves a goal, it may be copied in a goal-centred way, without regard to style.",
+    "In both cases we would expect experience - especially portfolio experience - to increase in countries where portfolios are most valued as a means to affect policy.",
+    "Now where's your slot coming from?",
+    "I am tempted to ask: where's the beef?",
+    "The hospice is a place where time stands still as people who are dying gradually relinquish themselves to the dying process.",
+    "They illustrate the variety of problems where solution-scattering can be of use either in itself or as a complementary source of information.",
+    "Let w be a world where q holds."
+  ],
+  "list_see_also": [
+    "whereabouts",
+    "whereabouts",
+    "whereas",
+    "whereby",
+    "whereupon",
+    "wherever"
+  ],
+  "list_browse": [
+    "wheezy",
+    "when",
+    "whence",
+    "whenever",
+    "where",
+    "where’s",
+    "whereabouts",
+    "whereas",
+    "whereby"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067890_9cac324e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067890_bebe9cd828_o.png",
+      "id_image": "where_5307387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331111_59280e6b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331111_8e246dba63_o.png",
+      "id_image": "where_5359676"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "wrapper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy bọc",
+          "definition": "a paper cover for a sweet, packet of cigarettes etc",
+          "world_new": [
+            "paper",
+            "cover",
+            "sweet",
+            "packet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sweet wrapper.",
+              "world_new": [
+                "sweet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The higher denominations franked wrappers of bundles of newspapers and were frequently discarded.",
+    "Other examples were quoted, including what appeared to be bars of chocolate in a sweet-shop window but were in reality chocolate wrappers put around blocks of wood.",
+    "When she is not found reading a book, she can be found reading candy wrappers, coupons and old receipts.",
+    "The disposal of hay and straw used in packing imported goods, and of imported meat wrappers and containers, is also regulated.",
+    "Interoperability between agents is ensured by a wrapper.",
+    "Selective sieves or discarded wrappers ?",
+    "If we put the punnets into cellophane wrappers the strawberries deteriorate, and we are worse off than we were.",
+    "Following a few cases of delay in delivery the wrappers enclosing the mail are now being specially marked."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wrangle",
+    "wrap",
+    "wrap up",
+    "wrapped up in",
+    "wrapper",
+    "wrapping",
+    "wrapping paper",
+    "wrath",
+    "wrathful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448183_61b61b0412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448183_efc682ef8c_o.png",
+      "id_image": "wrapper_258291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377847_511043c957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377847_ce5fa35d02_o.png",
+      "id_image": "wrapping_2403461"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "zigzag",
+  "phat_am": "ˈziɡzaɡ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngoằn ngèo",
+          "definition": "(of a line, road etc) having sharp bends or angles from side to side",
+          "world_new": [
+            "line",
+            "road",
+            "sharp",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A zigzag path wound its way through the woods.",
+              "world_new": [
+                "path",
+                "wound",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy ngoằn ngèo",
+          "definition": "to move in a zigzag manner",
+          "world_new": [
+            "move",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road zigzagged through the mountains.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second half is much wider, much contorted and often zigzagging.",
+    "The navigator steersman uses zigzag tacks to port and starboard across the wind in order to reach the intended point ahead.",
+    "More importantly, perhaps, there are symmetries of the zig-zag that can map any pair of a vertex and attached edge to any other.",
+    "He asked who was responsible for policing zigzags.",
+    "During the northern lapwing's zigzagging display flight, the bird's outer primaries produce a humming sound.",
+    "The growth of the zigzags does not saturate and finally layers of individual pancake dipoles are produced.",
+    "Early instars leave zigzagging tracks in the underside of leaves.",
+    "A second terra-cotta frieze runs the whole length of the lower facade, presenting a dramatic collection of angular zigzags and curvy leaves."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "zenith",
+    "zephyr",
+    "zero",
+    "zest",
+    "zigzag",
+    "zillion",
+    "zinc",
+    "zip",
+    "zip fastener"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374852_33bf064804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374852_b10fc1cd39_o.png",
+      "id_image": "zigzag_1655263"
+    }
+  ]
+}

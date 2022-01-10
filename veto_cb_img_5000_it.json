@@ -1,0 +1,78 @@
+{
+  "english": "veto",
+  "phat_am": "ˈviːtəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ quyết, bác bỏ",
+          "definition": "to forbid, or refuse to consent to",
+          "world_new": [
+            "forbid",
+            "refuse",
+            "consent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They vetoed your suggestion.",
+              "world_new": [
+                "your",
+                "suggestion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền phủ quyết, sự bác bỏ",
+          "definition": "(also power of veto) the power or right to refuse or forbid",
+          "world_new": [
+            "power",
+            "right",
+            "refuse",
+            "forbid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the chairman’s (power of) veto."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There should be no question of vetoing these arrangements.",
+    "There was not a word about the promises he made about the statutory incomes policy and freeze which he had vetoed before 1970.",
+    "One-sided attempts at deregulation or curtailing benefits (labour law 1996, unemployment insurance 1997) as well as expanding social security (health and maternity insurance 1987) were successfully vetoed.",
+    "However, if the feasible set is empty, legislative action is not politically feasible since any proposal will be vetoed.",
+    "If all took up the invitation, there would be a grand coalition, but the constitution provided for no group vetoes, no ethnic autonomy, and no other consociational features.",
+    "By their nature, they require major institutional and legal changes and involve a much broader range of actors, which make them more vulnerable to vetoes, dilutions, delays and derailments.",
+    "On social policy, we have vetoed an anti-racism directive.",
+    "If the sceptic acts irrationally when vetoing the religious affirmation of others, he is for the same reasons acting irrationally when vetoing his own belief."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vet",
+    "veteran",
+    "veterinary",
+    "veterinary surgeon",
+    "veto",
+    "vex",
+    "vexation",
+    "via",
+    "viability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700394_9442b1e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700394_2b8bdb71d1_o.png",
+      "id_image": "veto_2473207"
+    }
+  ]
+}

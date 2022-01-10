@@ -1,0 +1,112 @@
+{
+  "english": "whisper",
+  "phat_am": "ˈwispə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thì thầm",
+          "definition": "to speak or say very softly",
+          "world_new": [
+            "speak",
+            "softly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll have to whisper or he’ll hear you",
+              "world_new": [
+                "hear"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Don’t tell him,’ she whispered.",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xào xạc",
+          "definition": "(of trees etc) to make a soft sound in the wind",
+          "world_new": [
+            "soft",
+            "sound",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leaves whispered in the breeze.",
+              "world_new": [
+                "breeze"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng thì thầm",
+          "definition": "a very quiet sound, especially something said",
+          "world_new": [
+            "quiet",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They spoke in whispers.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now and then we hear whispers that that programme is at risk.",
+    "I can almost hear him whispering that to himself.",
+    "I hear sometimes whispers, hardly more than whispers, of possible terms of peace.",
+    "Almost as soon as the report was published there began to be whispers that it was full of mistakes, that it revealed a basic ignorance of the industry.",
+    "There is another little suggestion in those whispering corridors of broadcasting.",
+    "Will not the whispering gallery be in existence then as now?",
+    "We hear whispers, but, apart from that, there is one material fact.",
+    "He may be right, because whispering seems to include the full range of phonemes."
+  ],
+  "list_see_also": [
+    "whisperer"
+  ],
+  "list_browse": [
+    "whisk",
+    "whisker",
+    "whiskered",
+    "whisky",
+    "whisper",
+    "whisperer",
+    "whist",
+    "whistle",
+    "Whit Monday"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067365_72d230a120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067365_4af32aa6f5_o.png",
+      "id_image": "whisper_4893347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375187_0a274319e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375187_7c8fbd7b0c_o.png",
+      "id_image": "whisper_5024490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067300_6622b77e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067300_8f71b4a792_o.png",
+      "id_image": "whisper_5508102"
+    }
+  ]
+}

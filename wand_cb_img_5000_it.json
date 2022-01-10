@@ -1,0 +1,79 @@
+{
+  "english": "wand",
+  "phat_am": "wond",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đũa thần",
+          "definition": "a long slender rod eg used as the symbol of magic power by conjurors, fairies etc",
+          "world_new": [
+            "long",
+            "slender",
+            "rod",
+            "symbol",
+            "magic",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the story, the fairy waved her magic wand and the frog became a prince.",
+              "world_new": [
+                "story",
+                "fairy",
+                "magic",
+                "frog",
+                "prince"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The x position of the wands sends control 10 messages (stereo panning).",
+    "The rate of triggering and duration of the notes can be raised and lowered within a certain range by moving up or down the wand while pressing its button.",
+    "Wand proved that the partial evaluator is correct, in the sense that if it is given an output from the binding-time analysis, then indeed it produces a specialized program.",
+    "Even if it is an imperative, however, there is no magic wand that can deliver good governance.",
+    "I play with my wand.",
+    "The third uses both wands to control a single instrument.",
+    "Wand (1986) also records type checking decisions, focusing on function applications as the loci of type errors.",
+    "The button of the wand triggers and holds notes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "walnut",
+    "walrus",
+    "waltz",
+    "wan",
+    "wand",
+    "wander",
+    "wanderer",
+    "wanderlust",
+    "wane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383052_b634c8fed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383052_b028bd12db_o.png",
+      "id_image": "wand_4133651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693284_697f8db3aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693284_bbf8da4291_o.png",
+      "id_image": "wand_4243080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337986_fce6374957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337986_7ebdc605e7_o.png",
+      "id_image": "wand_4243220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453008_69236ea5c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453008_34bd336bb3_o.png",
+      "id_image": "wand_707132"
+    }
+  ]
+}

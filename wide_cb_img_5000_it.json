@@ -1,0 +1,154 @@
+{
+  "english": "wide",
+  "phat_am": "waid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rộng",
+          "definition": "great in extent, especially from side to side",
+          "world_new": [
+            "great",
+            "extent",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wide streets"
+            },
+            {
+              "ex_of_definition": "Her eyes were wide with surprise.",
+              "world_new": [
+                "surprise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có chiều rộng",
+          "definition": "being a certain distance from one side to the other",
+          "world_new": [
+            "certain",
+            "distance",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This material is three metres wide",
+              "world_new": [
+                "material"
+              ]
+            },
+            {
+              "ex_of_definition": "How wide is it?"
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều",
+          "definition": "great or large",
+          "world_new": [
+            "great",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won by a wide margin.",
+              "world_new": [
+                "margin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có nhiều",
+          "definition": "covering a large and varied range of subjects etc",
+          "world_new": [
+            "covering",
+            "large",
+            "varied",
+            "range"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a wide experience of teaching.",
+              "world_new": [
+                "experience",
+                "teaching"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "rộng ra",
+          "definition": "with a great distance from top to bottom or side to side",
+          "world_new": [
+            "great",
+            "distance",
+            "top",
+            "bottom",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened his eyes wide."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In these decades nonconformists were learning to speak not only to their own constituency but also to a wider public.",
+    "Verbs were chosen as the class of words to be used, mainly because they take the widest range of suffixes.",
+    "However, they also show that formulaic use may appear at the same time or even after wider use.",
+    "The wider scale of labour organisation and industrial action immeasurably complicated the jobber's task.",
+    "The text consists of discussion of a number of genres (or periods) of popular music discussed in a wider cultural context.",
+    "Against this background, the research focus was broadened to include wider political processes.",
+    "As the filters become more low pass, lateral inhibition becomes wider.",
+    "Likewise, discourse diversity enables speakers to have a wider and more detailed range of possible meanings and functions at their disposal."
+  ],
+  "list_see_also": [
+    "widely",
+    "widen",
+    "wideness",
+    "width",
+    "wide-ranging",
+    "widespread",
+    "give a wide berth (to)",
+    "wide apart",
+    "wide awake",
+    "wide open"
+  ],
+  "list_browse": [
+    "wicker",
+    "wickerwork",
+    "wicket",
+    "wicket-keeper",
+    "wide",
+    "wide apart",
+    "wide awake",
+    "wide open",
+    "wide-ranging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444618_e57b79747f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444618_61f5b03445_o.png",
+      "id_image": "wide_2205431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329616_4954f21d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329616_053c8bbb44_o.png",
+      "id_image": "wide_4563957"
+    }
+  ]
+}

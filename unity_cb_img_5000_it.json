@@ -1,0 +1,112 @@
+{
+  "english": "unity",
+  "phat_am": "ˈjuːnəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thống nhất",
+          "definition": "the state of being united or in agreement",
+          "world_new": [
+            "state",
+            "united",
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When will men learn to live in unity with each other?",
+              "world_new": [
+                "learn",
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính đơn nhất",
+          "definition": "singleness, or the state of being one complete whole",
+          "world_new": [
+            "singleness",
+            "state",
+            "complete",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Unity of design in his pictures is this artist’s main aim.",
+              "world_new": [
+                "design",
+                "main",
+                "aim"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thống nhất",
+          "definition": "something arranged to form a single complete whole",
+          "world_new": [
+            "form",
+            "single",
+            "complete",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This play is not a unity, but a series of unconnected scenes.",
+              "world_new": [
+                "play",
+                "series"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Even in the discipline of the history of music theory, we seem to be finding more unity than difference in the eighteenth century.",
+    "Both examples use the data as a structural component and the music achieves some structural unity for that.",
+    "Thus, in order to establish and solidify a shared standard of conduct, repeated efforts were made to influence disunited minds simply to get temporary unity.",
+    "Administration, from its presidential centre, was reunified into a single hierarchical apparatus, grounded in ' unity of command '.",
+    "In order to bring greater unity to this volume, the editors could have exercised a bit more editorial discipline over individual contributions.",
+    "It is not coherent to value scientific explanation while not valuing scientific unity.",
+    "If that voice could have found unity, it could then have directed public action with an unchallenged secular authority.",
+    "In all these buildings, the expression of the openings is reduced to create a unity of volume."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unison",
+    "unit",
+    "unite",
+    "united",
+    "unity",
+    "universal",
+    "universality",
+    "universally",
+    "universe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467328_0f09f9f78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467328_1b4ef1e3fb_o.png",
+      "id_image": "unity_1396598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397457_7c7f1732a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397457_02682435c5_o.png",
+      "id_image": "unity_1396605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707284_6e137f9ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707284_67f049417e_o.png",
+      "id_image": "unity_1622630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707269_47f4f44e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707269_1ae7ff1603_o.png",
+      "id_image": "unity_3480057"
+    }
+  ]
+}

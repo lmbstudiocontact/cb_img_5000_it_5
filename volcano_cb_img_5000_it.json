@@ -1,0 +1,75 @@
+{
+  "english": "volcano",
+  "phat_am": "volˈkeinəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "núi lửa",
+          "definition": "a hill or mountain with an opening through which molten rock, ashes etc periodically erupt, or have erupted in the past, from inside the earth",
+          "world_new": [
+            "hill",
+            "mountain",
+            "opening",
+            "molten",
+            "rock",
+            "ashes",
+            "periodically",
+            "erupt",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The village was destroyed when the volcano erupted.",
+              "world_new": [
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The volcano there, after being dormant for 400 years, erupted in 1995.",
+    "They likely represent the deepest levels of the submerged intra-oceanic shield volcanoes.",
+    "In addition, it is the single most sulfurous volcano measured to date.",
+    "This memoir therefore represents a vital contribution to understanding of both a fascinating and important volcano.",
+    "She was either a volcano of rage or cold and remote.",
+    "We report geochemical data for a new suite of samples dredged from the volcano.",
+    "The volcano (or 'ring') is typically not round but contains higher modes as well.",
+    "For a volcano to be able to affect worldwide weather, it must meet cer tain conditions."
+  ],
+  "list_see_also": [
+    "volcanic"
+  ],
+  "list_browse": [
+    "vol.",
+    "volatile",
+    "volatility",
+    "volcanic",
+    "volcano",
+    "volley",
+    "volleyball",
+    "volt",
+    "voltage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078555_8419f2c2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078555_91bd74ebaf_o.png",
+      "id_image": "volcano_3722687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386122_5f2aa48e15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386122_978ae79c5e_o.png",
+      "id_image": "volcano_5641124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696349_0b13445e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696349_53fc07ee4b_o.png",
+      "id_image": "volcano_6011044"
+    }
+  ]
+}

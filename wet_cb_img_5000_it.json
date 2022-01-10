@@ -1,0 +1,169 @@
+{
+  "english": "wet",
+  "phat_am": "wet",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ướt",
+          "definition": "containing, soaked in, or covered with, water or another liquid",
+          "world_new": [
+            "soaked",
+            "water",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We got soaking wet when it began to rain",
+              "world_new": [
+                "soaking",
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "His shirt was wet through with sweat",
+              "world_new": [
+                "shirt",
+                "sweat"
+              ]
+            },
+            {
+              "ex_of_definition": "wet hair",
+              "world_new": [
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "The car skidded on the wet road.",
+              "world_new": [
+                "car",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có mưa",
+          "definition": "rainy",
+          "world_new": [
+            "rainy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wet day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "wet weather",
+              "world_new": [
+                "weather"
+              ]
+            },
+            {
+              "ex_of_definition": "It was wet yesterday.",
+              "world_new": [
+                "yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bị ướt",
+          "definition": "to make wet",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wet her hair and put shampoo on it",
+              "world_new": [
+                "hair",
+                "shampoo"
+              ]
+            },
+            {
+              "ex_of_definition": "The baby has wet himself / his nappy / the bed.",
+              "world_new": [
+                "baby",
+                "nappy",
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hơi ẩm",
+          "definition": "moisture",
+          "world_new": [
+            "moisture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a patch of wet.",
+              "world_new": [
+                "patch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mưa",
+          "definition": "rain",
+          "world_new": [
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t go out in the wet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wetness",
+    "wet blanket",
+    "wet-nurse",
+    "wetsuit",
+    "wet through"
+  ],
+  "list_browse": [
+    "western",
+    "westernmost",
+    "westward",
+    "westward(s)",
+    "wet",
+    "wet blanket",
+    "wet through",
+    "wet-nurse",
+    "wetness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686934_fedbcc84f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686934_8074cd7886_o.png",
+      "id_image": "wet_2885357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068560_eb0992a918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068560_bf560ec5c2_o.png",
+      "id_image": "wet_3217147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331871_24f99c978f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331871_e184494e3a_o.png",
+      "id_image": "wet_3750767"
+    }
+  ]
+}

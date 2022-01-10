@@ -1,0 +1,115 @@
+{
+  "english": "variety",
+  "phat_am": "vəˈraiəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đa dạng",
+          "definition": "the quality of being of many different kinds or of being varied",
+          "world_new": [
+            "quality",
+            "varied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a great deal of variety in this job.",
+              "world_new": [
+                "great",
+                "deal",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều thứ",
+          "definition": "a mixed collection or range",
+          "world_new": [
+            "mixed",
+            "collection",
+            "range"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children got a variety of toys on their birthdays.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ, loại",
+          "definition": "a sort or kind",
+          "world_new": [
+            "sort",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They grow fourteen different varieties of rose.",
+              "world_new": [
+                "grow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chương trình tạp kỹ",
+          "definition": "a type of mixed theatrical entertainment including dances, songs, short sketches etc",
+          "world_new": [
+            "type",
+            "mixed",
+            "theatrical",
+            "entertainment",
+            "including",
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I much prefer operas to variety",
+              "world_new": [
+                "I",
+                "prefer"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a variety show."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The study found most musicians to be wholly or partly self-employed, and to work in a variety of often interdependent roles throughout their careers.",
+    "In our context, their suggestions imply that a likelihood approach with random variety effects reduces bias in the estimation of (fixed) year effects.",
+    "The unit-based ethicist may fulfill a variety of functions through his participation in the working or teaching rounds of the unit.",
+    "After determining the parameters describing the susceptibility to lodging, their correlation with the physical properties of varieties was straightforward to calculate.",
+    "A variety of other abstract surfaces may be covered by following the same approach.",
+    "Two-dimensional image analysis of the shape of rice and its application to separating varieties.",
+    "Notwithstanding the wide variety of experiences from the respondents, some themes emerged.",
+    "On teaching the standard variety to speakers of dialectal or sociolectal varieties."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "variation",
+    "varicose veins",
+    "varied",
+    "variegated",
+    "variety",
+    "various",
+    "variously",
+    "varnish",
+    "vary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348281_b334130c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348281_c960eb9268_o.png",
+      "id_image": "variety_5139806"
+    }
+  ]
+}

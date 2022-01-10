@@ -1,0 +1,151 @@
+{
+  "english": "upset",
+  "phat_am": "apˈset",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm đổ, đánh đổ",
+          "definition": "to overturn",
+          "world_new": [
+            "overturn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He upset a glass of wine over the table.",
+              "world_new": [
+                "glass",
+                "wine",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm rối tung, đảo lộn",
+          "definition": "to disturb or put out of order",
+          "world_new": [
+            "disturb",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His illness has upset all our arrangements.",
+              "world_new": [
+                "illness",
+                "our",
+                "arrangements"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lo lắng, đau khổ",
+          "definition": "to distress",
+          "world_new": [
+            "distress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His friend’s death upset him very much.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lo lắng, đau khổ",
+          "definition": "disturbed or distressed",
+          "world_new": [
+            "disturbed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is he very upset about failing his exam?",
+              "world_new": [
+                "failing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng rối loạn",
+          "definition": "a disturbance",
+          "world_new": [
+            "disturbance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a stomach upset",
+              "world_new": [
+                "stomach"
+              ]
+            },
+            {
+              "ex_of_definition": "I couldn’t bear the upset of moving house again.",
+              "world_new": [
+                "I",
+                "bear",
+                "moving",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But rather -just like my relative, he grew rather upset.",
+    "The application can be easily transferred en bloc to another location without upsetting the link information.",
+    "Lots of people are trying to upset him.",
+    "I am sorry if this criticism is upsetting to the authors who have taken the trouble to describe their work for us.",
+    "Those children who had a medical condition or treatment that resulted in upset bowel actions or vomiting (n=283) were excluded from further analysis.",
+    "Many were upset and frightened that the council was planning to imprison them if they didn't fill in the accompanying form.",
+    "During the last 30 days, about how often did ...* (d) ... you have indigestion or an upset stomach ?",
+    "All of the inflammatory conditions can be associated with significant systemic upset."
+  ],
+  "list_see_also": [
+    "upsetting"
+  ],
+  "list_browse": [
+    "uproar",
+    "uproarious",
+    "uproariously",
+    "uproot",
+    "upset",
+    "upset the apple cart",
+    "upsetting",
+    "upshot",
+    "upside down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396407_53a112bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396407_5d841bbd50_o.png",
+      "id_image": "upset_1972750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706119_9190955904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706119_a60a3513e4_o.png",
+      "id_image": "upset_3508646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396332_dcf03a058f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396332_87a6ec59e9_o.png",
+      "id_image": "upset_4138862"
+    }
+  ]
+}

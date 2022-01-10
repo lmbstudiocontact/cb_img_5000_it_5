@@ -1,0 +1,91 @@
+{
+  "english": "wake",
+  "phat_am": "weik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tỉnh giấc",
+          "definition": "to bring or come back to consciousness after being asleep",
+          "world_new": [
+            "bring",
+            "consciousness",
+            "asleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He woke to find that it was raining",
+              "world_new": [
+                "find"
+              ]
+            },
+            {
+              "ex_of_definition": "Go and wake the others, will you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường rẽ nước",
+          "definition": "a strip of smooth-looking or foamy water left behind a ship",
+          "world_new": [
+            "strip",
+            "water",
+            "left",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We saw dolphins jumping and playing in the wake left by the boat.",
+              "world_new": [
+                "saw",
+                "left",
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Discharge rate and excitability of cortically projecting intralaminar thalamic neurons during waking and sleep states.",
+    "Lesions in other unimodal cortices have no effect on dream imagery, notwithstanding their marked effects on waking perceptual and motor functions.",
+    "Assessing the early morning peak in cortisol thus requires careful attention to the timing of sampling relative to the time that the child wakes up.",
+    "In order to compare waking life and dreaming, it will be necessary to elicit the inner world of the person as completely as possible.",
+    "In the next stanza she takes on the persona of a victim who wakes up to find flood waters at her door, preventing her escape.",
+    "The bite woke him up, but he did not immediately realize what had happened.",
+    "In the review that follows, the measures considered are, for the most part, methodologically diverse and correlated with waking state cognitive processes.",
+    "Sleep duration included episodes of falling back asleep after waking up."
+  ],
+  "list_see_also": [
+    "wakeful",
+    "wakefully",
+    "wakefulness",
+    "waken",
+    "wake up"
+  ],
+  "list_browse": [
+    "waiter",
+    "waiting list",
+    "waiting room",
+    "waive",
+    "wake",
+    "wake up",
+    "wakeful",
+    "wakefully",
+    "wakefulness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693969_e4cd062c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693969_ff5fdf35f8_o.png",
+      "id_image": "wake_5284836"
+    }
+  ]
+}

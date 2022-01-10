@@ -1,0 +1,69 @@
+{
+  "english": "wheelbarrow",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe cút kít",
+          "definition": "a small carrier with one wheel at the front, and two legs and two handles at the back",
+          "world_new": [
+            "small",
+            "wheel",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used a wheelbarrow to move the manure to the back garden.",
+              "world_new": [
+                "move",
+                "manure",
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What is required in many of these countries is hundreds of thousands of wheelbarrows.",
+    "There have been so many reviews that, as an energy spokesman, one needs a special wheelbarrow to carry them around in.",
+    "Each illustration was a static depiction of an object, such as an illustration of a door, wheelbarrow, or a saucepan.",
+    "We have already heard tonight about the wheelbarrow that might need pushing, and, therefore, there might be an argument for residual powers.",
+    "We didn't, we didn't borrow the wheelbarrow.",
+    "There are bottles, crates, tools, wheelbarrows and so on lying on the plots.",
+    "Will he confirm that all that was necessary for that task was a conveniently placed dog kennel and a wheelbarrow?",
+    "Will doctors be expected to have an unladen wheelbarrow in their consulting rooms?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whatsoever",
+    "wheat",
+    "wheaten",
+    "wheel",
+    "wheelbarrow",
+    "wheelchair",
+    "wheeled",
+    "wheelhouse",
+    "wheelwright"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068115_c2c4919dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068115_450bbf3f1a_o.png",
+      "id_image": "wheelbarrow_2422171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331366_ff90a84d95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331366_53fc114d86_o.png",
+      "id_image": "wheelbarrow_3462058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686344_cd4091da4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686344_e39f3cc1b6_o.png",
+      "id_image": "wheelbarrow_4440111"
+    }
+  ]
+}

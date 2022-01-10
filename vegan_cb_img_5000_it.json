@@ -1,0 +1,74 @@
+{
+  "english": "vegan",
+  "phat_am": "ˈviːɡən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người ăn chay",
+          "definition": "someone who does not eat any animal products such as meat, milk, cheese, or eggs",
+          "world_new": [
+            "eat",
+            "animal",
+            "meat",
+            "milk",
+            "cheese"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a vegan diet.",
+              "world_new": [
+                "diet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vegans across the world join together to celebrate animal rights.",
+    "The cafe serves an all-vegan menu and hosts community-based events, including local benefits, political teach-ins and anarchist infoshop-based classes.",
+    "His followers observe strict regulations, are vegans, and are allowed no vices such as smoking or drinking alcohol and money is banned.",
+    "If the vegans and vegetarians had their way, there would be no dairy industry at all in this country, which would devastate our economic and rural landscape.",
+    "Dietary vegans avoid consuming animal product, but might use them in clothing and toiletries.",
+    "Ethical vegans do not consume dairy or eggs because their production causes animal suffering and/or premature death.",
+    "Regular meat eaters and vegans shared the highest mortality ratio of 1.00.",
+    "However, the organization that supposedly carried out this study has denied it and is referring to the older number of 30,000 vegetarians and vegans."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "veal",
+    "vector",
+    "veer",
+    "veg",
+    "vegan",
+    "vegetable",
+    "vegetarian",
+    "vegetarianism",
+    "vegetate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347736_c8ae4b11bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347736_bc1ee0dd24_o.png",
+      "id_image": "vegan_2689434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702434_afbf89a381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702434_f948db881f_o.png",
+      "id_image": "vegan_3967297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462448_57e7477e08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462448_023c364738_o.png",
+      "id_image": "vegan_3967423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347646_2f6d12713e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347646_152fd9983d_o.png",
+      "id_image": "vegan_6194123"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "web",
+  "phat_am": "web",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mảng tơ",
+          "definition": "a type of trap for flies etc made of fine silk threads, spun by a spider etc",
+          "world_new": [
+            "type",
+            "trap",
+            "fine",
+            "silk",
+            "spider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spider’s web."
+            }
+          ]
+        },
+        {
+          "mean_english": "màng da",
+          "definition": "the skin between the toes of a waterfowl.",
+          "world_new": [
+            "skin",
+            "waterfowl"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With the advent of small mobile computing devices like handheld computers and smart mobile phones, the range of possible web displays has increased.",
+    "Typically, the documents are obtained through live news feeds, intelligence feeds, intranets, or from the web.",
+    "The unique fauna found in the oceans, conceivably, should provide new pathways on which parasites may capitalise within food webs, ultimately facilitating parasite diversification.",
+    "The figures make it plain that print-users are more committed to the use of classical digraphs than their web-using counterparts.",
+    "Portals, websites and the independent media centres, devote themselves to the production of alternative information, that is communicated over the web.",
+    "But her personality and professional contribution ignite a curiosity and touch a multidimensional web of cultural issues.",
+    "The web of these associations constitutes an artistic reflection on the sensibility and experience of the feminine in a patriarchal society.",
+    "This paper proposes the use of a model for web-based assessment systems that identifies pedagogic, operational, technical (non-web-based), web-based and financial risks."
+  ],
+  "list_see_also": [
+    "webbed",
+    "webbing",
+    "web browser",
+    "webcam",
+    "web-footed",
+    "web page",
+    "website"
+  ],
+  "list_browse": [
+    "weathering",
+    "weatherperson",
+    "weave",
+    "weaver",
+    "web",
+    "web browser",
+    "web page",
+    "web-footed",
+    "webbed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070525_0e05725b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070525_cd45f33ab3_o.png",
+      "id_image": "web_1138464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688739_543a6105a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688739_3ab18a9d50_o.png",
+      "id_image": "web_169137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070485_acde68565d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070485_b775951892_o.png",
+      "id_image": "web_2419365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688629_2b1c84cd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688629_482524d06e_o.png",
+      "id_image": "web_2570137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070410_279a963189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070410_9867326854_o.png",
+      "id_image": "web_5767738"
+    }
+  ]
+}

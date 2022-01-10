@@ -1,0 +1,105 @@
+{
+  "english": "wrench",
+  "phat_am": "rentʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giật mạnh",
+          "definition": "to pull with a violent movement",
+          "world_new": [
+            "pull",
+            "violent",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrenched the gun out of her hand.",
+              "world_new": [
+                "gun",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trật khớp",
+          "definition": "to sprain",
+          "world_new": [
+            "sprain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wrenched my shoulder moving furniture about.",
+              "world_new": [
+                "I",
+                "my",
+                "shoulder",
+                "moving",
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giật mạnh",
+          "definition": "a violent pull or twist.",
+          "world_new": [
+            "violent",
+            "pull",
+            "twist"
+          ]
+        },
+        {
+          "mean_english": "chìa vặn",
+          "definition": "a type of strong tool for turning nuts, bolts etc.",
+          "world_new": [
+            "type",
+            "strong",
+            "tool"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Wrench capabilities represent the maximum forces and moments that can be applied or sustained by the manipulator.",
+    "This means that any external wrench can be compensated by positive tensions in the wires, and so the positioning point belongs to the workspace.",
+    "One notices that each wrench component has a corresponding maximum value within specific and proper configurations.",
+    "The volume defined by either the ellipsoid or the polytope represents feasible twists or wrenches.",
+    "Such a state can be easily maintained, provided the imposed wrenches at the support foot, resulting from link motions, are summed up to zero.",
+    "The analysis showed that no more coupling relations exist between effort wrench components of the realistic torso during several walking gaits.",
+    "If the common line of the two passive joint planes passes through the spherical joint center of the third leg, this line intersects six wrenches.",
+    "The extent to which deafness limits well-being is uncertain (though of course the experience of losing one's hearing is a wrenching one)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wreathe",
+    "wreck",
+    "wreckage",
+    "wren",
+    "wrench",
+    "wrestle",
+    "wrestler",
+    "wrestling",
+    "wretch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
+      "id_image": "wrench_1768196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
+      "id_image": "wrench_2137963"
+    }
+  ]
+}

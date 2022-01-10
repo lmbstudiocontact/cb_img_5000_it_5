@@ -1,0 +1,87 @@
+{
+  "english": "ward",
+  "phat_am": "woːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng bệnh",
+          "definition": "a room with a bed or beds for patients in a hospital etc",
+          "world_new": [
+            "room",
+            "bed",
+            "hospital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an emergency ward",
+              "world_new": [
+                "emergency"
+              ]
+            },
+            {
+              "ex_of_definition": "He is in a surgical ward of the local hospital.",
+              "world_new": [
+                "surgical",
+                "local",
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người được bảo trợ",
+          "definition": "a person who is under the legal control and care of someone who is not his or her parent or (a ward of court) of a court",
+          "world_new": [
+            "person",
+            "legal",
+            "control",
+            "care",
+            "parent",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was made a ward of court.",
+              "world_new": [
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The respectable classes' anxieties about the disorderly and degraded social conditions of the inner wards ensured a receptive audience for the temperance message.",
+    "The establishment was comparable to that of the elderly care wards that shared the same hospital site, a satellite of a large acute trust.",
+    "There they shared wards with non-addicted patients with acute hepatitis.",
+    "The community involved comprized of two wards and hence had a neat geographical location.",
+    "The clear implication is that the process is operating at very local scales within constituencies and wards.",
+    "Only this standard requires surrogates to acknowledge their ward's individuality as well their humanity.",
+    "From this point on, wards were cared for in a less physical sense, but as we will see, they were still closely monitored.",
+    "Were midwives to examine all babies on normal wards, savings would increase to approximately £4.30 per baby born or £2.5 million nationally."
+  ],
+  "list_see_also": [
+    "warder"
+  ],
+  "list_browse": [
+    "war dance",
+    "war of nerves",
+    "warble",
+    "warbler",
+    "ward",
+    "-ward(s)",
+    "warden",
+    "warder",
+    "wardrobe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693059_457d29b048_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693059_2231d814b1_o.png",
+      "id_image": "ward_298716"
+    }
+  ]
+}

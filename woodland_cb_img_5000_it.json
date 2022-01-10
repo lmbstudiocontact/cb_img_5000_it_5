@@ -1,0 +1,70 @@
+{
+  "english": "woodland",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rừng",
+          "definition": "land covered with woods",
+          "world_new": [
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stretch of woodland.",
+              "world_new": [
+                "stretch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Little research has been carried out into the changing role of landed estates in forming and maintaining woodland landscapes in this period.",
+    "Rather than being a slowly changing woodland landscape it has undergone revolutionary changes.",
+    "As only one point in each site was sampled the effects of within woodland turnover, particularly in the larger sites, would have been missed.",
+    "There were several small woodland glades dominated by various grasses.",
+    "In woodlands, nutrient cycling is steady but slow compared with the faster rate of cycling in cleared pastures.",
+    "Significantly, this includes the almost complete felling of existing woodlands to create a shelter wood with as few as 20-40 stems per hectare.",
+    "Using an illustrative model, we show that transitions between grassland and woodland may result from the interplay of facilitation and competition between herbivores.",
+    "This table shows that fly really became more numerous in the vlei than in the woodland bordering it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "woodcut",
+    "woodcutter",
+    "wooded",
+    "wooden",
+    "woodland",
+    "woodlouse",
+    "woodpecker",
+    "woodwind",
+    "woodwork"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379807_31e6428617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379807_08ea082048_o.png",
+      "id_image": "woodland_1566640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379792_cb0da9620d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379792_8d08d52663_o.png",
+      "id_image": "woodland_1780304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449828_f1ae22ede4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449828_ac4609f916_o.png",
+      "id_image": "woodland_2933728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334741_bcc6a3216e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334741_8aba08e820_o.png",
+      "id_image": "woodland_3075162"
+    }
+  ]
+}

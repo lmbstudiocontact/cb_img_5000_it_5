@@ -1,0 +1,63 @@
+{
+  "english": "whisky",
+  "phat_am": "ˈwiski",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một loại rượu",
+          "definition": "a type of alcoholic drink made from grain",
+          "world_new": [
+            "type",
+            "alcoholic",
+            "drink",
+            "grain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of whisky.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Whisky is one of our best exports, and that is one of the difficulties about it at the present time.",
+    "Towards the end of the year, when there is obviously more whisky passing through the trade, the figure nears £110 million.",
+    "Our best dollar producer is said to be whisky, and of course it is.",
+    "The tax on whisky being three times higher than the tax on beer is surely discrimination of the worst kind.",
+    "I will say whisky with sour - some fresh lime, whisky, soda.",
+    "The chief executive's statement included in the annual report for 1990 explains that the sale of bulk whisky stocks in 1989 was a one-off event.",
+    "They are heavily dependent on a continuing flow of cash coming in from their current whisky sales.",
+    "Others of note are whisky distilling, granite quarrying, textile manufacturing, ship-building, engineering, food processing and paper manufacture."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whirr",
+    "whisk",
+    "whisker",
+    "whiskered",
+    "whisky",
+    "whisper",
+    "whisperer",
+    "whist",
+    "whistle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330616_e1773cf006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330616_231f02fd95_o.png",
+      "id_image": "whisky_1677351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685644_f1d7750e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685644_735123d251_o.png",
+      "id_image": "whisky_2405468"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "youth",
+  "phat_am": "juːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuổi trẻ",
+          "definition": "(the state of being in) the early part of life",
+          "world_new": [
+            "state",
+            "part",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Enjoy your youth!",
+              "world_new": [
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "He spent his youth in America.",
+              "world_new": [
+                "spent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chàng trai trẻ",
+          "definition": "a boy of fifteen to twenty years old approximately",
+          "world_new": [
+            "boy",
+            "old",
+            "approximately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He and two other youths were kicking a football about.",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh niên",
+          "definition": "young people in general",
+          "world_new": [
+            "young",
+            "people",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some people say that today’s youth has/have no sense of responsibility.",
+              "world_new": [
+                "people",
+                "sense",
+                "responsibility"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "youthful",
+    "youthfully",
+    "youthfulness",
+    "youth hostel",
+    "youth mentor"
+  ],
+  "list_browse": [
+    "yours",
+    "yours (faithfully/sincerely/truly)",
+    "Yours faithfully",
+    "yourself",
+    "youth",
+    "youth hostel",
+    "youth hosteller",
+    "youth mentor",
+    "youthful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374982_34f9e968b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374982_5cdca0c5a0_o.png",
+      "id_image": "youth_1312511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685364_bb53ea09f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685364_1121dc6823_o.png",
+      "id_image": "youth_3787893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330266_aea7175f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330266_37831348b0_o.png",
+      "id_image": "youth_4901028"
+    }
+  ]
+}

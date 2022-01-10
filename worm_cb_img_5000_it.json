@@ -1,0 +1,83 @@
+{
+  "english": "worm",
+  "phat_am": "wəːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con giun",
+          "definition": "a kind of small creeping animal with a ringed body and no backbone; earthworm",
+          "world_new": [
+            "kind",
+            "small",
+            "animal",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "luồn vào",
+          "definition": "to make (one’s way) slowly or secretly",
+          "world_new": [
+            "slowly",
+            "secretly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wormed his way to the front of the crowd.",
+              "world_new": [
+                "front",
+                "crowd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "moi tin",
+          "definition": "to get (information etc) with difficulty (out of someone)",
+          "world_new": [
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It took me hours to worm the true story out of him.",
+              "world_new": [
+                "true",
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "world-famous",
+    "worldliness",
+    "worldly",
+    "worldwide",
+    "worm",
+    "worn",
+    "worn out",
+    "worn to a shadow",
+    "worried"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448538_7c4447aa7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448538_2277304dd7_o.png",
+      "id_image": "worm_2959415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688509_d045f31463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688509_af487034f7_o.png",
+      "id_image": "worm_350973"
+    }
+  ]
+}

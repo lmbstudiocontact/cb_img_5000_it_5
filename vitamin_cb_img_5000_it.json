@@ -1,0 +1,82 @@
+{
+  "english": "vitamin",
+  "phat_am": "ˈvitəmin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh tố, vitamin",
+          "definition": "any of a group of substances necessary for healthy life, different ones occurring in different natural things such as raw fruit, dairy products, fish, meat etc",
+          "world_new": [
+            "group",
+            "necessary",
+            "healthy",
+            "life",
+            "natural",
+            "raw",
+            "fruit",
+            "dairy",
+            "fish",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A healthy diet is full of vitamins",
+              "world_new": [
+                "healthy",
+                "diet",
+                "full"
+              ]
+            },
+            {
+              "ex_of_definition": "Vitamin C is found in fruit and vegetables",
+              "world_new": [
+                "C",
+                "found",
+                "fruit"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) vitamin pills."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some people consider trace elements or micro-nutrients to be more important in the nutrition of man than their organic micro-nutrient counterparts-the vitamins.",
+    "It also binds other anions and decreases the absorption of the fat soluble vitamins.",
+    "Two studies address vitamin supplements and trace elements in healthy older people.",
+    "The aetiology is unknown but suggested causes are bacterial, viral or parasitic infection, vitamin deficiency or food toxins.",
+    "Whole meal flour contains these vitamins but the public on the whole prefers the white flour.",
+    "Specific vitamin deficiencies occur in some parts of these regions.",
+    "They are a rich source of non-starch polysaccharides and vitamins and minerals.",
+    "Other agents are also important in movement of this vitamin against a concentration gradient, notably sodium ions and glucose."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "visualize",
+    "visually",
+    "vital",
+    "vitality",
+    "vitamin",
+    "vivacious",
+    "vivaciously",
+    "vivaciousness",
+    "vivid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079215_33e6946778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079215_c175dafcaf_o.png",
+      "id_image": "vitamin_4005511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697004_98d616f77e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697004_ab4697c39f_o.png",
+      "id_image": "vitamin_5046988"
+    }
+  ]
+}

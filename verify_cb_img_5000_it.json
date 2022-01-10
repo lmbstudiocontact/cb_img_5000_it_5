@@ -1,0 +1,75 @@
+{
+  "english": "verify",
+  "phat_am": "ˈverifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thẩm tra , xác minh",
+          "definition": "to confirm the truth or correctness of (something)",
+          "world_new": [
+            "confirm",
+            "truth",
+            "correctness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you verify her statement?",
+              "world_new": [
+                "statement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "X-ray radiography of the implosion was used to verifying that the system behaves in general as designed.",
+    "Her sample of progressive constructions seems to verify this hypothesis for the eighteenth century.",
+    "In the present work we wanted to verify whether oocytes recovered from preantral follicles were able to acquire calcium activity during follicle culture.",
+    "One is to verify whether the number of co-occurrences of different species differs from what would be expected by chance alone.",
+    "In the case of timber, world and domestic prices are holding steady, or declining, while logging costs are rising as verified by field interviews.",
+    "If this is confirmed after the impact equations are solved, the assumption is verified.",
+    "This fact must be verified for the safety of the programs.",
+    "Figure 12 displays the local mobility distribution within workspace, where we can verify the mobility of more than 100 within workspace."
+  ],
+  "list_see_also": [
+    "verifiable",
+    "verification"
+  ],
+  "list_browse": [
+    "verdict",
+    "verge",
+    "verifiable",
+    "verification",
+    "verify",
+    "vermicompost",
+    "vermicomposting",
+    "vermifugal",
+    "vermifuge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460838_9935bb574d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460838_6a3b2041d9_o.png",
+      "id_image": "verify_1564260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391047_1fddf35499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391047_8a59dda765_o.png",
+      "id_image": "verify_4565072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346026_ff2d46126e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346026_e54a564228_o.png",
+      "id_image": "verify_5059625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701049_635e5a7b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701049_8333f7d276_o.png",
+      "id_image": "verify_5151183"
+    }
+  ]
+}

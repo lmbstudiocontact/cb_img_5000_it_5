@@ -1,0 +1,81 @@
+{
+  "english": "viewer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người xem",
+          "definition": "a person who watches television",
+          "world_new": [
+            "person",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This programme regularly has five million viewers.",
+              "world_new": [
+                "programme",
+                "regularly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dụng cụ xem phim đèn chiếu",
+          "definition": "a device with a magnifying lens, and often with a light, used in viewing transparencies.",
+          "world_new": [
+            "device",
+            "lens",
+            "light"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It provides a focal point for the viewer, leading the eye and telling it where to rest.",
+    "The form in which the protagonist's inner world is presented has an effect on the organization of the relationship between film and viewer.",
+    "The classical architecture might also have reassured a nineteenth-century viewer that the principles of good government were being enacted.",
+    "The programmer sits behind the scenes and writes code to generate a changing world which the viewer may experience.",
+    "The policy background - the issues, facts and arguments - is what viewers need to know to think through the issues themselves.",
+    "The third channel would offer soft news programming and gain 2,500 viewers.",
+    "The animation description score was derived from on-line commentaries given by viewers of a series of clips showing triangles performing contingent actions.",
+    "The portrayal of older people in the mass media influences the viewers' explicit and implicit attitudes and beliefs towards older people and old age."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "video camera",
+    "videotape",
+    "vie",
+    "view",
+    "viewer",
+    "viewpoint",
+    "vigilance",
+    "vigilant",
+    "vignette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699599_267efd8e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699599_2cc55893d0_o.png",
+      "id_image": "viewer_1390265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081885_0a32f0036b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081885_57ce061105_o.png",
+      "id_image": "viewer_2201281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699504_5b3277e5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699504_45c4f3e74e_o.png",
+      "id_image": "viewer_4443792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081795_581f51fc3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081795_47a786f672_o.png",
+      "id_image": "viewer_5853632"
+    }
+  ]
+}

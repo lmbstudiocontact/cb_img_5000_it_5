@@ -1,0 +1,230 @@
+{
+  "english": "will",
+  "phat_am": "wil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ý chí",
+          "definition": "the mental power by which one controls one’s thought, actions and decisions",
+          "world_new": [
+            "mental",
+            "power",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you believe in freedom of the will?",
+              "world_new": [
+                "believe",
+                "freedom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyết tâm",
+          "definition": "(control over) one’s desire(s) or wish(es); determination",
+          "world_new": [
+            "determination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was done against her will"
+            },
+            {
+              "ex_of_definition": "He has no will of his own – he always does what the others want",
+              "world_new": [
+                "want"
+              ]
+            },
+            {
+              "ex_of_definition": "Children often have strong wills",
+              "world_new": [
+                "strong"
+              ]
+            },
+            {
+              "ex_of_definition": "He has lost the will to live.",
+              "world_new": [
+                "lost",
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "di chúc",
+          "definition": "(a legal paper having written on it) a formal statement about what is to be done with one’s belongings, body etc after one’s death",
+          "world_new": [
+            "legal",
+            "paper",
+            "formal",
+            "statement",
+            "belongings",
+            "body",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you made a will yet?",
+              "world_new": [
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sẽ",
+          "definition": "used to form future tenses of other verbs",
+          "world_new": [
+            "form",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll go at six o’clock tonight",
+              "world_new": [
+                "o’clock",
+                "tonight"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you be here again next week?",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "Things will never be the same again"
+            },
+            {
+              "ex_of_definition": "I will have finished the work by tomorrow evening.",
+              "world_new": [
+                "I",
+                "finished",
+                "work",
+                "tomorrow",
+                "evening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng trong câu mệnh lệnh",
+          "definition": "used in requests or commands",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you come into my office for a moment, please?",
+              "world_new": [
+                "my",
+                "office",
+                "moment",
+                "please"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you please stop talking!",
+              "world_new": [
+                "please",
+                "stop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sẵn sàng",
+          "definition": "used to show willingness",
+          "world_new": [
+            "willingness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll do that for you if you like"
+            },
+            {
+              "ex_of_definition": "I won’t do it!",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tất nhiên",
+          "definition": "used to state that something happens regularly, is quite normal etc",
+          "world_new": [
+            "state",
+            "regularly",
+            "quite",
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Accidents will happen.",
+              "world_new": [
+                "happen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A final aspect of men's provision for widows in wills that deserves consideration is the attachment of conditions to the receipt of particular bequests.",
+    "In 86 per cent of men's wills that mentioned daughters, daughters received cash bequests and not land.",
+    "Attention to action: willed and automatic control of behaviour.",
+    "Judging by the wills of spinsters and widows, women had intense feelings about their possessions.",
+    "Since the traditional family system used to determine the ways in which family wealth was passed on, people have not been accustomed to making wills.",
+    "The way in which, by expression and effect given to the several individual wills, contribution is made to the universal happiness is this.",
+    "Living wills and resuscitation preferences in an elderly population.",
+    "On the other hand (as the pun drags on), however, the patient does not experience these actions as consciously willed."
+  ],
+  "list_see_also": [
+    "wilful",
+    "wilfully",
+    "wilfulness",
+    "-willed",
+    "willing",
+    "willingly",
+    "willingness",
+    "willpower",
+    "at will",
+    "with a will"
+  ],
+  "list_browse": [
+    "wilful",
+    "wilfully",
+    "wilfulness",
+    "wiliness",
+    "will",
+    "-willed",
+    "willing",
+    "willingly",
+    "willingness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374047_3de77e7f2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374047_5cacb2a04f_o.png",
+      "id_image": "will_2855599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329386_8f232b8b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329386_456663b525_o.png",
+      "id_image": "will_298702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066150_9fff97c79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066150_ff4ce7ffb4_o.png",
+      "id_image": "will_6001205"
+    }
+  ]
+}

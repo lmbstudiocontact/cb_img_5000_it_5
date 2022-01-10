@@ -1,0 +1,74 @@
+{
+  "english": "waiter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phục vụ",
+          "definition": "a person who serves people with food etc at table",
+          "world_new": [
+            "person",
+            "people",
+            "food",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a waitress in a café",
+              "world_new": [
+                "café"
+              ]
+            },
+            {
+              "ex_of_definition": "Which waiter served you in the restaurant?",
+              "world_new": [
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The situation is a restaurant, and my party has just finished giving its orders to a white-jacketed waiter.",
+    "The waiters having been removed and a kid glove affixed to the door-knocker.",
+    "The result was a quite satisfying improvement in waiter recognition.",
+    "It signals that \"we are all in this together\", one cannot imagine it in modern use as the plural of boy \"waiter\" or \"servant\".",
+    "The closest that our decisionmakers get to the heartbeat of the nation is when they tip a waiter.",
+    "The waiter brought over a grubby document, creased at the corners and covered with tea stains.",
+    "Over the next few minutes, cleaning personnel, waiters with trays of food, a manicurist, a plumber, and others enter the cabin.",
+    "Should men in their forties and fifties 5ecome waiters?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "waistband",
+    "waistcoat",
+    "waisted",
+    "wait",
+    "waiter",
+    "waiting list",
+    "waiting room",
+    "waive",
+    "wake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453943_54cdc21765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453943_389c6aa1c9_o.png",
+      "id_image": "waiter_1353860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383997_e96fb7a8ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383997_9afd15560d_o.png",
+      "id_image": "waiter_307941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383942_f12cb17016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383942_0fd0fc67fc_o.png",
+      "id_image": "waiter_368014"
+    }
+  ]
+}

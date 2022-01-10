@@ -1,0 +1,67 @@
+{
+  "english": "vet",
+  "phat_am": "vet",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xem xét chặt chẽ",
+          "definition": "to investigate carefully (and pass as satisfactory)",
+          "world_new": [
+            "investigate",
+            "carefully",
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every member of staff has been vetted by our security department before he starts work here.",
+              "world_new": [
+                "member",
+                "staff",
+                "our",
+                "security",
+                "department",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The project managers vet these contributions and may add them to the authorised version of the software.",
+    "It both challenged and advanced the vets' case for intervention.",
+    "One participant even wanted to take her pet hamsters to the vet to find out why they hadn't mated.",
+    "This focus will also allow more attention to be paid to selecting and vetting comprehensive and robust sense inventories, including detailed specifications and definitions for each.",
+    "Since the vast majority of protocols involve rats and mice, the vet should have expertise with these species and other common laboratory animal species.",
+    "They vetted newcomers before accepting them as members of the refugee churches and kept registers of immigrant numbers, which were regularly checked by the magistrates.",
+    "However, while permanent immunity was certain, the procedure itself was ' costly, clumsy, heartbreaking and dangerous ', as one vet put it.",
+    "In retrospect this vetting process should have been included in the original trial plan."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vesicle",
+    "vessel",
+    "vest",
+    "vestige",
+    "vet",
+    "veteran",
+    "veterinary",
+    "veterinary surgeon",
+    "veto"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082935_a2579b2688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082935_fa24ddfaf6_o.png",
+      "id_image": "vet_2934976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345466_8804903168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345466_c094732fea_o.png",
+      "id_image": "vet_2935039"
+    }
+  ]
+}

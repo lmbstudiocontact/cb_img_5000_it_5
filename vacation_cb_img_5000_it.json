@@ -1,0 +1,87 @@
+{
+  "english": "vacation",
+  "phat_am": "vəˈkeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kì nghỉ lễ",
+          "definition": "a holiday",
+          "world_new": [
+            "holiday"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a summer vacation.",
+              "world_new": [
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi nghỉ",
+          "definition": "to take a holiday",
+          "world_new": [
+            "holiday"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He vacationed in Paris last year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Individuals do not use personal vacation time but rather the hospital views the week as a regular work week.",
+    "With the increasing popularity of cruise vacations, such outbreaks are likely to affect increasing numbers of people.",
+    "The user may also prefer cheaper vacations and may have desiderata or wishes such as visiting an attraction park in each stop.",
+    "During the summer vacation, they offer intensive courses of various levels.",
+    "If the purpose of the vacation is cultural, then the user would like to visit a museum in each vacation stop, if this is possible.",
+    "The activities of the vacation package should be chosen completely before assignment and configuration of the vacation stops.",
+    "Such respite can allow the care provider to get away for a much-needed vacation.",
+    "Possible excuses include hospitalization, vacation, and spirometer device mechanical or transmission problems."
+  ],
+  "list_see_also": [
+    "on vacation"
+  ],
+  "list_browse": [
+    "vac",
+    "vacancy",
+    "vacant",
+    "vacantly",
+    "vacation",
+    "vaccinate",
+    "vaccination",
+    "vaccine",
+    "vacillate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394922_65aaff1908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394922_79dedecb8c_o.png",
+      "id_image": "vacation_5020622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394892_97085c289e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394892_b3a8a2c5b9_o.png",
+      "id_image": "vacation_5776439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350071_6048d94167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350071_d9a80a44f3_o.png",
+      "id_image": "vacation_5965707"
+    }
+  ]
+}

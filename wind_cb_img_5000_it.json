@@ -1,0 +1,249 @@
+{
+  "english": "wind",
+  "phat_am": "wind",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gió",
+          "definition": "(an) outdoor current of air",
+          "world_new": [
+            "outdoor",
+            "current",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wind is strong today",
+              "world_new": [
+                "strong"
+              ]
+            },
+            {
+              "ex_of_definition": "There wasn’t much wind yesterday",
+              "world_new": [
+                "yesterday"
+              ]
+            },
+            {
+              "ex_of_definition": "Cold winds blow across the desert.",
+              "world_new": [
+                "blow",
+                "across",
+                "desert"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hơi thở",
+          "definition": "breath",
+          "world_new": [
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Climbing these stairs takes all the wind out of me."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đầy bụng",
+          "definition": "air or gas in the stomach or intestines",
+          "world_new": [
+            "air",
+            "gas",
+            "stomach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His stomach pains were due to wind.",
+              "world_new": [
+                "stomach",
+                "due"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khiến ai đứt hơi",
+          "definition": "to cause to be out of breath",
+          "world_new": [
+            "cause",
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heavy blow winded him.",
+              "world_new": [
+                "heavy",
+                "blow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hơi (thuộc nhạc cụ)",
+          "definition": "(of a musical instrument) operated or played using air pressure, especially a person’s breath",
+          "world_new": [
+            "musical",
+            "air",
+            "pressure",
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the wind section of the orchestra.",
+              "world_new": [
+                "section",
+                "orchestra"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cuộn",
+          "definition": "to wrap round in coils",
+          "world_new": [
+            "wrap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wound the rope around his waist and began to climb.",
+              "world_new": [
+                "wound",
+                "rope",
+                "waist",
+                "climb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xoắn",
+          "definition": "to make into a ball or coil",
+          "world_new": [
+            "ball",
+            "coil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wound the wool into a ball.",
+              "world_new": [
+                "wound",
+                "wool",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bao quanh",
+          "definition": "(of a road etc) to twist and turn",
+          "world_new": [
+            "road",
+            "twist",
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road winds up the mountain.",
+              "world_new": [
+                "road",
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên dây cót",
+          "definition": "to tighten the spring of (a clock, watch etc) by turning a knob, handle etc",
+          "world_new": [
+            "tighten",
+            "spring",
+            "clock",
+            "watch",
+            "knob",
+            "handle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I forgot to wind my watch.",
+              "world_new": [
+                "I",
+                "my",
+                "watch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "windward",
+    "windy",
+    "windiness",
+    "windfall",
+    "wind farm",
+    "windmill",
+    "windpipe",
+    "windscreen",
+    "windsock",
+    "windsurf",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "win-win",
+    "win/lose the toss",
+    "wince",
+    "winch",
+    "wind",
+    "wind farm",
+    "wind turbine",
+    "wind up",
+    "wind vane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329286_15d07ea4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329286_822e0f89c2_o.png",
+      "id_image": "wind_1207566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066025_beb61aa641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066025_34262e4c33_o.png",
+      "id_image": "wind_1327631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444248_d72710a62b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444248_b7bf0a4c31_o.png",
+      "id_image": "wind_207740"
+    }
+  ]
+}

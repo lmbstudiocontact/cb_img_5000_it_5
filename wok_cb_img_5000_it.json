@@ -1,0 +1,63 @@
+{
+  "english": "wok",
+  "phat_am": "wok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chảo lòng sâu",
+          "definition": "a large bowl-shaped pan for cooking Chinese food",
+          "world_new": [
+            "large",
+            "cooking",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wok is great for cooking stir-fries.",
+              "world_new": [
+                "great",
+                "cooking"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "So this mechanism just needs to send the various ingredients into the wok accurately at the pre-arranged time.",
+    "So the design of the wok movement mechanism is the key for the robot.",
+    "Figure 4 shows the accelerations of the wok in the x and y directions.",
+    "The wok movement mechanism is the core mechanism of the automatic cooking robot.",
+    "They come round and ask you to look for wok for them as ex-officers.",
+    "During the entire cooking process, the dodol must be constantly stirred in a big wok.",
+    "It was traditionally cooked in small clay pots (\"palayok\"); but in modern times, metal pots or woks (\"kawali\") are used instead.",
+    "The pepper salt, colored dark white to gray, is dry-fried separately in a wok."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "woebegone",
+    "woeful",
+    "woefully",
+    "woefulness",
+    "wok",
+    "wolf",
+    "wolf-cub",
+    "wolf-whistle",
+    "woman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690504_a875a151fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690504_753296da8e_o.png",
+      "id_image": "wok_673564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335276_a9e7b48499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335276_fca0822d50_o.png",
+      "id_image": "wok_688029"
+    }
+  ]
+}

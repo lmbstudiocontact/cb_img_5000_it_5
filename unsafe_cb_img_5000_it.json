@@ -1,0 +1,98 @@
+{
+  "english": "unsafe",
+  "phat_am": "anˈseif",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không an toàn",
+          "definition": "dangerous",
+          "world_new": [
+            "dangerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That rickety old ladder looks rather unsafe.",
+              "world_new": [
+                "rickety",
+                "old",
+                "ladder",
+                "looks",
+                "rather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguy hiểm",
+          "definition": "likely to be harmed",
+          "world_new": [
+            "likely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People feel unsafe walking through the poorly-lit streets at night.",
+              "world_new": [
+                "feel",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không đáng tin cậy",
+          "definition": "not based on reliable or sufficient evidence",
+          "world_new": [
+            "reliable",
+            "sufficient",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His conviction was ruled to be unsafe.",
+              "world_new": [
+                "conviction",
+                "ruled"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, fusion can be selectively applied, as long as sub-terms which are unsafe to fuse can be identified.",
+    "Either unsafe features have to be exploited, or operations like constant time array updates have to be encapsulated in a monad.",
+    "We will not distinguish between deadlocks and unsafe regions.",
+    "The second solution has the advantage that a typecase statement could be provided which would not allow type-unsafe access.",
+    "In fact, it is unsafe to assume that the intensity of direct competition between males should necessarily be reduced in monogamous species.",
+    "The safe period is observed, but this is notoriously unsafe, particularly so in the girl with an irregular cycle.",
+    "The presently available coil techniques, however, are considered unsafe because of risk of unwanted loss of the coil during the embolization maneuver.",
+    "Generalisation from this to spontaneous behaviours in nonexperimental settings is unsafe."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unrivalled",
+    "unroll",
+    "unruliness",
+    "unruly",
+    "unsafe",
+    "unsatisfactory",
+    "unsavoury",
+    "unscramble",
+    "unscrew"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089360_8c13ed0a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089360_b9b4d353f7_o.png",
+      "id_image": "unsafe_3380405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706589_5a0ddbf028_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706589_e9a44efdb5_o.png",
+      "id_image": "unsafe_4628151"
+    }
+  ]
+}

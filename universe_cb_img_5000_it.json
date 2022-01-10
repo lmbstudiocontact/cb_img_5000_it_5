@@ -1,0 +1,76 @@
+{
+  "english": "universe",
+  "phat_am": "ˈjuːnivəːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vũ trụ, vạn vật",
+          "definition": "everything – earth, planets, sun, stars etc – that exists anywhere",
+          "world_new": [
+            "earth",
+            "sun",
+            "anywhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Somewhere in the universe there must be another world like ours.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Isn't the problem therefore more likely to lie with the mathematics than the argument for infinitely many universes ?",
+    "However, if a biological account purports in any way to investigate or explain specifically religious experience, then the two universes have already collided.",
+    "The more perfect universes are more biologically friendly.",
+    "The number of life-bearing universes within the ensemble is then 0i_, which is undefined.",
+    "Then it looks as though the set of life-supporting universes will be of measure zero in the set of possible universes.",
+    "Let us examine the different universes of these two groups, then turn to the other actors.",
+    "Thus, weakly isomorphic algebras require universes of the same size but have no restriction on similarity type.",
+    "Such a definition implies that there was time prior to the universe's beginning."
+  ],
+  "list_see_also": [
+    "universal",
+    "universally",
+    "universality"
+  ],
+  "list_browse": [
+    "unity",
+    "universal",
+    "universality",
+    "universally",
+    "universe",
+    "university",
+    "unjust",
+    "unkind",
+    "unknowingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707239_b67f694ce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707239_6fe4f39d13_o.png",
+      "id_image": "universe_2086511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089845_988b4350f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089845_be1e8dbfd6_o.png",
+      "id_image": "universe_2086588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467158_4d8e6c71f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467158_c75e638067_o.png",
+      "id_image": "universe_5547523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352571_7e80bb821e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352571_f52744ddea_o.png",
+      "id_image": "universe_5547546"
+    }
+  ]
+}

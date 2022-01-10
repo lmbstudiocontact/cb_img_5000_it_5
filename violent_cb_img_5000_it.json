@@ -1,0 +1,77 @@
+{
+  "english": "violent",
+  "phat_am": "ˈvaiələnt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hung dữ",
+          "definition": "having, using, or showing, great force",
+          "world_new": [
+            "great",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a violent storm at sea",
+              "world_new": [
+                "storm",
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "a violent earthquake",
+              "world_new": [
+                "earthquake"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a violent temper.",
+              "world_new": [
+                "temper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hung dữ",
+          "definition": "caused by force",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a violent death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "violently",
+    "violence"
+  ],
+  "list_browse": [
+    "violate",
+    "violation",
+    "violator",
+    "violence",
+    "violent",
+    "violently",
+    "violet",
+    "violin",
+    "violinist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698354_7333cb8509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698354_ef0c32bdb5_o.png",
+      "id_image": "violent_6305773"
+    }
+  ]
+}

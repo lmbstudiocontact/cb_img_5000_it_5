@@ -1,0 +1,87 @@
+{
+  "english": "van",
+  "phat_am": "van",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe tải",
+          "definition": "a small vehicle for carrying goods on roads",
+          "world_new": [
+            "small",
+            "vehicle",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives a van"
+            },
+            {
+              "ex_of_definition": "(also adjective) a van driver",
+              "world_new": [
+                "driver"
+              ]
+            },
+            {
+              "ex_of_definition": "a vanload of waste paper.",
+              "world_new": [
+                "waste",
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The van was driven to waiting trenches.",
+    "A mobile recruiting van accompanied the procession and a fluent bilingual individual acted as broadcaster to spread the message.",
+    "They all had loud background noise and at first none save the neutron van seemed to have much intrinsic liveliness and complexity.",
+    "In this analysis, we excluded instances where van 'is' occurred in obligatory null contexts; similarly, the absence of van when required was not coded in this analysis.",
+    "Household car access identifies whether the respondent lives in a household where there is a car or van available for his personal use.",
+    "The 20-min reactivity protocol was completed in a por table laboratory built into a van parked outside the child's home.",
+    "Car-ownership indicated whether the household had the use of a car or van.",
+    "Less than a mile from the house, the van gently eased off the road and fell on its side in a shallow ditch."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "valueless",
+    "values",
+    "valve",
+    "vampire",
+    "van",
+    "vandal",
+    "vandalism",
+    "vandalize",
+    "vane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348826_3e32c616c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348826_accdb2ac05_o.png",
+      "id_image": "van_256746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393582_a7d85f360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393582_a04d89677c_o.png",
+      "id_image": "van_2819334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703489_a12b235c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703489_5e733872da_o.png",
+      "id_image": "van_2819338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086010_a801bf8294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086010_cc872aab7b_o.png",
+      "id_image": "van_6182883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463468_cc34a64651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463468_71d444932b_o.png",
+      "id_image": "van_6183850"
+    }
+  ]
+}

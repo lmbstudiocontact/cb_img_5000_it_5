@@ -1,0 +1,121 @@
+{
+  "english": "wipe",
+  "phat_am": "waip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sạch",
+          "definition": "to clean or dry by rubbing with a cloth, paper etc",
+          "world_new": [
+            "clean",
+            "dry",
+            "cloth",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you wipe the table for me?",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lau",
+          "definition": "to remove by rubbing with a cloth, paper etc",
+          "world_new": [
+            "remove",
+            "cloth",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child wiped her tears away with her handkerchief",
+              "world_new": [
+                "child",
+                "handkerchief"
+              ]
+            },
+            {
+              "ex_of_definition": "The teacher wiped the writing off (the whiteboard)",
+              "world_new": [
+                "teacher"
+              ]
+            },
+            {
+              "ex_of_definition": "Please wipe up that spilt milk.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lau dọn",
+          "definition": "an act of cleaning by rubbing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give the table a wipe.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are in need of money that these debts may be wiped out, and that further provision shall be made for the ministry.",
+    "A second point is that this is wiping out a form of tax encouragement to saving through life insurance.",
+    "The advanced parts of the algebraic discipline seem to have been wiped out in the process.",
+    "In fact, the legal principle of indiras enshrined this notion of time wiping clean past claims.",
+    "The whole of the opposition under a system of that kind would have been wiped out.",
+    "Before 1666 a ®fth of the population were periodically wiped out by plague epidemics and immigration levels were high, both from home and abroad.",
+    "However, wiping of surfaces without disinfectant and using the same rag elsewhere could actually help to spread the pathogen.",
+    "In this way, the authority of the dynasty shrinks until its influence is wiped out and its identity lost and it is defeated by an attacker."
+  ],
+  "list_see_also": [
+    "wiper",
+    "wipe out"
+  ],
+  "list_browse": [
+    "winter sports",
+    "wintertime",
+    "wintriness",
+    "wintry",
+    "wipe",
+    "wipe out",
+    "wiper",
+    "wire",
+    "wire-netting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451678_7db721f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451678_1c9555656a_o.png",
+      "id_image": "wipe_1619248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381782_d088ec6f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381782_c1eceb8d42_o.png",
+      "id_image": "wipe_3027997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336821_40eac7a365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336821_9b6a2e61c5_o.png",
+      "id_image": "wipe_578005"
+    }
+  ]
+}

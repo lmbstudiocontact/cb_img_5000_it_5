@@ -1,0 +1,81 @@
+{
+  "english": "unlike",
+  "phat_am": "anˈlaik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khác",
+          "definition": "different (from)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I never saw twins who were so unlike (each other)",
+              "world_new": [
+                "I",
+                "saw"
+              ]
+            },
+            {
+              "ex_of_definition": "Unlike poles of a magnet attract each other.",
+              "world_new": [
+                "magnet",
+                "attract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không giống",
+          "definition": "not typical or characteristic of",
+          "world_new": [
+            "typical",
+            "characteristic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is unlike Mary to be so silly.",
+              "world_new": [
+                "silly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike a typical authoritative collection of papers which is common in more traditional areas of economics, this reader-friendly collection provides much food for thought.",
+    "Unlike moderators (which, by definition, are baseline measures), mediators occur after random assignment, exerting their effects during the period of active intervention.",
+    "On the other hand, unlike internationally adopted children, most children exposed to early adversity continue to be exposed to adverse conditions throughout development.",
+    "Unlike w(t), the hyperbolic discount factor is not integrable over an infinite horizon.",
+    "Unlike the point source cases, there was no indication of singularities in the velocity field.",
+    "Unlike a quadratic function of x, it changes more gradually above than below the inflection point.",
+    "Unlike chronic stress, traumatic events can be single occurrences that have a profound impact on the individual and his or her development.",
+    "Unlike in (13), such in (17) does not express class identity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unkind",
+    "unknowingly",
+    "unknown",
+    "unless",
+    "unlike",
+    "unlikely",
+    "unlimited",
+    "unload",
+    "unlock"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352476_4bed4928e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352476_ec067afe21_o.png",
+      "id_image": "unlike_4470910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352451_b52a0a7e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352451_186e799418_o.png",
+      "id_image": "unlike_4567672"
+    }
+  ]
+}
